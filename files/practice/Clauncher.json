@@ -1,0 +1,753 @@
+{
+  "query": "25/131",
+  "results": [
+    {
+      "id": "pk_b1f1b167dc406cae90cdef0cc9c55d2f1aa960c304e04d8afe9d95c324aeb9f102ad4a4828dcb520c53f3003e674",
+      "card_info": {
+        "name": "Clauncher",
+        "clean_name": "Clauncher",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "25/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Gun (10)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.4,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.34,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.04,
+            "mid_price": 0.2,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.15,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165676"
+      },
+      "cardmarket": {
+        "product_name": "Clauncher",
+        "prices": [
+          {
+            "avg": 0.36,
+            "low": 0.12,
+            "avg1": 0.3,
+            "avg7": 0.43,
+            "avg30": 0.36,
+            "trend": 0.43,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.11,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Clauncher-FLI025"
+      }
+    },
+    {
+      "id": "pk_d50d47388fcbd99b9a7cf573b1946d71bc79b93e0becdcdb3fd73cf60ad96d931106955e4cc06a5b4e257c759d31",
+      "card_info": {
+        "name": "Glaceon - 025/131 (Cosmos Holo)",
+        "clean_name": "Glaceon 025 131 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "025/131",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Permeating Chill (30)<br> At the end of your opponent's next turn, put 9 damage counters on the Defending Pokemon.",
+          "[WC] Icicle Missile (70)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.99,
+            "mid_price": 1.99,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:38.119676",
+            "market_price": 1.69,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654644"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_0c9fe868bc5e3d9e7310dea1d4d63b33919f54797a9aa971ae553b8a7c2f5f7acf402bf2f04a8db39e8148e1b57aff",
+      "card_info": {
+        "name": "Octillery",
+        "clean_name": "Octillery",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "025/131",
+        "rarity": null,
+        "card_type": "Water",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Water][Colorless] Hug (40)<br> The Defending Pokémon can't retreat during your opponent's next turn."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 3.99,
+            "high_price": 6.99,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 3,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605522"
+      },
+      "cardmarket": {
+        "product_name": "Octillery",
+        "prices": [
+          {
+            "avg": 1,
+            "low": 0.5,
+            "avg1": 1.99,
+            "avg7": 1.13,
+            "avg30": 1.14,
+            "trend": 1.12,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.5,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Octillery-CP4025"
+      }
+    },
+    {
+      "id": "pk_a860b7ff9463eb5a23812b03332d94c4d633d4734d4d0409b5e54358ebcf356441e3c1c846241093523f220a8a7301",
+      "card_info": {
+        "name": "Croconaw",
+        "clean_name": "Croconaw",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "025/131",
+        "rarity": null,
+        "card_type": "Water",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Water][Colorless][Colorless] Bite (60)"
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/599240"
+      },
+      "cardmarket": {
+        "product_name": "Croconaw",
+        "prices": [
+          {
+            "avg": 1,
+            "low": 0.55,
+            "avg1": 1,
+            "avg7": 1.2,
+            "avg30": 1.1,
+            "trend": 1.36,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Croconaw-smH025"
+      }
+    },
+    {
+      "id": "pk_04143e76f1ebb466c5a4837e4b71802099a2b708cb6e4a083337ee343e61441028f1eeff625ffa4a47659b28c0e99b27",
+      "card_info": {
+        "name": "Sophocles",
+        "clean_name": "Sophocles",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "125/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.49,
+            "high_price": 0.5,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599342"
+      },
+      "cardmarket": {
+        "product_name": "Sophocles",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.19,
+            "avg30": 0.2,
+            "trend": 0.11,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Sophocles"
+      }
+    },
+    {
+      "id": "pk_5568455213a5fdfce3fd323bc40916598147f9bcc955a0b741d015e84af3e7b63bf3084b5a3aacadf8cc504ce9167a59",
+      "card_info": {
+        "name": "Lysandre",
+        "clean_name": "Lysandre",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "125/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.99,
+            "mid_price": 6,
+            "high_price": 7,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605622"
+      },
+      "cardmarket": {
+        "product_name": "Lysandre",
+        "prices": [
+          {
+            "avg": null,
+            "low": 1,
+            "avg1": 4.99,
+            "avg7": 4.99,
+            "avg30": 4.99,
+            "trend": 4.99,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 1,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Lysandre-CP4125"
+      }
+    },
+    {
+      "id": "pk_2028b260deffbc588ba613f35bcd1d241ee792b0aea7ded5b125c2ad0ad09731121d594879355c8a69723a2628bede",
+      "card_info": {
+        "name": "Dialga GX (Full Art)",
+        "clean_name": "Dialga GX Full Art",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "125/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Metal",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Overclock \t\r\n<br>Draw cards until you have 6 cards in your hand.",
+          "[2M] Shred (80)\r\n<br>This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "<span style=\"color:Teal\"><strong>[2MMM] Timeless GX (150)</strong>\r\n<br>Take another turn after this one. <em>(Skip the between turns step.) (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 27,
+            "mid_price": 45.25,
+            "high_price": 256.6,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 34.24,
+            "direct_low_price": 98.34,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165739"
+      },
+      "cardmarket": {
+        "product_name": "Dialga GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 14.98,
+            "avg7": 9.9,
+            "avg30": 8.19,
+            "trend": 10.15,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 39.99,
+            "low": 5,
+            "avg1": 15,
+            "avg7": 30.57,
+            "avg30": 22.46,
+            "trend": 29.9,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dialga-GX-V2-FLI125"
+      }
+    },
+    {
+      "id": "pk_238c523d68c6e01037b51ccccc3b165b9a9ce07ff59b4c830137fdeeed7b313bb5a49e1ea6cb2de8af1f5e8f3bd8a0",
+      "card_info": {
+        "name": "Glaceon",
+        "clean_name": "Glaceon",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "025/131",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Permeating Chill (30)<br> At the end of your opponent's next turn, put 9 damage counters on the Defending Pokemon.",
+          "[WC] Icicle Missile (70)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.3,
+            "high_price": 4321,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.3,
+            "direct_low_price": 0.28,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.35,
+            "direct_low_price": 0.34,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610380"
+      },
+      "cardmarket": {
+        "product_name": "Glaceon",
+        "prices": [
+          {
+            "avg": 0.27,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.27,
+            "avg30": 0.26,
+            "trend": 0.26,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.2,
+            "avg30": 0.24,
+            "trend": 0.18,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glaceon-PRE025"
+      }
+    },
+    {
+      "id": "pk_1b16bf21e626f629aff424e38966d020c8b7207ded5289b88c34c41183b5121d5a1a952680c92c7ff057991daaf5f890",
+      "card_info": {
+        "name": "Professor's Research [Professor Sycamore]",
+        "clean_name": "Professors Research Professor Sycamore",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "125/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.12,
+            "direct_low_price": 0.03,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.16,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610480"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Sycamore",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.09,
+            "trend": 0.06,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Sycamore-PRE125"
+      }
+    },
+    {
+      "id": "pk_d5817d0395803cbc62e6a6f32468d4586d8f05129974318ece360f250616edc0feef30c82ec7b0b3c8c5d163c5efd5",
+      "card_info": {
+        "name": "Glaceon (Poke Ball Pattern)",
+        "clean_name": "Glaceon Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "025/131",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Permeating Chill (30)<br> At the end of your opponent's next turn, put 9 damage counters on the Defending Pokemon.",
+          "[WC] Icicle Missile (70)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.39,
+            "high_price": 999.99,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 1.2,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610554"
+      },
+      "cardmarket": {
+        "product_name": "Glaceon",
+        "prices": [
+          {
+            "avg": 0.27,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.27,
+            "avg30": 0.26,
+            "trend": 0.26,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.2,
+            "avg30": 0.24,
+            "trend": 0.18,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glaceon-PRE025"
+      }
+    },
+    {
+      "id": "pk_57405f4b448473468e3f596f99641d9a74802ae41aef20fde9d632e20643fa48a5eb161a92b7024688d88dd99afe84ed",
+      "card_info": {
+        "name": "Professor's Research [Professor Sycamore] (Poke Ball Pattern)",
+        "clean_name": "Professors Research Professor Sycamore Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "125/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.4,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.42,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610633"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Sycamore",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.09,
+            "trend": 0.06,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Sycamore-PRE125"
+      }
+    },
+    {
+      "id": "pk_c1d1f36e49d3a5d889146cd61b7971be99d760a4c01383970100cb4210aa1694ea38058e8ecabebbd5f429ca8ce877",
+      "card_info": {
+        "name": "Glaceon (Master Ball Pattern)",
+        "clean_name": "Glaceon Master Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "025/131",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Permeating Chill (30)<br> At the end of your opponent's next turn, put 9 damage counters on the Defending Pokemon.",
+          "[WC] Icicle Missile (70)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25.49,
+            "mid_price": 36.76,
+            "high_price": 999.99,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 26.19,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610655"
+      },
+      "cardmarket": {
+        "product_name": "Glaceon",
+        "prices": [
+          {
+            "avg": 0.27,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.27,
+            "avg30": 0.26,
+            "trend": 0.26,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.2,
+            "avg30": 0.24,
+            "trend": 0.18,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glaceon-PRE025"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 12,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 12,
+    "tcg": 12,
+    "cardmarket": 11,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}

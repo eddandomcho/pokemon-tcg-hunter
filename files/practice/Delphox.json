@@ -1,0 +1,654 @@
+{
+  "query": "19/131",
+  "results": [
+    {
+      "id": "pk_8f13066c328db528bf471dd8cab65d4c636f3f6f6146bc92c5136fdde3566658480fa204894ba229b20b1a82e0e3ca",
+      "card_info": {
+        "name": "Delphox",
+        "clean_name": "Delphox",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "019/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "140.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless][Colorless] Blaze Ball (50+)<br> This attack does 20 more damage for each Fire Energy attached to this Pokémon."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 5,
+            "high_price": 5,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 4.5,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605516"
+      },
+      "cardmarket": {
+        "product_name": "Delphox",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.3,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.3,
+            "avg1": 1.9,
+            "avg7": 1.46,
+            "avg30": 1.88,
+            "trend": 1.19,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Delphox-CP4019"
+      }
+    },
+    {
+      "id": "pk_87af6d0c04abd780563a005a9ec565b5a5fdd28c56d313b0f61926e6bec751cc039972b40ec48bd3edf37774d5703922",
+      "card_info": {
+        "name": "Xerosic",
+        "clean_name": "Xerosic",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "119/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.19,
+            "mid_price": 10.57,
+            "high_price": 11.95,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605616"
+      },
+      "cardmarket": {
+        "product_name": "Xerosic",
+        "prices": [
+          {
+            "avg": 1,
+            "low": 0.99,
+            "avg1": 1,
+            "avg7": 1.48,
+            "avg30": 1.48,
+            "trend": 1.73,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.99,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Xerosic"
+      }
+    },
+    {
+      "id": "pk_f85a210db7b96171f5e438d53e3443d195391f812cf7aa9ed00230ea20b477b69bf8bbb5fdb53ab7f5d0d4f661099d",
+      "card_info": {
+        "name": "Slowking",
+        "clean_name": "Slowking",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "019/131",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WCC] Wash the Slate Clean (70)<br> You may put 2 Energy attached to your opponent's Active Pokemon into their hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.04,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.16,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610374"
+      },
+      "cardmarket": {
+        "product_name": "Slowking",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.13,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowking-PRE019"
+      }
+    },
+    {
+      "id": "pk_f9ec81bf4a8c12e659d62fc3b5902563507c629c208e787755d28b73aab8278bf3cf24e70016ccf0da781680433fb1",
+      "card_info": {
+        "name": "Heatmor",
+        "clean_name": "Heatmor",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "019/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Odor Sleuth<br> Flip 2 coins. For each heads, put a card from your discard pile into your hand.",
+          "[Fire][Colorless][Colorless] Searing Flame (60)<br> Your opponent's Active Pokémon is now Burned."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.29,
+            "mid_price": 3.29,
+            "high_price": 3.29,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599234"
+      },
+      "cardmarket": {
+        "product_name": "Heatmor",
+        "prices": [
+          {
+            "avg": 0.3,
+            "low": 0.35,
+            "avg1": 0.39,
+            "avg7": 0.39,
+            "avg30": 0.39,
+            "trend": 0.39,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Heatmor"
+      }
+    },
+    {
+      "id": "pk_b7ce18cd100df2147d39eb22b80c33bf57e0e1485c6e07dc9172597cd2a9a5babf347cbbd783c274b719576d250e190f",
+      "card_info": {
+        "name": "Judge",
+        "clean_name": "Judge",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "119/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.41,
+            "high_price": 0.49,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599335"
+      },
+      "cardmarket": {
+        "product_name": "Judge",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.12,
+            "avg30": 0.12,
+            "trend": 0.06,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Judge"
+      }
+    },
+    {
+      "id": "pk_7258068cf9529b55e7a35496112600bbcaaf2a13fd50f24098c4a08ea9bcdb41a34602563912cd073590a45cf3ed",
+      "card_info": {
+        "name": "Pyroar",
+        "clean_name": "Pyroar",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "19/131",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Unnerve</strong>\r\n<br>Whenever your opponent plays an Item or Supporter card from their hand, prevent all effects of that card done to this Pokémon.",
+        "attacks": [
+          "[2R] Dominating Fangs (80+)\r\n<br>If Lysandre Labs is in play, this attack does 60 more damage."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.5,
+            "high_price": 2,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.15,
+            "mid_price": 0.53,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.57,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165666"
+      },
+      "cardmarket": {
+        "product_name": "Pyroar",
+        "prices": [
+          {
+            "avg": 0.48,
+            "low": 0.05,
+            "avg1": 0.2,
+            "avg7": 0.38,
+            "avg30": 0.67,
+            "trend": 0.66,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.59,
+            "low": 0.09,
+            "avg1": 0.49,
+            "avg7": 0.76,
+            "avg30": 0.68,
+            "trend": 0.81,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Pyroar-FLI19"
+      }
+    },
+    {
+      "id": "pk_703bbd1edf5a9bddb3563be88ee5c51c72ed6bb49bc8295a2853bb1d2c681fdda893b8c207365e185ced3199d4c273",
+      "card_info": {
+        "name": "Palkia GX (Full Art)",
+        "clean_name": "Palkia GX Full Art",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "119/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Spatial Control \r\n<br>Move any number of Energy from your Benched Pokémon to this Pokémon.",
+          "[3] Hydro Pressure (60+)\r\n<br>This attack does 20 more damage times the amount of Water Energy attached to this Pokémon.",
+          "<span style=\"color:Teal\"><strong>[2WWW] Zero Vanish GX (150)</strong>\r\n<br> Shuffle all Energy from each of your opponent's Pokémon into their deck. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.78,
+            "mid_price": 19,
+            "high_price": 65.25,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 18.3,
+            "direct_low_price": 18.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165668"
+      },
+      "cardmarket": {
+        "product_name": "Palkia GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 9.98,
+            "avg7": 7.25,
+            "avg30": 6.65,
+            "trend": 7.94,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 28.47,
+            "low": 5,
+            "avg1": 20,
+            "avg7": 25.96,
+            "avg30": 19.04,
+            "trend": 24.82,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Palkia-GX-V2-FLI119"
+      }
+    },
+    {
+      "id": "pk_ba825a571aa7613df8854769fed3304714a9c09b4758e96ea6a1a1f69de7903ef9077b66ab7cdaff171c432c41c49f0a",
+      "card_info": {
+        "name": "Prime Catcher",
+        "clean_name": "Prime Catcher",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "119/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch in 1 of your opponent's Benched Pokemon to the Active Spot. If you do, switch your Active Pokemon with 1 of your Benched Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.7,
+            "high_price": 4321,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.66,
+            "direct_low_price": 0.6,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610474"
+      },
+      "cardmarket": {
+        "product_name": "Prime Catcher",
+        "prices": [
+          {
+            "avg": 0.67,
+            "low": 0.1,
+            "avg1": 0.72,
+            "avg7": 0.66,
+            "avg30": 0.67,
+            "trend": 0.72,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Prime-Catcher-PRE119"
+      }
+    },
+    {
+      "id": "pk_7e0df5636baec317c550194b12cd17b2482883d6395f84ea19981b600ac68909df2a29c8361182ef30cca6259772ab",
+      "card_info": {
+        "name": "Slowking (Poke Ball Pattern)",
+        "clean_name": "Slowking Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "019/131",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WCC] Wash the Slate Clean (70)<br> You may put 2 Energy attached to your opponent's Active Pokemon into their hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.42,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.39,
+            "direct_low_price": 0.34,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610549"
+      },
+      "cardmarket": {
+        "product_name": "Slowking",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.13,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowking-PRE019"
+      }
+    },
+    {
+      "id": "pk_925722495909351c610ef19dc1c6e84c77685a8f200bf90d900c86c4b88edadd8c7be1245ee12ab95292c8b12c6dae",
+      "card_info": {
+        "name": "Slowking (Master Ball Pattern)",
+        "clean_name": "Slowking Master Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "019/131",
+        "rarity": "Uncommon",
+        "card_type": "Water",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WCC] Wash the Slate Clean (70)<br> You may put 2 Energy attached to your opponent's Active Pokemon into their hand."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.95,
+            "mid_price": 2.43,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 2.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610650"
+      },
+      "cardmarket": {
+        "product_name": "Slowking",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.13,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowking-PRE019"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 10,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 10,
+    "tcg": 10,
+    "cardmarket": 10,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 10
+  }
+}

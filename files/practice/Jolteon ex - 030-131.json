@@ -1,0 +1,644 @@
+{
+  "query": "30/131",
+  "results": [
+    {
+      "id": "pk_1d96f17d108bbd2917a7b55028934e1957abe01413540114976260ef557efdea921edde71795dc30f270156c06fdbf",
+      "card_info": {
+        "name": "Jolteon ex - 030/131",
+        "clean_name": "Jolteon ex",
+        "set_name": "Prize Pack Series Cards",
+        "set_code": "22880",
+        "set_id": "22880",
+        "card_number": "030/131",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[LC] Flashing Spear (60+)<br> You may discard up to 2 Basic Energy from your Benched Pokemon. This attack does 90 more damage for each card you discarded in this way.",
+          "[RWL] Dravite (280)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.5,
+            "mid_price": 27.81,
+            "high_price": 163,
+            "updated_at": "2026-06-07T08:18:28.653306",
+            "market_price": 22.81,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/648666"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_005da0e06e95812ba84699ad362fc88c1c50e52ac54e7cddf95ab644b72bccdcddc9607d007cd3065d76bc2b7d9a18",
+      "card_info": {
+        "name": "Seismitoad EX",
+        "clean_name": "Seismitoad EX",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "030/131",
+        "rarity": null,
+        "card_type": "Water",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Quaking Punch (30)<br> Your opponent can't play any Item cards from his or her hand during his or her next turn.",
+          "[Water][Water][Colorless] Grenade Hammer (130)<br> This attack does 30 damage to 2 of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.99,
+            "mid_price": 6.99,
+            "high_price": 6.99,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 6.34,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605527"
+      },
+      "cardmarket": {
+        "product_name": "Seismitoad EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": 1.99,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 3,
+            "low": 1.99,
+            "avg1": 3,
+            "avg7": 2.53,
+            "avg30": 2.98,
+            "trend": 2.27,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Seismitoad-EX"
+      }
+    },
+    {
+      "id": "pk_79d7e2bad1e489f119aafcca6b64b85c44fd469b37d3e1f453d8b9c1aec7f32a3b056fab044e395c4d92230124be7a29",
+      "card_info": {
+        "name": "Fighting Stadium",
+        "clean_name": "Fighting Stadium",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "130/131",
+        "rarity": null,
+        "card_type": "Trainer - Stadium",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.98,
+            "mid_price": 2.49,
+            "high_price": 2.99,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605627"
+      },
+      "cardmarket": {
+        "product_name": "Fighting Stadium",
+        "prices": [
+          {
+            "avg": null,
+            "low": 3.5,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": null,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 3.5,
+            "avg1": 0.75,
+            "avg7": 0.75,
+            "avg30": 0.75,
+            "trend": 0.75,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Fighting-Stadium"
+      }
+    },
+    {
+      "id": "pk_3b4f9e5a703f9edfba554e138161909075b119ed4fadb340cc068c953c755041fe1bba42f5854d7a847bea3e3064b4",
+      "card_info": {
+        "name": "Jolteon ex - 030/131",
+        "clean_name": "Jolteon ex",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "030/131",
+        "rarity": "Double Rare",
+        "card_type": "Lightning",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[LC] Flashing Spear (60+)<br> You may discard up to 2 Basic Energy from your Benched Pokemon. This attack does 90 more damage for each card you discarded in this way.",
+          "[RWL] Dravite (280)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.75,
+            "mid_price": 4.49,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 4.09,
+            "direct_low_price": 4.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610385"
+      },
+      "cardmarket": {
+        "product_name": "Jolteon ex",
+        "prices": [
+          {
+            "avg": 3.09,
+            "low": 1,
+            "avg1": 2.97,
+            "avg7": 3.24,
+            "avg30": 3.11,
+            "trend": 3.09,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Jolteon-ex-V1-PRE030"
+      }
+    },
+    {
+      "id": "pk_dde591c6524544e3eda524ec9013f8bec2f5fda1278af96026a36e1790b580e27fc656c2e348633ca81bc2956535ec7a",
+      "card_info": {
+        "name": "Mt. Coronet",
+        "clean_name": "Mt Coronet",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "130/131",
+        "rarity": null,
+        "card_type": "Trainer - Stadium",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/599347"
+      },
+      "cardmarket": {
+        "product_name": "Mt. Coronet",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.89,
+            "low": 0.3,
+            "avg1": 0.89,
+            "avg7": 0.57,
+            "avg30": 0.57,
+            "trend": 0.89,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Mt-Coronet"
+      }
+    },
+    {
+      "id": "pk_8f0c99946302e3b3e5b7a1433e451c13e6db73a18776f9625174cfc675e789e9cbcc1fffac75d4514ea3ea9f7dd536",
+      "card_info": {
+        "name": "Pyukumuku",
+        "clean_name": "Pyukumuku",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "030/131",
+        "rarity": null,
+        "card_type": "Water",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Water] Continuous Tumble (30x)<br> Flip a coin until you get tails. This attack does 30 damage for each heads."
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/599245"
+      },
+      "cardmarket": {
+        "product_name": "Pyukumuku",
+        "prices": [
+          {
+            "avg": 0.29,
+            "low": 0.15,
+            "avg1": 0.29,
+            "avg7": 0.29,
+            "avg30": 0.29,
+            "trend": 0.29,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Pyukumuku-smH030"
+      }
+    },
+    {
+      "id": "pk_a72b11b99042dd71f6cb8fa1dbbc391045c2df4014874e89495a21d72486977e02f77733975f8de29d75c797ec40",
+      "card_info": {
+        "name": "Jolteon ex - 030/131 (Prismatic Evolutions Stamp)",
+        "clean_name": "Jolteon ex 030 131 Prismatic Evolutions Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "030/131",
+        "rarity": "Promo",
+        "card_type": "Lightning",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[LC] Flashing Spear (60+)<br> You may discard up to 2 Basic Energy from your Benched Pokemon. This attack does 90 more damage for each card you discarded in this way.",
+          "[RWL] Dravite (280)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.32,
+            "mid_price": 8.96,
+            "high_price": 1000,
+            "updated_at": "2026-06-07T08:18:38.119676",
+            "market_price": 7.77,
+            "direct_low_price": 8.49,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/618095"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_9138d2211f6603341fd9bf01205b171e767b79de1e56b6debf52cf2a06e01fad873ca189f2529bed6c3027d3db73",
+      "card_info": {
+        "name": "Avalugg",
+        "clean_name": "Avalugg",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "30/131",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[2W] Frozen Ground (80)\r\n<br>Your opponent can't play any Stadium cards from their hand during their next turn.",
+          "[3W] Skull Bash (100)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.57,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.58,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.45,
+            "mid_price": 0.75,
+            "high_price": 2.99,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.74,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165681"
+      },
+      "cardmarket": {
+        "product_name": "Avalugg",
+        "prices": [
+          {
+            "avg": 0.39,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.34,
+            "avg30": 0.48,
+            "trend": 0.39,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.94,
+            "low": 0.44,
+            "avg1": 1.42,
+            "avg7": 0.93,
+            "avg30": 0.85,
+            "trend": 1.06,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Avalugg-FLI030"
+      }
+    },
+    {
+      "id": "pk_174610c55aab96c6b6aa72f33fdeb69cea4633ab11a390b0d2de30c5f662b573fd1e070d56c1a2df65d63a5e587e82",
+      "card_info": {
+        "name": "Diantha (Full Art)",
+        "clean_name": "Diantha Full Art",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "130/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can play this card only if 1 of your Fairy Pokémon was Knocked Out during your opponent's last turn.\r\n<br>Put 2 cards from your discard pile into your hand.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 37.17,
+            "mid_price": 43.99,
+            "high_price": 199.99,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 42.12,
+            "direct_low_price": 165.52,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165769"
+      },
+      "cardmarket": {
+        "product_name": "Diantha",
+        "prices": [
+          {
+            "avg": 20.83,
+            "low": 8,
+            "avg1": 10,
+            "avg7": 21.43,
+            "avg30": 24.29,
+            "trend": 19.1,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 15,
+            "avg7": 15.07,
+            "avg30": 10.02,
+            "trend": 14.89,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Diantha-V2-FLI130"
+      }
+    },
+    {
+      "id": "pk_f1c3d8d2f6a9c2fdbbf84eaf99bf84c65e55ce75d8b53db58f19d379ba4420d5dca96d5a6cc6883b6ba77351564a4ef7",
+      "card_info": {
+        "name": "Techno Radar",
+        "clean_name": "Techno Radar",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "130/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Future Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.15,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.13,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.04,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610485"
+      },
+      "cardmarket": {
+        "product_name": "Techno Radar",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "trend": 0.07,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Techno-Radar-PRE130"
+      }
+    },
+    {
+      "id": "pk_f73cb08e09e2ed2016e917acc886dfb6186be5a6fed5389d7eef055324b0f180e30c2862615fbe76b3d8b53eaa774ea6",
+      "card_info": {
+        "name": "Techno Radar (Poke Ball Pattern)",
+        "clean_name": "Techno Radar Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "130/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Future Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.33,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.27,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610636"
+      },
+      "cardmarket": {
+        "product_name": "Techno Radar",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "trend": 0.07,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Techno-Radar-PRE130"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 11,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 11,
+    "cardmarket": 9,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 9
+  }
+}

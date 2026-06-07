@@ -1,0 +1,1302 @@
+{
+  "query": "1/131",
+  "results": [
+    {
+      "id": "pk_43d1f9dc7cbb28a17616ad2d5a66288a69ff60fee639e050bdd981c38726ba1d9db2c396bfcc5d0535d42f03d12d",
+      "card_info": {
+        "name": "Sylveon ex - 041/131 (Prismatic Evolutions Stamp)",
+        "clean_name": "Sylveon ex 041 131 Prismatic Evolutions Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "041/131",
+        "rarity": "Promo",
+        "card_type": "Psychic",
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PCC] Magical Charm (160)<br> During your opponent's next turn, attacks used by the Defending Pokemon do 100 less damage <em>(before applying Weakness and Resistance)</em>.",
+          "[WLP] Angelite<br> Choose 2 of your opponent's Benched Pokemon. Shuffle those Pokemon and all attached cards into your opponent's deck. If 1 of your Pokemon used Angelite during your last turn, this attack can't be used."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.62,
+            "mid_price": 11.99,
+            "high_price": 4321,
+            "updated_at": "2026-06-07T08:18:38.119676",
+            "market_price": 10.24,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/618119"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_57ec8882bfba9c1e9c621460bb13a536215a9056da3239b5fb5fbd131bda617bf4e6f1469885a65e2f2520286d92",
+      "card_info": {
+        "name": "Lucario ex (Prismatic Evolutions Stamp)",
+        "clean_name": "Lucario ex Prismatic Evolutions Stamp",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "051/131",
+        "rarity": "Double Rare",
+        "card_type": "Fighting",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[F] Aura Uppercut (50)",
+          "[FC] Tornado Rush (100)<br> During your next turn, this Pokemon's Tornado Rush attack does 100 more damage <em>(before applying Weakness and Resistance)</em>."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.65,
+            "mid_price": 1.11,
+            "high_price": 4321,
+            "updated_at": "2026-06-07T08:18:38.119676",
+            "market_price": 1.17,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/652715"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c225e181955443ad16d27181cb5c004f744ac0bc2d1e21f94ab53f06eccbb4630d51da38a112b50ac36cc8221ccec4",
+      "card_info": {
+        "name": "Pyroar - 021/131",
+        "clean_name": "Pyroar",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "021/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Fire][Colorless][Colorless] Scorching Fang (60+)<br> You may discard a Fire Energy attached to this Pokémon. If you do, this attack does 30 more damage."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 4.89,
+            "high_price": 5,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 2,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605518"
+      },
+      "cardmarket": {
+        "product_name": "Pyroar",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.49,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 2,
+            "low": 0.5,
+            "avg1": 1.4,
+            "avg7": 0.97,
+            "avg30": 0.97,
+            "trend": 1.76,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Pyroar-V1-CP4021"
+      }
+    },
+    {
+      "id": "pk_028ae5894651ba4c852e5c2c1abf47611a8175007966fc7acfe20220fb3001eac145f771097a909f698ea38d4e034b",
+      "card_info": {
+        "name": "Mewtwo - 051/131",
+        "clean_name": "Mewtwo",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "051/131",
+        "rarity": null,
+        "card_type": "Psychic",
+        "hp": "230.0",
+        "stage": "MegaEX",
+        "card_text": null,
+        "attacks": [
+          "[Psychic][Fighting][Fighting][Colorless] Vanishing Strike (150+)<br> If there is any Stadium card in play, this attack does 50 more damage, and this attack's damage isn't affected by Resistance or any effects on your opponent's Active Pokémon."
+        ],
+        "weakness": "Psychic x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 26,
+            "mid_price": 26,
+            "high_price": 26,
+            "updated_at": "2026-04-16T07:22:26.562361",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605548"
+      },
+      "cardmarket": {
+        "product_name": "MMewtwo EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": 19.9,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 26,
+            "low": 19.9,
+            "avg1": 31.99,
+            "avg7": 40.96,
+            "avg30": 20.68,
+            "trend": 33.3,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/MMewtwo-EX-V1"
+      }
+    },
+    {
+      "id": "pk_006b886b7c8d13743afd12bba0a452a676c4e01879617b4b27ef5c926dbca34d900be0095ca79c3a1e59e757eb1b48",
+      "card_info": {
+        "name": "Turtonator",
+        "clean_name": "Turtonator",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "021/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fire] Searing Flame (10)<br> Your opponent's Active Pokémon is now Burned.",
+          "[Fire][Colorless][Colorless][Colorless] Steam Artillery (100)"
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.89,
+            "mid_price": 3.89,
+            "high_price": 3.89,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599236"
+      },
+      "cardmarket": {
+        "product_name": "Turtonator",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.14,
+            "avg1": 0.2,
+            "avg7": 0.2,
+            "avg30": 0.2,
+            "trend": 0.2,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Turtonator"
+      }
+    },
+    {
+      "id": "pk_e15b0110e345a2e0338b310780ad7abc7f8effba1fe1a50942133d1221a78ad4ee409bee2c909cd2e540077b09de2e",
+      "card_info": {
+        "name": "Giratina EX",
+        "clean_name": "Giratina EX",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "091/131",
+        "rarity": null,
+        "card_type": "Dragon",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Grass][Psychic][Colorless][Colorless] Chaos Wheel (100)<br> Your opponent can't play any Pokémon Tool, Special Energy, or Stadium cards from his or her hand during his or her next turn."
+        ],
+        "weakness": "Fairy x2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 20,
+            "mid_price": 20,
+            "high_price": 20,
+            "updated_at": "2026-06-03T10:16:38.101317",
+            "market_price": 20,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605588"
+      },
+      "cardmarket": {
+        "product_name": "Giratina EX",
+        "prices": [
+          {
+            "avg": 19.99,
+            "low": 16.95,
+            "avg1": 19.99,
+            "avg7": 19.98,
+            "avg30": 16.16,
+            "trend": 19.6,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 16.95,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Giratina-EX-CP4091"
+      }
+    },
+    {
+      "id": "pk_75d972b51d6689f81632319b956c9c57b05c5fb8fbf3e3dee249c04af4bf19b741b89c6edc7416fcfba361402e",
+      "card_info": {
+        "name": "Exeggcute",
+        "clean_name": "Exeggcute",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "1/131",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Multiply\r\n<br>Search your deck for Exeggcute and put it onto your Bench. Then, shuffle your deck."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 1.07,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.1,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.16,
+            "mid_price": 0.45,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.45,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165648"
+      },
+      "cardmarket": {
+        "product_name": "Exeggcute",
+        "prices": [
+          {
+            "avg": 0.39,
+            "low": 0.02,
+            "avg1": 0.35,
+            "avg7": 0.4,
+            "avg30": 0.39,
+            "trend": 0.32,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.31,
+            "avg30": 0.18,
+            "trend": 0.3,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Exeggcute-FLI001"
+      }
+    },
+    {
+      "id": "pk_2b930f3a4996e335bacd39b712ab2e1549617d67de5b50fb7c925cb47c075605862900375223d867309f658d908c",
+      "card_info": {
+        "name": "Pheromosa",
+        "clean_name": "Pheromosa",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "11/131",
+        "rarity": "Holo Rare",
+        "card_type": "Grass",
+        "hp": "110.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] High Jump Kick (20)",
+          "[2G] White Ray (90+)\r\n<br>If you have only 1 Prize card remaining, this attack does 90 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.85,
+            "mid_price": 10.75,
+            "high_price": 79.3,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 8.42,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 7,
+            "mid_price": 9.95,
+            "high_price": 74.14,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 8.01,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165658"
+      },
+      "cardmarket": {
+        "product_name": "Pheromosa",
+        "prices": [
+          {
+            "avg": 13.7,
+            "low": 5,
+            "avg1": 13,
+            "avg7": 10.34,
+            "avg30": 7.76,
+            "trend": 12.17,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 11.5,
+            "low": 5,
+            "avg1": 12.99,
+            "avg7": 10.86,
+            "avg30": 7.5,
+            "trend": 9.85,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Pheromosa-FLI11"
+      }
+    },
+    {
+      "id": "pk_7f202beed176964317fa915427af943deb5ac6d556135e25d441eceb9310016e224619b45ed41c3564a9611d63f1",
+      "card_info": {
+        "name": "Volcanion Prism Star",
+        "clean_name": "Volcanion Prism Star",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "31/131",
+        "rarity": "Prism Rare",
+        "card_type": "Water",
+        "hp": "160.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Jet Geyser</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may discard a Water Energy card from your hand. If you do, your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+        "attacks": [
+          "[WWW] Sauna Blast (100)\r\n<br>This attack does 20 damage to each of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 3.2,
+            "high_price": 49,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 2.73,
+            "direct_low_price": 4.69,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165682"
+      },
+      "cardmarket": {
+        "product_name": "Volcanion ◇",
+        "prices": [
+          {
+            "avg": 2.79,
+            "low": 0.49,
+            "avg1": 3,
+            "avg7": 2.97,
+            "avg30": 2.67,
+            "trend": 2.77,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 5,
+            "low": 2.8,
+            "avg1": 2.5,
+            "avg7": 1.98,
+            "avg30": 3.37,
+            "trend": 2.71,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Volcanion-FLI31"
+      }
+    },
+    {
+      "id": "pk_b9f5e04b55a37a8e1667f59857795bf895d74a9539eb041067ce144dbc78313d62641face4462442139c1b4dc408",
+      "card_info": {
+        "name": "Uxie",
+        "clean_name": "Uxie",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "41/131",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Memory Skip (30)\r\n<br>Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.25,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.26,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.29,
+            "mid_price": 0.64,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.57,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165692"
+      },
+      "cardmarket": {
+        "product_name": "Uxie",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.1,
+            "avg30": 0.16,
+            "trend": 0.1,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.49,
+            "low": 0.1,
+            "avg1": 0.49,
+            "avg7": 0.62,
+            "avg30": 0.63,
+            "trend": 0.62,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Uxie-FLI041"
+      }
+    },
+    {
+      "id": "pk_50faaf516e8d23c9026a0813c5e7251d205af328720d707ff54e32d4c93a9ddb107d2e33a989de39924b7c88f351",
+      "card_info": {
+        "name": "Malamar",
+        "clean_name": "Malamar",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "51/131",
+        "rarity": "Rare",
+        "card_type": "Psychic",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability — Psychic Recharge</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may attach a Psychic Energy card from your discard pile to 1 of your Benched Pokémon.",
+        "attacks": [
+          "[1PP] Psychic Sphere (60)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.7,
+            "mid_price": 1.12,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.15,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.64,
+            "high_price": 501.5,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165701"
+      },
+      "cardmarket": {
+        "product_name": "Malamar",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 0.95,
+            "avg7": 1.26,
+            "avg30": 1.26,
+            "trend": 1.17,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5,
+            "low": 2,
+            "avg1": 5,
+            "avg7": 3.35,
+            "avg30": 2.48,
+            "trend": 3.39,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Malamar-V3-FLI51"
+      }
+    },
+    {
+      "id": "pk_c7d8f6689ae171baa3ac8bcc8e1d7b4a01a42aa83f0b67e384a84127c2351bb6ab2d9a40ee6e8e4a3ee096a7fddc30",
+      "card_info": {
+        "name": "Naganadel GX (Full Art)",
+        "clean_name": "Naganadel GX Full Art",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "121/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Psychic",
+        "hp": "210.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Beast Raid (20×)\r\n<br>This attack does 20 damage for each of your Ultra Beasts in play.",
+          "[2P] Jet Needle (110)\r\n<br>This attack's damage isn't affected by Weakness or Resistance.",
+          "<span style=\"color:DarkRed\"><strong>[3] Stinger GX</strong>\r\n<br>Both players shuffle their Prize cards into their decks. Then, each player puts the top 3 cards of their deck face down as their Prize cards. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.86,
+            "mid_price": 16.09,
+            "high_price": 96.87,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 7.86,
+            "direct_low_price": 15.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165707"
+      },
+      "cardmarket": {
+        "product_name": "Naganadel GX",
+        "prices": [
+          {
+            "avg": 6.96,
+            "low": 2,
+            "avg1": 7.98,
+            "avg7": 7.29,
+            "avg30": 7.4,
+            "trend": 8.23,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 7,
+            "avg7": 7.76,
+            "avg30": 5.96,
+            "trend": 7.22,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Naganadel-GX-V2-FLI121"
+      }
+    },
+    {
+      "id": "pk_c7de29808f825fe1359792047d340ae95580ffcead44076e15881a2c50de455d95f2ec4e537768a9b02d1ce30888",
+      "card_info": {
+        "name": "Gabite",
+        "clean_name": "Gabite",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "61/131",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[F] Ascension \r\n<br>Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "[2] Slash (40)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.4,
+            "high_price": 10,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.34,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.55,
+            "mid_price": 0.8,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.8,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165713"
+      },
+      "cardmarket": {
+        "product_name": "Gabite",
+        "prices": [
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.15,
+            "avg30": 0.16,
+            "trend": 0.17,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.68,
+            "low": 0.3,
+            "avg1": 0.25,
+            "avg7": 0.66,
+            "avg30": 0.58,
+            "trend": 0.53,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Gabite-FLI61"
+      }
+    },
+    {
+      "id": "pk_94b9169c03ddedce587bfb51ead18e590040f1c79e9f70a8855f966a8af37895d679a51d76ce56540630bed4321a",
+      "card_info": {
+        "name": "Zygarde (71)",
+        "clean_name": "Zygarde 71",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "71/131",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "hp": "90.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Earthen Aura</strong>\r\n<br>Damage from this Pokémon's attacks isn't affected by Weakness or Resistance.",
+        "attacks": [
+          "[F] Peace Maker (30+)\r\n<br>If your opponent has an Ultra Beast in play, this attack does 30 more damage."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.26,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.18,
+            "mid_price": 0.46,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.46,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165723"
+      },
+      "cardmarket": {
+        "product_name": "Zygarde",
+        "prices": [
+          {
+            "avg": 0.25,
+            "low": 0.02,
+            "avg1": 0.13,
+            "avg7": 0.15,
+            "avg30": 0.18,
+            "trend": 0.2,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.8,
+            "low": 0.14,
+            "avg1": 2,
+            "avg7": 0.82,
+            "avg30": 1.01,
+            "trend": 1.31,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Zygarde-FLI71"
+      }
+    },
+    {
+      "id": "pk_e36340d37a9ae06943f32334932c99bb04e927dfbe9b1a207b78230b20e446bde3e737f4c320f1a8b4ca6dcbb50d",
+      "card_info": {
+        "name": "Empoleon",
+        "clean_name": "Empoleon",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "81/131",
+        "rarity": "Holo Rare",
+        "card_type": "Metal",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[1M] Total Command (20×)\r\n<br>This attack does 20 damage for each Benched Pokémon <em>(both yours and your opponent's)</em>.",
+          "[1MM] Whirlpool (90)\r\n<br>Discard an Energy from your opponent's Active Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.52,
+            "mid_price": 0.99,
+            "high_price": 1.99,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.82,
+            "direct_low_price": 0.99,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.5,
+            "mid_price": 0.9,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.9,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165737"
+      },
+      "cardmarket": {
+        "product_name": "Empoleon",
+        "prices": [
+          {
+            "avg": 1.28,
+            "low": 0.3,
+            "avg1": 0.92,
+            "avg7": 1.23,
+            "avg30": 1.18,
+            "trend": 1.53,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.29,
+            "low": 0.3,
+            "avg1": 3,
+            "avg7": 1.45,
+            "avg30": 1.11,
+            "trend": 1.74,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Empoleon-FLI81"
+      }
+    },
+    {
+      "id": "pk_2290b70cf796ef5516159a21bb930679a2aeb7f835fa0064d6b123368c61311bee3d86166298f8b063738e5fdf58",
+      "card_info": {
+        "name": "Goomy (91)",
+        "clean_name": "Goomy 91",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "91/131",
+        "rarity": "Common",
+        "card_type": "Dragon",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Sticky Membrane</strong>\r\n<br>As long as this Pokémon is your Active Pokémon, your opponent's Pokémon's attacks cost Colorless Energy more.",
+        "attacks": [
+          "[Y] Ram (10)"
+        ],
+        "weakness": "Yx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.2,
+            "mid_price": 8,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 2.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.26,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165751"
+      },
+      "cardmarket": {
+        "product_name": "Goomy",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.15,
+            "avg30": 0.11,
+            "trend": 0.15,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.5,
+            "low": 0.2,
+            "avg1": 0.75,
+            "avg7": 0.64,
+            "avg30": 0.6,
+            "trend": 0.63,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Goomy-FLI91"
+      }
+    },
+    {
+      "id": "pk_c203a9ccd16fdb8545c4b2e4e7c864a2e3efb2450996a6aca0955badfe3b5b0a6a7af34128debd8d3c24333a791e4c",
+      "card_info": {
+        "name": "Noivern",
+        "clean_name": "Noivern",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "101/131",
+        "rarity": "Rare",
+        "card_type": "Colorless",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[1] Supersonic (20)\r\n<br>Your opponent's Active Pokémon is now Confused.",
+          "[3] Resonance (70+)\r\n<br>If your opponent's Active Pokémon is Confused, this attack does 70 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-20",
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 0.84,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.74,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.23,
+            "mid_price": 0.47,
+            "high_price": 501.5,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.46,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165763"
+      },
+      "cardmarket": {
+        "product_name": "Noivern",
+        "prices": [
+          {
+            "avg": 0.5,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.45,
+            "avg30": 0.48,
+            "trend": 0.46,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.23,
+            "low": 0.3,
+            "avg1": 1.5,
+            "avg7": 1.17,
+            "avg30": 0.88,
+            "trend": 1.06,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Noivern-FLI101"
+      }
+    },
+    {
+      "id": "pk_7e39a9cf932478e570f83cd92ec7da64d5a24fb971ad7613cb88eb76236ee6fe05cf4c83344ef6c99c05876970d22c",
+      "card_info": {
+        "name": "Beast Ring (Secret)",
+        "clean_name": "Beast Ring Secret",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "141/131",
+        "rarity": "Secret Rare",
+        "card_type": "Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can play this card only if your opponent has exactly 3 or 4 Prize cards remaining.\r\n<br>Search your deck for up to 2 basic Energy cards and attach them to 1 of your Ultra Beasts. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.75,
+            "mid_price": 9.75,
+            "high_price": 130,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 9.22,
+            "direct_low_price": 9.55,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165765"
+      },
+      "cardmarket": {
+        "product_name": "Beast Ring",
+        "prices": [
+          {
+            "avg": 9.32,
+            "low": 5,
+            "avg1": 9.99,
+            "avg7": 11.13,
+            "avg30": 9.45,
+            "trend": 10.52,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12,
+            "avg7": 9.76,
+            "avg30": 6.98,
+            "trend": 8.87,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Beast-Ring-V2-FLI141"
+      }
+    },
+    {
+      "id": "pk_c0bdfd0d25bc4e3b545410840f60657f073764eb96dd7ae0f693d9f27070a4b8cd1929231c3e5cdf575f429fe486dd",
+      "card_info": {
+        "name": "Lysandre Labs",
+        "clean_name": "Lysandre Labs",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "111/131",
+        "rarity": "Uncommon",
+        "card_type": "Stadium",
+        "hp": null,
+        "stage": null,
+        "card_text": "Pokémon Tool cards in play <em>(both yours and your opponent's)</em> have no effect.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 1.56,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.17,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.43,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.43,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165774"
+      },
+      "cardmarket": {
+        "product_name": "Lysandre Labs",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.14,
+            "avg30": 0.13,
+            "trend": 0.16,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 0.1,
+            "avg1": 0.16,
+            "avg7": 0.41,
+            "avg30": 0.53,
+            "trend": 0.53,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lysandre-Labs-V1-FLI111"
+      }
+    },
+    {
+      "id": "pk_514b22c76b162b1c599c746b226e96a0fe0d6a0492af693bb16c49860c719608889e1a1cc081bd571d630bc235d108",
+      "card_info": {
+        "name": "Ultra Recon Squad (Full Art)",
+        "clean_name": "Ultra Recon Squad Full Art",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "131/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard up to 2 Ultra Beast cards from your hand. Draw 3 cards for each card you discarded in this way.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 17.79,
+            "mid_price": 19.68,
+            "high_price": 150,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 18.7,
+            "direct_low_price": 27.95,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165776"
+      },
+      "cardmarket": {
+        "product_name": "Ultra Recon Squad",
+        "prices": [
+          {
+            "avg": 23.66,
+            "low": 4.3,
+            "avg1": 49.99,
+            "avg7": 21.48,
+            "avg30": 17.44,
+            "trend": 24.6,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 5,
+            "avg7": 6.03,
+            "avg30": 5.93,
+            "trend": 6.02,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Ultra-Recon-Squad-V2-FLI131"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 82,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 82,
+    "tcg": 82,
+    "cardmarket": 74,
+    "tcg_only": 8,
+    "cardmarket_only": 0,
+    "both_sources": 74
+  }
+}

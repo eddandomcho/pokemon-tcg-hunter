@@ -1,0 +1,1266 @@
+{
+  "query": "2/131",
+  "results": [
+    {
+      "id": "pk_81b4e2385a44ba84d3f4b0cb6a8930a623f046bf7e8ff570075b48cc349c7dd268f81cc9f6c91a2b4b5ae112b73d",
+      "card_info": {
+        "name": "Zygarde - 72/131 (Cosmos Holo)",
+        "clean_name": "Zygarde 72 131 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "072/131",
+        "rarity": "Promo",
+        "card_type": "Fighting",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Glare (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[1FF] Calm Strike (60+)\r\n<br>If you have used your GX attack, this attack does 60 more damage."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.92,
+            "mid_price": 6.67,
+            "high_price": 96.95,
+            "updated_at": "2026-06-07T08:18:38.119676",
+            "market_price": 5.27,
+            "direct_low_price": 8.39,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/167222"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_2aff1d9fdc7591c5e0f86409d23aa058ee0d9d7cb063ea4b6bca643bd7f1cbaf1b0acb13b018ed3e7b32ae19bf78",
+      "card_info": {
+        "name": "Vaporeon - 022/131 (Cosmos Holo)",
+        "clean_name": "Vaporeon 022 131 Cosmos Holo",
+        "set_name": "Miscellaneous Cards & Products",
+        "set_code": "MCAP",
+        "set_id": "2374",
+        "card_number": "022/131",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Spiral Drain (30)<br> Heal 30 damage from this Pokemon.",
+          "[WCC] Fighting Whirlpool (90+)<br> If your opponent's Active Pokemon is a Pokemon ex or Pokemon V, this attack does 90 more damage."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 1.09,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:38.119676",
+            "market_price": 0.96,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/654776"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e6fa6983c3e7e3151dd8f513a93b99d4df1e550c3714cf76adcb2ae0b91b3acba724afef80d93a09e87e54b77ef99ebb",
+      "card_info": {
+        "name": "Trainers' Mail",
+        "clean_name": "Trainers Mail",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "102/131",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/605599"
+      },
+      "cardmarket": {
+        "product_name": "Trainers' Mail",
+        "prices": [
+          {
+            "avg": 3.99,
+            "low": 2.99,
+            "avg1": 3.99,
+            "avg7": 3.71,
+            "avg30": 2.91,
+            "trend": 8.29,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 2.99,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Trainers-Mail-CP4102"
+      }
+    },
+    {
+      "id": "pk_74ec8880c0a8bc7a58e724e99ad38210854930e2eeb339df043e01fa13c74cc760430333a481354feea024701479b6",
+      "card_info": {
+        "name": "Pyroar - 022/131",
+        "clean_name": "Pyroar",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "022/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "110.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Fire][Fire][Fire][Colorless] Inferno Onrush (110)<br> This Pokémon does 30 damage to itself."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 5,
+            "high_price": 6.49,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605519"
+      },
+      "cardmarket": {
+        "product_name": "Pyroar",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.49,
+            "avg1": 1.5,
+            "avg7": 1.15,
+            "avg30": 1.26,
+            "trend": 1.05,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.49,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Pyroar-V2-CP4022"
+      }
+    },
+    {
+      "id": "pk_ee05d735045a8fa1ee1410a1067c8dd000ebf531c273bbd912e40010fd56f0cd6d51870b3b76979bc20bf53be4a060",
+      "card_info": {
+        "name": "Mewtwo - 052/131",
+        "clean_name": "Mewtwo",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "052/131",
+        "rarity": null,
+        "card_type": "Psychic",
+        "hp": "210.0",
+        "stage": "MegaEX",
+        "card_text": null,
+        "attacks": [
+          "[Colorless][Colorless] Psychic Infinity (10+)<br> This attack does 30 more damage times the amount of Energy attached to both Active Pokémon. This attack's damage isn't affected by Weakness."
+        ],
+        "weakness": "Psychic x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 19.99,
+            "mid_price": 19.99,
+            "high_price": 19.99,
+            "updated_at": "2026-06-05T08:38:49.322417",
+            "market_price": 7.5,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605549"
+      },
+      "cardmarket": {
+        "product_name": "MMewtwo EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": 14.99,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 95,
+            "low": 14.99,
+            "avg1": 35,
+            "avg7": 67.14,
+            "avg30": 41.12,
+            "trend": 60.75,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/MMewtwo-EX-V2"
+      }
+    },
+    {
+      "id": "pk_26b628c8a4a22f95b28c78b3990245807c6b1deb6652889212aadb6027d44a1e486edbac9c8a2008831d6997c862",
+      "card_info": {
+        "name": "Exeggutor",
+        "clean_name": "Exeggutor",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "002/131",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[GC] Mega Drain (50)<br> Heal 30 damage from this Pokemon.",
+          "[GGC] Solar Beam (130)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.08,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.17,
+            "direct_low_price": 0.09,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610357"
+      },
+      "cardmarket": {
+        "product_name": "Exeggutor",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.13,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Exeggutor-PRE002"
+      }
+    },
+    {
+      "id": "pk_a83794ad5c35b6eccc797413a38f86f937f63f120b79deac84325c99ff805aa5109dfca1e17cfd63d8c021ab9f584a",
+      "card_info": {
+        "name": "Scraggy",
+        "clean_name": "Scraggy",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "072/131",
+        "rarity": null,
+        "card_type": "Darkness",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Darkness] Call for Family<br> Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck.",
+          "[Colorless][Colorless] Headbutt (20)"
+        ],
+        "weakness": "Fighting x2",
+        "resistance": "Psychic -20",
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.49,
+            "mid_price": 0.49,
+            "high_price": 0.49,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599288"
+      },
+      "cardmarket": {
+        "product_name": "Scraggy",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.13,
+            "avg1": 0.15,
+            "avg7": 0.14,
+            "avg30": 0.17,
+            "trend": 0.11,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Scraggy"
+      }
+    },
+    {
+      "id": "pk_03ab8d28209ffb3ed6ce411429229bd897bf2522e05b1f0443144d001f26f5afa9cd771664872528f247763f2da79c",
+      "card_info": {
+        "name": "Manectric EX",
+        "clean_name": "Manectric EX",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "042/131",
+        "rarity": null,
+        "card_type": "Lightning",
+        "hp": "170.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Overrun (20)<br> This attack does 20 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[Lightning][Colorless] Assault Laser (60+)<br> If your opponent's Active Pokémon has a Pokémon Tool card attached to it, this attack does 60 more damage."
+        ],
+        "weakness": "Fighting x2",
+        "resistance": "Metal -20",
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.99,
+            "mid_price": 52,
+            "high_price": 100,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 3.15,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605539"
+      },
+      "cardmarket": {
+        "product_name": "Manectric EX",
+        "prices": [
+          {
+            "avg": null,
+            "low": 1.5,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.8,
+            "low": 1.5,
+            "avg1": 1.8,
+            "avg7": 2.57,
+            "avg30": 3.46,
+            "trend": 2.96,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Manectric-EX"
+      }
+    },
+    {
+      "id": "pk_82dd910c78a537ceae69f9ae76d17ba52c8c042e59a161c25cf67050fb8ee5647d2ac1baa806cea4fcbbdd9a169ac0",
+      "card_info": {
+        "name": "Groudon EX",
+        "clean_name": "Groudon EX",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "072/131",
+        "rarity": null,
+        "card_type": "Fighting",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fighting][Colorless] Rip Claw (30)<br> Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+          "[Fighting][Fighting][Fighting][Colorless] Massive Rend (130)"
+        ],
+        "weakness": "Grass x2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 30,
+            "mid_price": 32.48,
+            "high_price": 34.95,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 34.94,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605569"
+      },
+      "cardmarket": {
+        "product_name": "Groudon EX",
+        "prices": [
+          {
+            "avg": 12.33,
+            "low": 10,
+            "avg1": 15,
+            "avg7": 10.07,
+            "avg30": 7.42,
+            "trend": 10.33,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 10,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Groudon-EX"
+      }
+    },
+    {
+      "id": "pk_d8c6a59d29a1401c5fef05b3aa4b187e60de5c1294825a60c5467a1d601915e841b17b0c4fced3173456209e989cb83d",
+      "card_info": {
+        "name": "Shauna",
+        "clean_name": "Shauna",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "122/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 4.5,
+            "high_price": 5,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605619"
+      },
+      "cardmarket": {
+        "product_name": "Shauna",
+        "prices": [
+          {
+            "avg": 0.39,
+            "low": 0.5,
+            "avg1": 0.39,
+            "avg7": 2.15,
+            "avg30": 2.16,
+            "trend": 1.65,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.5,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Shauna"
+      }
+    },
+    {
+      "id": "pk_d9283a6caa996897fdb9b447675500875cf3ad5b8ddd43e0a8ec1b9f405661983d901fd74f105092646bcf23dd",
+      "card_info": {
+        "name": "Alolan Exeggutor",
+        "clean_name": "Alolan Exeggutor",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "2/131",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "hp": "160.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Tropical Shake (20+)\r\n<br>This attack does 20 more damage for each type of basic Energy card in your discard pile. You can't add more than 100 damage in this way."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.83,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.83,
+            "direct_low_price": 0.53,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.23,
+            "mid_price": 0.59,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.62,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165649"
+      },
+      "cardmarket": {
+        "product_name": "Alolan Exeggutor",
+        "prices": [
+          {
+            "avg": 0.57,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.54,
+            "avg30": 0.55,
+            "trend": 0.52,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.73,
+            "low": 0.19,
+            "avg1": 0.95,
+            "avg7": 0.75,
+            "avg30": 0.88,
+            "trend": 0.64,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Alolan-Exeggutor-V1-FLI002"
+      }
+    },
+    {
+      "id": "pk_fed73b454c806c06464850450e22b82287308de0df806bb674775d0d218091e4565b88677c75782c174ac1a49973",
+      "card_info": {
+        "name": "Alolan Marowak",
+        "clean_name": "Alolan Marowak",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "12/131",
+        "rarity": "Rare",
+        "card_type": "Fire",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[0] Limbo Limbo\r\n<br>Search your deck for up to 2 basic Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "[2] Alolan Club (20x)\r\n<br>This attack does 20 damage for each of your Pokémon in play that has Alolan in its name."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.66,
+            "high_price": 3.42,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.66,
+            "direct_low_price": 0.43,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.5,
+            "mid_price": 1.25,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.27,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165659"
+      },
+      "cardmarket": {
+        "product_name": "Alolan Marowak",
+        "prices": [
+          {
+            "avg": 0.5,
+            "low": 0.02,
+            "avg1": 1,
+            "avg7": 0.55,
+            "avg30": 0.56,
+            "trend": 0.61,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.62,
+            "low": 0.1,
+            "avg1": 1,
+            "avg7": 1.92,
+            "avg30": 1.22,
+            "trend": 1.5,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Alolan-Marowak-FLI012"
+      }
+    },
+    {
+      "id": "pk_0a6b7b616da41ed8bfc10a8af917ee61f9b5b252fa8915d37f2f3c17f71444209710aa351be5bf94c5a8a7a29e93fb",
+      "card_info": {
+        "name": "Palkia GX (Secret)",
+        "clean_name": "Palkia GX Secret",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "132/131",
+        "rarity": "Secret Rare",
+        "card_type": "Water",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Spatial Control \r\n<br>Move any number of Energy from your Benched Pokémon to this Pokémon.",
+          "[3] Hydro Pressure (60+)\r\n<br>This attack does 20 more damage times the amount of Water Energy attached to this Pokémon.",
+          "<span style=\"color:Teal\"><strong>[2WWW] Zero Vanish GX (150)</strong>\r\n<br> Shuffle all Energy from each of your opponent's Pokémon into their deck. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 36.12,
+            "mid_price": 41.73,
+            "high_price": 405.4,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 41.03,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165669"
+      },
+      "cardmarket": {
+        "product_name": "Palkia GX",
+        "prices": [
+          {
+            "avg": 44,
+            "low": 14.89,
+            "avg1": 36,
+            "avg7": 43.24,
+            "avg30": 36.83,
+            "trend": 41.48,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 29.99,
+            "avg7": 23.52,
+            "avg30": 16.91,
+            "trend": 21.25,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Palkia-GX-V3-FLI132"
+      }
+    },
+    {
+      "id": "pk_795499dc943c44791cf0fc9758d77294037444c558dcc44cc69bd89df3a6bf9afb7d62a0eca199238e030f2bf21c",
+      "card_info": {
+        "name": "Froakie (22)",
+        "clean_name": "Froakie 22",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "22/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Rain Splash (10)",
+          "[1W] Wave Splash (20)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.61,
+            "mid_price": 0.95,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.12,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.06,
+            "mid_price": 0.3,
+            "high_price": 1.67,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.3,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165671"
+      },
+      "cardmarket": {
+        "product_name": "Froakie",
+        "prices": [
+          {
+            "avg": 0.86,
+            "low": 0.3,
+            "avg1": 0.96,
+            "avg7": 0.74,
+            "avg30": 0.83,
+            "trend": 0.62,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.14,
+            "avg30": 0.15,
+            "trend": 0.13,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Froakie-FLI022"
+      }
+    },
+    {
+      "id": "pk_27d1bb9b60ad866434d6410adf9b9771831e0da68ad899945c1180757cd597e187600fca7ebfa0b264c4ff7a7799",
+      "card_info": {
+        "name": "Dewpider",
+        "clean_name": "Dewpider",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "32/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[1] Gnaw (10)",
+          "[W] Spider Web\r\n<br>The Defending Pokémon can't retreat during your opponent's next turn."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.36,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.2,
+            "high_price": 2.29,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.17,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165683"
+      },
+      "cardmarket": {
+        "product_name": "Dewpider",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "trend": 0.12,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.45,
+            "low": 0.15,
+            "avg1": 0.45,
+            "avg7": 0.45,
+            "avg30": 0.41,
+            "trend": 0.43,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dewpider-FLI032"
+      }
+    },
+    {
+      "id": "pk_844243db3e1c50bd79191ba90d2f8d4a1cf0846e4884685673fb48e28a1ca75d8a6aa3d92c9732c8b58808c901c0",
+      "card_info": {
+        "name": "Mesprit",
+        "clean_name": "Mesprit",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "42/131",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability — Silent Waves</strong>\r\n<br>If you have Azelf in play, your opponent's Pokémon in play have no Resistance.",
+        "attacks": [
+          "[2] Mind Splash (20+)\r\n<br>If Uxie is on your Bench, this attack does 50 more damage."
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.31,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.33,
+            "direct_low_price": 0.23,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.64,
+            "mid_price": 0.79,
+            "high_price": 3.64,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.45,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165693"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_c36c48120223b92cf9cddd114ffb174c6055d613e207d1bf24c6a6d13e1468ee5817408dc00350d8977f4577e732",
+      "card_info": {
+        "name": "Skrelp",
+        "clean_name": "Skrelp",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "52/131",
+        "rarity": "Common",
+        "card_type": "Psychic",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Hook (10)"
+        ],
+        "weakness": "Px2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.2,
+            "high_price": 2.16,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.17,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.1,
+            "mid_price": 0.36,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165702"
+      },
+      "cardmarket": {
+        "product_name": "Skrelp",
+        "prices": [
+          {
+            "avg": 0.17,
+            "low": 0.09,
+            "avg1": 0.3,
+            "avg7": 0.19,
+            "avg30": 0.24,
+            "trend": 0.2,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "trend": 0.12,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Skrelp-FLI052"
+      }
+    },
+    {
+      "id": "pk_a486c9c4970a94c04026846ae7c27c4ae8c1e7af6810a588bb407554c961fe2d41d8869036024dd782e723a52f27",
+      "card_info": {
+        "name": "Garchomp",
+        "clean_name": "Garchomp",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "62/131",
+        "rarity": "Holo Rare",
+        "card_type": "Fighting",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[2] Quick Dive \r\n<br>This attack does 50 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon)</em>",
+          "[2F] Royal Blades (100+)\r\n<br>If you played Cynthia from your hand during this turn, this attack does 100 more damage."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.93,
+            "mid_price": 5.74,
+            "high_price": 44.7,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 3.1,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 1.89,
+            "mid_price": 3.14,
+            "high_price": 96.94,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 3.01,
+            "direct_low_price": 3.32,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165714"
+      },
+      "cardmarket": {
+        "product_name": "Garchomp",
+        "prices": [
+          {
+            "avg": 1.84,
+            "low": 0.65,
+            "avg1": 0.81,
+            "avg7": 1.76,
+            "avg30": 1.59,
+            "trend": 1.74,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.65,
+            "low": 0.5,
+            "avg1": 0.99,
+            "avg7": 1.84,
+            "avg30": 1.77,
+            "trend": 1.51,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Garchomp-FLI62"
+      }
+    },
+    {
+      "id": "pk_03b7c10d089d6d70148c61771ec67d84d13d750ba00613a67c972b2be1a94a034d66b34911d9606920a40a5fa531",
+      "card_info": {
+        "name": "Zygarde (72)",
+        "clean_name": "Zygarde 72",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "72/131",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Glare (20)\r\n<br>Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "[1FF] Calm Strike (60+)\r\n<br>If you have used your GX attack, this attack does 60 more damage."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.57,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.6,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.25,
+            "mid_price": 0.4,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.34,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165724"
+      },
+      "cardmarket": {
+        "product_name": "Zygarde",
+        "prices": [
+          {
+            "avg": 0.59,
+            "low": 0.02,
+            "avg1": 0.6,
+            "avg7": 0.41,
+            "avg30": 0.59,
+            "trend": 0.79,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.35,
+            "low": 0.4,
+            "avg1": 0.1,
+            "avg7": 0.79,
+            "avg30": 1.14,
+            "trend": 1.39,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Zygarde-FLI072"
+      }
+    },
+    {
+      "id": "pk_806f83c4ec2f3e218feeb6e52ea10a09384948cf2397af25d3563b29eb8e8fda6733ac741ea2b44efb609acd342a",
+      "card_info": {
+        "name": "Dialga GX",
+        "clean_name": "Dialga GX",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "82/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Metal",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[M] Overclock \t\r\n<br>Draw cards until you have 6 cards in your hand.",
+          "[2M] Shred (80)\r\n<br>This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "<span style=\"color:Teal\"><strong>[2MMM] Timeless GX (150)</strong>\r\n<br>Take another turn after this one. <em>(Skip the between turns step.) (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Rx2",
+        "resistance": "P-20",
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.99,
+            "mid_price": 7.8,
+            "high_price": 4321,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 7.49,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165738"
+      },
+      "cardmarket": {
+        "product_name": "Dialga GX",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 2,
+            "avg7": 4.96,
+            "avg30": 4.32,
+            "trend": 5.76,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 9,
+            "low": 3.5,
+            "avg1": 11.95,
+            "avg7": 8.75,
+            "avg30": 7.81,
+            "trend": 8.91,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Dialga-GX-V1-FLI82"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 82,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 82,
+    "tcg": 82,
+    "cardmarket": 73,
+    "tcg_only": 9,
+    "cardmarket_only": 0,
+    "both_sources": 73
+  }
+}

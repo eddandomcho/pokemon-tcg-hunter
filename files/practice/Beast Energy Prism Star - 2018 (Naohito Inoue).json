@@ -1,0 +1,587 @@
+{
+  "query": "17/131",
+  "results": [
+    {
+      "id": "pk_4d4b2e8f9c51818a411010d1c3c2e44797e009d16fde05749c7316b8b2053255345ded12b481a6bc3de1eaf265d86b",
+      "card_info": {
+        "name": "Beast Energy Prism Star - 2018 (Naohito Inoue)",
+        "clean_name": "Beast Energy Prism Star 2018 Naohito Inoue",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "117/131",
+        "rarity": "Uncommon",
+        "card_type": "Special Energy",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card provides 1 Colorless Energy.\r\n<br>While this card is attached to an Ultra Beast, it provides every type of Energy but provides only 1 Energy at a time. The attacks of the Ultra Beast this card is attached to do 30 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.92,
+            "mid_price": 8,
+            "high_price": 93.4,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 2.02,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/481934"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_e71834d149835ecfb053d92194de0262751e6bc3aeadff38176d8c869ee66d084edd8053615310e809948dbf2d498e",
+      "card_info": {
+        "name": "Beast Energy Prism Star - 2019 (Shintaro Ito)",
+        "clean_name": "Beast Energy Prism Star 2019 Shintaro Ito",
+        "set_name": "World Championship Decks",
+        "set_code": "WCD",
+        "set_id": "2282",
+        "card_number": "117/131",
+        "rarity": "Uncommon",
+        "card_type": "Special Energy",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card provides 1 Colorless Energy.\r\n<br>While this card is attached to an Ultra Beast, it provides every type of Energy but provides only 1 Energy at a time. The attacks of the Ultra Beast this card is attached to do 30 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.16,
+            "mid_price": 1.1,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.33,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/482038"
+      },
+      "cardmarket": null
+    },
+    {
+      "id": "pk_47ec39ccc8a6a056eeb38aa6341c0cd64854b215878b57285f868937c46c71164d54f12a21f1471426f3ac9ea543",
+      "card_info": {
+        "name": "Delphox",
+        "clean_name": "Delphox",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "17/131",
+        "rarity": "Holo Rare",
+        "card_type": "Fire",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Mystical Torch</strong>\r\n<br>Once during your turn <em>(before your attack)</em>, you may leave your opponent's Active Pokémon Burned.",
+        "attacks": [
+          "[2RR] Fire Spin (150)\r\n<br>Discard 2 Energy from this Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.37,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.37,
+            "direct_low_price": 18.15,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.99,
+            "mid_price": 1.68,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.64,
+            "direct_low_price": 1.89,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165664"
+      },
+      "cardmarket": {
+        "product_name": "Delphox",
+        "prices": [
+          {
+            "avg": 1.11,
+            "low": 0.15,
+            "avg1": 0.99,
+            "avg7": 1.04,
+            "avg30": 1,
+            "trend": 1.05,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.73,
+            "low": 0.5,
+            "avg1": 1.45,
+            "avg7": 1.37,
+            "avg30": 1.08,
+            "trend": 1.12,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Delphox-FLI17"
+      }
+    },
+    {
+      "id": "pk_bb854906ca8184e325973ca81979f3f9393e13f36d1db091f88bd522d6779e514b189aed02c967233401ead82774cf",
+      "card_info": {
+        "name": "Fennekin",
+        "clean_name": "Fennekin",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "017/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fire] Will-O-Wisp (20)"
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 2.62,
+            "high_price": 4,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 2.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605514"
+      },
+      "cardmarket": {
+        "product_name": "Fennekin",
+        "prices": [
+          {
+            "avg": 0.8,
+            "low": 0.39,
+            "avg1": 0.7,
+            "avg7": 0.86,
+            "avg30": 0.81,
+            "trend": 0.93,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.39,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Fennekin"
+      }
+    },
+    {
+      "id": "pk_25c5924a1bac9113a4a605c63b25f754cd8b98a7aa9c3123af3f934d356d3e237713d916e4f72dff9cdb36f97e7bbe",
+      "card_info": {
+        "name": "Hearthflame Mask Ogerpon ex - 017/131",
+        "clean_name": "Hearthflame Mask Ogerpon ex",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "017/131",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[RCC] Wrathful Hearth (20x)<br> This attack does 20 damage for each damage counter on this Pokemon.",
+          "[RRR] Dynamic Blaze (140+)<br> If your opponent's Active Pokemon is an Evolution Pokemon, this attack does 140 more damage, and discard all Energy from this Pokemon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.84,
+            "high_price": 9999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.7,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610372"
+      },
+      "cardmarket": {
+        "product_name": "Hearthflame Mask Ogerpon ex",
+        "prices": [
+          {
+            "avg": 0.67,
+            "low": 0.2,
+            "avg1": 0.84,
+            "avg7": 0.7,
+            "avg30": 0.68,
+            "trend": 0.69,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hearthflame-Mask-Ogerpon-ex-V1-PRE017"
+      }
+    },
+    {
+      "id": "pk_0649de5fc8e301c71ad17fb68282b0d96f8abe7cead53fe0d690509a694118ee7fbbd6db325121b5dcd6944dd8e2cadf",
+      "card_info": {
+        "name": "Diantha",
+        "clean_name": "Diantha",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "117/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.75,
+            "mid_price": 1.99,
+            "high_price": 2.99,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599333"
+      },
+      "cardmarket": {
+        "product_name": "Diantha",
+        "prices": [
+          {
+            "avg": 0.25,
+            "low": 0.09,
+            "avg1": 0.25,
+            "avg7": 0.36,
+            "avg30": 0.36,
+            "trend": 0.38,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Diantha"
+      }
+    },
+    {
+      "id": "pk_410503cea019907e12bde31d26e2dbc5e7ca7339cca3638c187a1ace0efc3315cbd52ba5372e06dd967e0d57b64a80",
+      "card_info": {
+        "name": "Pansear",
+        "clean_name": "Pansear",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "017/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fire] Flare (10)"
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5,
+            "mid_price": 5,
+            "high_price": 5,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599232"
+      },
+      "cardmarket": {
+        "product_name": "Pansear",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.03,
+            "avg1": 0.1,
+            "avg7": 0.15,
+            "avg30": 0.16,
+            "trend": 0.18,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Pansear"
+      }
+    },
+    {
+      "id": "pk_74b70d530b7746f5c50e7b665313e44d6a32bd85bff363e07475dc9ca79a22995e0596270a751ffac489de7fa8c7c9c4",
+      "card_info": {
+        "name": "Head Ringer Team Flare Hyper Gear",
+        "clean_name": "Head Ringer Team Flare Hyper Gear",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "117/131",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 39.99,
+            "mid_price": 51.5,
+            "high_price": 63,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605614"
+      },
+      "cardmarket": {
+        "product_name": "Head Ringer Team Flare Hyper Gear",
+        "prices": [
+          {
+            "avg": 2.99,
+            "low": 2,
+            "avg1": 2.99,
+            "avg7": 3.68,
+            "avg30": 3.8,
+            "trend": 3.16,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 2,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Head-Ringer-Team-Flare-Hyper-Gear-CP4117"
+      }
+    },
+    {
+      "id": "pk_3a2e12029f1091f1f731374b13e6849eca3e3e4b1d174d69ebdcc15202b3db15a4635beab20543331a335e9db89bea",
+      "card_info": {
+        "name": "Beast Energy Prism Star",
+        "clean_name": "Beast Energy Prism Star",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "117/131",
+        "rarity": "Prism Rare",
+        "card_type": "Special Energy",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card provides 1 Colorless Energy.\r\n<br>While this card is attached to an Ultra Beast, it provides every type of Energy but provides only 1 Energy at a time. The attacks of the Ultra Beast this card is attached to do 30 more damage to your opponent's Active Pokémon <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.7,
+            "mid_price": 1.33,
+            "high_price": 5,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.33,
+            "direct_low_price": 1.58,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165779"
+      },
+      "cardmarket": {
+        "product_name": "Beast Energy ◇",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": null,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": null,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Beast-Energy-V3-FLI117"
+      }
+    },
+    {
+      "id": "pk_9cf9c34bc4d2a1c1ee2fd2abe35b0e26b6ae4d2ddc254e860b404b246e32bd28c797277ed1ea1cbe64dbd57d45724108",
+      "card_info": {
+        "name": "Maximum Belt",
+        "clean_name": "Maximum Belt",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "117/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Pokemon Tool",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attacks used by the Pokemon this card is attached to do 50 more damage to your opponent's Active Pokemon ex <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.69,
+            "high_price": 4321,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.63,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610472"
+      },
+      "cardmarket": {
+        "product_name": "Maximum Belt",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 1.21,
+            "low": 0.1,
+            "avg1": 1.85,
+            "avg7": 1.31,
+            "avg30": 1.21,
+            "trend": 1.43,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Maximum-Belt-PRE117"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 10,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 10,
+    "tcg": 10,
+    "cardmarket": 8,
+    "tcg_only": 2,
+    "cardmarket_only": 0,
+    "both_sources": 8
+  }
+}

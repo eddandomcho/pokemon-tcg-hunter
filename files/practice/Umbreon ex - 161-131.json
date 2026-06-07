@@ -1,0 +1,82 @@
+{
+  "query": "161/131",
+  "results": [
+    {
+      "id": "pk_bc4b6a05b1f2186ed2a171f8d746ec13785b40fc48f95c3856cb4e382ed90915e1fe6c1597b64200094f94f9b94c80af",
+      "card_info": {
+        "name": "Umbreon ex - 161/131",
+        "clean_name": "Umbreon ex",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "161/131",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Darkness",
+        "hp": "280.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[DCC] Moon Mirage (160)<br> Your opponent's Active Pokemon is now Confused.",
+          "[LPD] Onyx<br> Discard all Energy from this Pokemon, and take a Prize card."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1450,
+            "mid_price": 1939.49,
+            "high_price": 5000,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 1557.92,
+            "direct_low_price": 1773.95,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610516"
+      },
+      "cardmarket": {
+        "product_name": "Umbreon ex",
+        "prices": [
+          {
+            "avg": 1149.54,
+            "low": 500,
+            "avg1": 1000,
+            "avg7": 1087.86,
+            "avg30": 1698.34,
+            "trend": 1863.14,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Umbreon-ex-V2-PRE161"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

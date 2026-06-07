@@ -1,0 +1,720 @@
+{
+  "query": "10/131",
+  "results": [
+    {
+      "id": "pk_23f2668dc408880bdc6cd0eaa15baa663bdaa4ac767a886783e4621b585e1d1a11f9d68f9572238a773b1ffd9c58e9d5",
+      "card_info": {
+        "name": "Glass Trumpet (Poke Ball Pattern)",
+        "clean_name": "Glass Trumpet Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "110/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you have any Tera Pokemon in play.<br>Choose up to 2 of your Benched Colorless Pokemon and attach a Basic Energy card from your discard pile to each of them.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.34,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.3,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610621"
+      },
+      "cardmarket": {
+        "product_name": "Glass Trumpet",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.1,
+            "trend": 0.09,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glass-Trumpet-PRE110"
+      }
+    },
+    {
+      "id": "pk_c804526aa37e9f377a2126483f8c82ef399e50feac75be233374cf70da9c50c3873b14f8df00abd5601b2ccee951c0",
+      "card_info": {
+        "name": "Combee",
+        "clean_name": "Combee",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "010/131",
+        "rarity": null,
+        "card_type": "Grass",
+        "hp": "40.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Grass] Bug Bite (10)"
+        ],
+        "weakness": "Fire x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.89,
+            "mid_price": 4.99,
+            "high_price": 4.99,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 4.99,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605507"
+      },
+      "cardmarket": {
+        "product_name": "Combee",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.4,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.89,
+            "low": 0.4,
+            "avg1": 0.7,
+            "avg7": 0.87,
+            "avg30": 0.79,
+            "trend": 0.92,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Combee"
+      }
+    },
+    {
+      "id": "pk_3e7aafbde391ca6d760f9d4d3c6974a97047e63ae86686387b215d079c43c96c2d39af1efe64eca9cb7ff6ce59bf942f",
+      "card_info": {
+        "name": "Groudon Spirit Link",
+        "clean_name": "Groudon Spirit Link",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "110/131",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.5,
+            "mid_price": 10.5,
+            "high_price": 10.5,
+            "updated_at": "2026-04-15T07:22:17.676912",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605607"
+      },
+      "cardmarket": {
+        "product_name": "Groudon Spirit Link",
+        "prices": [
+          {
+            "avg": 10.5,
+            "low": 3.5,
+            "avg1": 10,
+            "avg7": 5.71,
+            "avg30": 5.61,
+            "trend": 6.77,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 3.5,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Groudon-Spirit-Link"
+      }
+    },
+    {
+      "id": "pk_efb1fc3ac9020a490c33c3c94a60e41e8b0b97e64c5d7d11d0ea1efd08ff658d409fd47b08573a2213adf8e8edb18d73",
+      "card_info": {
+        "name": "Nest Ball",
+        "clean_name": "Nest Ball",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "110/131",
+        "rarity": null,
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.9,
+            "high_price": 2.99,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599326"
+      },
+      "cardmarket": {
+        "product_name": "Nest Ball",
+        "prices": [
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.19,
+            "avg30": 0.44,
+            "trend": 0.1,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Nest-Ball"
+      }
+    },
+    {
+      "id": "pk_5a7908363258fae9ea7b99058b1bed6a4f4a0ce9293fb2bae36e11609e793804bc8540ca734ce5609fdda734afc117",
+      "card_info": {
+        "name": "Tapu Bulu",
+        "clean_name": "Tapu Bulu",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "010/131",
+        "rarity": null,
+        "card_type": "Grass",
+        "hp": "130.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Grass][Colorless] Horn Leech (30)<br> Heal 30 damage from this Pokémon.",
+          "[Grass][Colorless][Colorless] Calm Strike (60+)<br> If you used your GX attack, this attack does 60 more damage."
+        ],
+        "weakness": "Fire x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.49,
+            "mid_price": 3.64,
+            "high_price": 3.79,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599225"
+      },
+      "cardmarket": {
+        "product_name": "Tapu Bulu",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.5,
+            "low": 0.5,
+            "avg1": 0.49,
+            "avg7": 0.41,
+            "avg30": 0.41,
+            "trend": 0.58,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Tapu-Bulu"
+      }
+    },
+    {
+      "id": "pk_03e924592f3954bf9a18d9e3919f6b5aeacfa61e4937dffa23780bf1c4f84e2c280a284b3cdf9ef5ef080778924b",
+      "card_info": {
+        "name": "Gogoat",
+        "clean_name": "Gogoat",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "10/131",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Milk Drink \r\n<br>Flip 2 coins. For each heads, heal 40 damage from this Pokémon.",
+          "[2G] Double-Edge (120)\r\n<br>This Pokémon does 30 damage to itself."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.26,
+            "mid_price": 0.5,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.51,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.24,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.19,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165657"
+      },
+      "cardmarket": {
+        "product_name": "Gogoat",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.1,
+            "avg30": 0.08,
+            "trend": 0.13,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.26,
+            "low": 0.09,
+            "avg1": 0.46,
+            "avg7": 0.38,
+            "avg30": 0.39,
+            "trend": 0.45,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Gogoat-FLI010"
+      }
+    },
+    {
+      "id": "pk_b63e0821285526de0219acc9156af3ba8c1a7205b905f168f9ffa8cc854e2d325df8a1242153d750bf940e1b6dac11",
+      "card_info": {
+        "name": "Lysandre Prism Star",
+        "clean_name": "Lysandre Prism Star",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "110/131",
+        "rarity": "Prism Rare",
+        "card_type": "Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "For each of your Fire Pokémon in play, put a card from your opponent's discard pile in the Lost Zone.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165773"
+      },
+      "cardmarket": {
+        "product_name": "Lysandre ◇",
+        "prices": [
+          {
+            "avg": 1.35,
+            "low": 0.4,
+            "avg1": 0.6,
+            "avg7": 1.22,
+            "avg30": 1.41,
+            "trend": 1.25,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": 2,
+            "avg1": 3.75,
+            "avg7": 2.7,
+            "avg30": 1.39,
+            "trend": 2.46,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Lysandre-FLI110"
+      }
+    },
+    {
+      "id": "pk_92c4b6eaed5fb5d9e9e0b2d3068906e2f4a69741ab0cb3497a753536cf1d2af6dbcb2e93f721dd30c7cc310b0643a9",
+      "card_info": {
+        "name": "Dipplin",
+        "clean_name": "Dipplin",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "010/131",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability: Festival Lead</strong> If Festival Grounds is in play, this Pokemon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokemon, you may attack again after your opponent chooses a new Active Pokemon.",
+        "attacks": [
+          "[G] Do the Wave (20x)<br> This attack does 20 damage for each of your Benched Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.22,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.19,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.22,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610365"
+      },
+      "cardmarket": {
+        "product_name": "Dipplin",
+        "prices": [
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.34,
+            "avg7": 0.16,
+            "avg30": 0.14,
+            "trend": 0.15,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.06,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dipplin-PRE010"
+      }
+    },
+    {
+      "id": "pk_7571f16fb2158bfae728db881128b97f198a58c16f2de37fbdbf4dc5918fbb86ab8e72df0aafe3652f70dc53e1f01a5f",
+      "card_info": {
+        "name": "Glass Trumpet",
+        "clean_name": "Glass Trumpet",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "110/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you have any Tera Pokemon in play.<br>Choose up to 2 of your Benched Colorless Pokemon and attach a Basic Energy card from your discard pile to each of them.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.05,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.15,
+            "direct_low_price": 0.13,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610465"
+      },
+      "cardmarket": {
+        "product_name": "Glass Trumpet",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.1,
+            "trend": 0.09,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glass-Trumpet-PRE110"
+      }
+    },
+    {
+      "id": "pk_90273558d9026d16958336221f181e65bcf393a27a7621cb01eaf513e0de4694a8c61b9c9b86028931a4c2be633859",
+      "card_info": {
+        "name": "Dipplin (Poke Ball Pattern)",
+        "clean_name": "Dipplin Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "010/131",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability: Festival Lead</strong> If Festival Grounds is in play, this Pokemon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokemon, you may attack again after your opponent chooses a new Active Pokemon.",
+        "attacks": [
+          "[G] Do the Wave (20x)<br> This attack does 20 damage for each of your Benched Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.45,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.35,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610544"
+      },
+      "cardmarket": {
+        "product_name": "Dipplin",
+        "prices": [
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.34,
+            "avg7": 0.16,
+            "avg30": 0.14,
+            "trend": 0.15,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.06,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dipplin-PRE010"
+      }
+    },
+    {
+      "id": "pk_c0daf47fc342288b44307a1ebe4322518dda43aa31bf45e796ea0bdab1bb10641a15b97e8aa364b91fb365ebc03b4c",
+      "card_info": {
+        "name": "Dipplin (Master Ball Pattern)",
+        "clean_name": "Dipplin Master Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "010/131",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": "<strong>Ability: Festival Lead</strong> If Festival Grounds is in play, this Pokemon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokemon, you may attack again after your opponent chooses a new Active Pokemon.",
+        "attacks": [
+          "[G] Do the Wave (20x)<br> This attack does 20 damage for each of your Benched Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 2.49,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 2.37,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610645"
+      },
+      "cardmarket": {
+        "product_name": "Dipplin",
+        "prices": [
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.34,
+            "avg7": 0.16,
+            "avg30": 0.14,
+            "trend": 0.15,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.06,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dipplin-PRE010"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 11,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 11,
+    "cardmarket": 11,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}

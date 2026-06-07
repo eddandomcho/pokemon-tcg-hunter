@@ -1,0 +1,704 @@
+{
+  "query": "20/131",
+  "results": [
+    {
+      "id": "pk_64ada8cabd242b92da90dab142add2dcc4d3cee235f122c7bad247e010f3c1161a5104c2cca3753b2cff08a036863d",
+      "card_info": {
+        "name": "Goldeen",
+        "clean_name": "Goldeen",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "020/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Festival Lead</strong> If Festival Grounds is in play, this Pokemon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokemon, you may attack again after your opponent chooses a new Active Pokemon.",
+        "attacks": [
+          "[CC] Whirlpool (10)<br> Flip a coin. If heads, discard an Energy from your opponent's Active Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.08,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.22,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610375"
+      },
+      "cardmarket": {
+        "product_name": "Goldeen",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.19,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Goldeen-PRE020"
+      }
+    },
+    {
+      "id": "pk_738a5e9ae7aedad34ab3e1cc392bca2e118d8a0c4427121eb4459a8307f2d3056e56b82330c6a48d258ff8928bdc4328",
+      "card_info": {
+        "name": "Korrina",
+        "clean_name": "Korrina",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "120/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [],
+        "url": "https://www.tcgplayer.com/product/605617"
+      },
+      "cardmarket": {
+        "product_name": "Korrina",
+        "prices": [
+          {
+            "avg": 129.3,
+            "low": 1,
+            "avg1": 129.3,
+            "avg7": 27.26,
+            "avg30": 27.26,
+            "trend": 87.25,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 1,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Korrina"
+      }
+    },
+    {
+      "id": "pk_682d222e97d6d609c77b093bd4d68dc9d136effaf1d71158d2518ae049701e6fe09975108b181a10d536606d83000f",
+      "card_info": {
+        "name": "Litleo",
+        "clean_name": "Litleo",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "020/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fire][Fire][Colorless] Combustion (60)"
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.99,
+            "mid_price": 2.25,
+            "high_price": 5.39,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": 3.55,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605517"
+      },
+      "cardmarket": {
+        "product_name": "Litleo",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.39,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.2,
+            "low": 0.39,
+            "avg1": 1.2,
+            "avg7": 0.64,
+            "avg30": 0.62,
+            "trend": 0.51,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Litleo-CP4020"
+      }
+    },
+    {
+      "id": "pk_bf8fce9df78d735512413a0f4ce806a9e2f2f03755f131e41b3301822ba38423943fa010bfe0d0827a865f2b18f73d5b",
+      "card_info": {
+        "name": "Volkner",
+        "clean_name": "Volkner",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "120/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 1,
+            "high_price": 1,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599336"
+      },
+      "cardmarket": {
+        "product_name": "Volkner",
+        "prices": [
+          {
+            "avg": 0.5,
+            "low": 0.3,
+            "avg1": 0.5,
+            "avg7": 0.41,
+            "avg30": 0.41,
+            "trend": 0.53,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Volkner"
+      }
+    },
+    {
+      "id": "pk_5088238b168b957a9b6bdb4a39a148617bf3c53c5e20fcf20f70c47edfe95308782daa38c309b84c6e44967f849d42",
+      "card_info": {
+        "name": "Fennekin",
+        "clean_name": "Fennekin",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "020/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "60.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[Fire] Ember (30)<br> Discard an Energy from this Pokémon."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 2,
+            "high_price": 2,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599235"
+      },
+      "cardmarket": {
+        "product_name": "Fennekin",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 0.1,
+            "avg1": 0.4,
+            "avg7": 0.38,
+            "avg30": 0.38,
+            "trend": 0.41,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Fennekin"
+      }
+    },
+    {
+      "id": "pk_b577ffe011e566ba59573e86ec12ec92489e6b6aeabb00b3fe26dd122aa9d9fb2410afd1d1beb74bc769c99c7c91",
+      "card_info": {
+        "name": "Palkia GX",
+        "clean_name": "Palkia GX",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "20/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "hp": "180.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Spatial Control \r\n<br>Move any number of Energy from your Benched Pokémon to this Pokémon.",
+          "[3] Hydro Pressure (60+)\r\n<br>This attack does 20 more damage times the amount of Water Energy attached to this Pokémon.",
+          "<span style=\"color:Teal\"><strong>[2WWW] Zero Vanish GX (150)</strong>\r\n<br> Shuffle all Energy from each of your opponent's Pokémon into their deck. <em>(You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.65,
+            "mid_price": 5.09,
+            "high_price": 4321,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 5.09,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165667"
+      },
+      "cardmarket": {
+        "product_name": "Palkia GX",
+        "prices": [
+          {
+            "avg": 5.32,
+            "low": 1.45,
+            "avg1": 1.9,
+            "avg7": 5.09,
+            "avg30": 5.42,
+            "trend": 3.88,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 6.58,
+            "avg7": 6.55,
+            "avg30": 5.8,
+            "trend": 7.27,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Palkia-GX-V1-FLI20"
+      }
+    },
+    {
+      "id": "pk_f33fd68db620eaaedd41d0ea5169b6332599d6074d12ab562e3d2294f1b40230fa1586109006a0880d39fc31806f90",
+      "card_info": {
+        "name": "Greninja GX (Full Art)",
+        "clean_name": "Greninja GX Full Art",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "120/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Water",
+        "hp": "230.0",
+        "stage": "Stage 2",
+        "card_text": "<strong>Ability — Shuriken Flurry</strong>\r\n<br>When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+        "attacks": [
+          "[2W] Haze Slash (110)\r\n<br>You may shuffle this Pokémon and all cards attached to it into your deck.",
+          "<span style=\"color:Teal\"><strong>[2W] Shadowy Hunter GX</strong>\r\n<br>This attack does 130 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)</em></span>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 49.01,
+            "mid_price": 64.02,
+            "high_price": 93.18,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 57.06,
+            "direct_low_price": 64.02,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165674"
+      },
+      "cardmarket": {
+        "product_name": "Greninja GX",
+        "prices": [
+          {
+            "avg": 24.86,
+            "low": 7.49,
+            "avg1": 21.94,
+            "avg7": 26.89,
+            "avg30": 20.08,
+            "trend": 26.87,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": 12.49,
+            "avg7": 12.91,
+            "avg30": 10.66,
+            "trend": 13.39,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Greninja-GX-V2-FLI120"
+      }
+    },
+    {
+      "id": "pk_1a156605fba1b89a155e045a1ac21c93726ab07b614cdfb2a67ca0d2babf3117ce8c9b51c42637127aab009066602bb9",
+      "card_info": {
+        "name": "Professor Sada's Vitality",
+        "clean_name": "Professor Sadas Vitality",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "120/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose up to 2 of your Ancient Pokemon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.14,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.09,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610475"
+      },
+      "cardmarket": {
+        "product_name": "Professor Sada's Vitality",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.07,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Sadas-Vitality-PRE120"
+      }
+    },
+    {
+      "id": "pk_8e85d940059209b6c728f93ac42ae9b953ad0f9dc36319d82b5ed86bda5efffa83d78514a4f4b9c6822721622ed2e8",
+      "card_info": {
+        "name": "Goldeen (Poke Ball Pattern)",
+        "clean_name": "Goldeen Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "020/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Festival Lead</strong> If Festival Grounds is in play, this Pokemon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokemon, you may attack again after your opponent chooses a new Active Pokemon.",
+        "attacks": [
+          "[CC] Whirlpool (10)<br> Flip a coin. If heads, discard an Energy from your opponent's Active Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.47,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.42,
+            "direct_low_price": 0.49,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610550"
+      },
+      "cardmarket": {
+        "product_name": "Goldeen",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.19,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Goldeen-PRE020"
+      }
+    },
+    {
+      "id": "pk_8664fcef9aa9c07a0916b65dbef3eb2f62788ea2e2cd76f41901320142c27e504be158ace9dbbc7df93c0ca0d35bfc4f",
+      "card_info": {
+        "name": "Professor Sada's Vitality (Poke Ball Pattern)",
+        "clean_name": "Professor Sadas Vitality Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "120/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose up to 2 of your Ancient Pokemon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.32,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.26,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610628"
+      },
+      "cardmarket": {
+        "product_name": "Professor Sada's Vitality",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.07,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Sadas-Vitality-PRE120"
+      }
+    },
+    {
+      "id": "pk_cdc707d96f09105c32e6dc4397d01b6ec9449c99318803b01732b2842920292b98de9823499527b7d22f353e25c773",
+      "card_info": {
+        "name": "Goldeen (Master Ball Pattern)",
+        "clean_name": "Goldeen Master Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "020/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "50.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Festival Lead</strong> If Festival Grounds is in play, this Pokemon may use an attack it has twice. If the first attack Knocks Out your opponent's Active Pokemon, you may attack again after your opponent chooses a new Active Pokemon.",
+        "attacks": [
+          "[CC] Whirlpool (10)<br> Flip a coin. If heads, discard an Energy from your opponent's Active Pokemon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.8,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 2.42,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610651"
+      },
+      "cardmarket": {
+        "product_name": "Goldeen",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.19,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Goldeen-PRE020"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 11,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 11,
+    "cardmarket": 11,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}

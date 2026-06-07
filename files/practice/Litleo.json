@@ -1,0 +1,732 @@
+{
+  "query": "18/131",
+  "results": [
+    {
+      "id": "pk_76b79f3daecc03b6347ea834581e69fb518bfcbab3c159ef705c31e9b3bd3a1db93e209baabe3b72d82cde46ad09",
+      "card_info": {
+        "name": "Litleo",
+        "clean_name": "Litleo",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "18/131",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[2] Headbutt (20)"
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15.29,
+            "mid_price": 17.65,
+            "high_price": 20,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.26,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.12,
+            "mid_price": 0.4,
+            "high_price": 19.98,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.4,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165665"
+      },
+      "cardmarket": {
+        "product_name": "Litleo",
+        "prices": [
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.17,
+            "avg30": 0.16,
+            "trend": 0.28,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.18,
+            "low": 0.15,
+            "avg1": 2,
+            "avg7": 1.11,
+            "avg30": 0.64,
+            "trend": 1.15,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Litleo-FLI018"
+      }
+    },
+    {
+      "id": "pk_f1abe3c65f426b106cfd54aaefdd1f87c26843806e86618270eca93446d7f7c48cd0caeff6fad2ac0f3d6e84d1a0c5",
+      "card_info": {
+        "name": "Slowpoke",
+        "clean_name": "Slowpoke",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "018/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Gun (10)",
+          "[WC] Tail Whap (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.23,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.09,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610373"
+      },
+      "cardmarket": {
+        "product_name": "Slowpoke",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.12,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowpoke-PRE018"
+      }
+    },
+    {
+      "id": "pk_98b015efbb6192ba7a58368a60042c59fee3bc8ca21fd1cd00cf31f35a87d2ef2b0cdee1fd940794d69d71b8d49393",
+      "card_info": {
+        "name": "Braixen",
+        "clean_name": "Braixen",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "018/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Clairvoyant Eye<br> Look at the top 3 cards of your deck and put them back on top of your deck in any order.",
+          "[Fire][Colorless] Fire Tail Slap (40)<br> Discard a Fire Energy attached to this Pokémon."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.99,
+            "mid_price": 2.52,
+            "high_price": 4.95,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605515"
+      },
+      "cardmarket": {
+        "product_name": "Braixen",
+        "prices": [
+          {
+            "avg": null,
+            "low": 0.39,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.7,
+            "low": 0.39,
+            "avg1": 0.7,
+            "avg7": 0.7,
+            "avg30": 0.81,
+            "trend": 0.57,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Braixen"
+      }
+    },
+    {
+      "id": "pk_096ebc21b48ce6e0feb29b618df371febba3f32c2b8075456fe1af2f375a78d7ba14eefce56791f79d6a96b3ff8a2135",
+      "card_info": {
+        "name": "Brigette",
+        "clean_name": "Brigette",
+        "set_name": "CP4: Premium Champion Pack",
+        "set_code": "CP4",
+        "set_id": "23972",
+        "card_number": "118/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4,
+            "mid_price": 4.5,
+            "high_price": 5,
+            "updated_at": "2026-06-07T08:18:41.300825",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/605615"
+      },
+      "cardmarket": {
+        "product_name": "Brigette",
+        "prices": [
+          {
+            "avg": 3,
+            "low": 2.48,
+            "avg1": 3,
+            "avg7": 2.69,
+            "avg30": 2.69,
+            "trend": 2.65,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": null,
+            "low": 2.48,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Premium-Champion-Pack/Brigette"
+      }
+    },
+    {
+      "id": "pk_fdf60f09f4cb71fe983cf1e73b86be8f87163f9445c989feb4df3254aa7dc28408c736983c43fdc90270b7a4367e3e",
+      "card_info": {
+        "name": "Simisear",
+        "clean_name": "Simisear",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "018/131",
+        "rarity": null,
+        "card_type": "Fire",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[Colorless] Scratch (30)",
+          "[Fire][Colorless] Flare Recharge (50)<br> Attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon."
+        ],
+        "weakness": "Water x2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.39,
+            "mid_price": 4.2,
+            "high_price": 5,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": null,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599233"
+      },
+      "cardmarket": {
+        "product_name": "Simisear",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.2,
+            "low": 0.1,
+            "avg1": 0.2,
+            "avg7": 0.18,
+            "avg30": 0.17,
+            "trend": 0.21,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Simisear"
+      }
+    },
+    {
+      "id": "pk_fde031925440d179d5d4d607f1b9989139c36afcf3342f6338fd189accbb5a05c5849e909ddac40aec10db9fcfe6cfea",
+      "card_info": {
+        "name": "Professor Kukui",
+        "clean_name": "Professor Kukui",
+        "set_name": "smH: GX Starter Decks",
+        "set_code": "smH",
+        "set_id": "23888",
+        "card_number": "118/131",
+        "rarity": null,
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.25,
+            "high_price": 0.25,
+            "updated_at": "2026-06-07T08:18:40.241278",
+            "market_price": 0.25,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/599334"
+      },
+      "cardmarket": {
+        "product_name": "Professor Kukui",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.26,
+            "avg30": 0.26,
+            "trend": 0.08,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-07T07:58:42.177899",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/GX-Starter-Decks/Professor-Kukui"
+      }
+    },
+    {
+      "id": "pk_71ad8f262c8f383d98f40f05212c0febbb3c1830f24b98f5da3aef8e75771a29ba91175e63b808cac6fa2b55352f63",
+      "card_info": {
+        "name": "Unit Energy FDY",
+        "clean_name": "Unit Energy FDY",
+        "set_name": "SM - Forbidden Light",
+        "set_code": "SM06",
+        "set_id": "2209",
+        "card_number": "118/131",
+        "rarity": "Uncommon",
+        "card_type": "Special Energy",
+        "hp": null,
+        "stage": null,
+        "card_text": "This card provides 1 Colorless Energy.\r\n<br>While this card is attached to a Pokémon, it provides Fighting, Darkness, and Fairy Energy but provides only 1 Energy at a time.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 0.99,
+            "high_price": 19.76,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 0.94,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 1.31,
+            "mid_price": 1.9,
+            "high_price": 30.7,
+            "updated_at": "2026-06-07T08:18:32.103877",
+            "market_price": 1.82,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/165790"
+      },
+      "cardmarket": {
+        "product_name": "Unit Energy",
+        "prices": [
+          {
+            "avg": 0.54,
+            "low": 0.02,
+            "avg1": 0.35,
+            "avg7": 0.62,
+            "avg30": 0.46,
+            "trend": 0.47,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 1.27,
+            "low": 0.1,
+            "avg1": 1.69,
+            "avg7": 1.17,
+            "avg30": 1.01,
+            "trend": 1.21,
+            "updated_at": "2026-06-07T07:58:38.080911",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Forbidden-Light/Unit-Energy-V1-FLI118"
+      }
+    },
+    {
+      "id": "pk_fdb2dcd34211b5f0f19a1cba4220a07ffc58a2c91e138e93b051f0d053e26a9a66c8679ee0b03309b3c3e8bcf728c2ca",
+      "card_info": {
+        "name": "Ogre's Mask",
+        "clean_name": "Ogres Mask",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "118/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose a Pokemon ex in your discard pile that has \"Ogerpon\" in its name, and switch it with 1 of your Pokemon ex in play that has \"Ogerpon\" in its name. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.18,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.04,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610473"
+      },
+      "cardmarket": {
+        "product_name": "Ogre's Mask",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.02,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ogres-Mask-PRE118"
+      }
+    },
+    {
+      "id": "pk_864db0062e8208bfff5e6e9e29f3efea1065dc9dba625c966c880b519c744ef57781087b8c0f5c8d2e2c54b1c4607e",
+      "card_info": {
+        "name": "Slowpoke (Poke Ball Pattern)",
+        "clean_name": "Slowpoke Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "018/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Gun (10)",
+          "[WC] Tail Whap (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.58,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.54,
+            "direct_low_price": 0.64,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610548"
+      },
+      "cardmarket": {
+        "product_name": "Slowpoke",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.12,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowpoke-PRE018"
+      }
+    },
+    {
+      "id": "pk_96aaf1f5008c71151c4c266a6c5f46fb3c4866c5240617366c7c31f1afb9faeffe67e180e6c66ec7d3c6a742b197f58c",
+      "card_info": {
+        "name": "Ogre's Mask (Poke Ball Pattern)",
+        "clean_name": "Ogres Mask Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "118/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose a Pokemon ex in your discard pile that has \"Ogerpon\" in its name, and switch it with 1 of your Pokemon ex in play that has \"Ogerpon\" in its name. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.13,
+            "mid_price": 0.33,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 0.28,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610627"
+      },
+      "cardmarket": {
+        "product_name": "Ogre's Mask",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.02,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ogres-Mask-PRE118"
+      }
+    },
+    {
+      "id": "pk_2264f02e8b7b0ffe6eefd68306846496457cbdbd5390152b5d974a818d7ec05f9b03965cf3af36e0bbf15c5adac4e9",
+      "card_info": {
+        "name": "Slowpoke (Master Ball Pattern)",
+        "clean_name": "Slowpoke Master Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "018/131",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[W] Water Gun (10)",
+          "[WC] Tail Whap (30)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.23,
+            "mid_price": 7,
+            "high_price": 999,
+            "updated_at": "2026-06-07T08:18:25.063387",
+            "market_price": 6.47,
+            "direct_low_price": 7.69,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610649"
+      },
+      "cardmarket": {
+        "product_name": "Slowpoke",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.12,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-07T07:58:50.864461",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowpoke-PRE018"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 11,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 11,
+    "cardmarket": 11,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 11
+  }
+}

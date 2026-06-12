@@ -1,0 +1,1138 @@
+{
+  "query": "23821 11",
+  "results": [
+    {
+      "id": "pk_74831674bf43eb8008bb6dfe6816815609937be382239b0025b28023d2d99f7289c98fcfc63370ac245439e56cdb165c",
+      "card_info": {
+        "name": "Lacey - 114/131",
+        "clean_name": "Lacey",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "114/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.17,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.09,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610469"
+      },
+      "cardmarket": {
+        "product_name": "Lacey",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.09,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+      }
+    },
+    {
+      "id": "pk_d3cb6dc6d219659165a226f272f76e5cbac3c4c3a15b6cf0cda12a469c4635fbd0cc42b24acc84abcae730083570bb82",
+      "card_info": {
+        "name": "Janine's Secret Art - 112/131",
+        "clean_name": "Janine's Secret Art",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "112/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose up to 2 of your Darkness Pokemon. For each of those Pokemon, search your deck for a Basic Darkness Energy card and attach it to that Pokemon. Then, shuffle your deck. If you attached Energy to your Active Pokemon in this way, it is now Poisoned.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.22,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.2,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610467"
+      },
+      "cardmarket": {
+        "product_name": "Janine's Secret Art",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.15,
+            "avg30": 0.12,
+            "trend": 0.15,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Janines-Secret-Art-V1-PRE112"
+      }
+    },
+    {
+      "id": "pk_ddf245e776cd71ac033238666380aa0142f565a4d745e1f83546fc62cfefa85065717c204953ef46c430cdd7e257cdf2",
+      "card_info": {
+        "name": "Kieran - 113/131",
+        "clean_name": "Kieran",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "113/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose 1:<br>* Switch your Active Pokemon with 1 of your Benched Pokemon.<br>* During this turn, attacks used by your Pokemon do 30 more damage to your opponent's Active Pokemon ex and Active Pokemon V <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.16,
+            "direct_low_price": 0.02,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.15,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610468"
+      },
+      "cardmarket": {
+        "product_name": "Kieran",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.07,
+            "avg30": 0.11,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Kieran-V1-PRE113"
+      }
+    },
+    {
+      "id": "pk_a7ab0dec82ea0723316464b8cf03f21aa018e0d84161dec421600c3becc549c9df549148708c05b805b95098ba2c8ca8",
+      "card_info": {
+        "name": "Larry's Skill - 115/131",
+        "clean_name": "Larry's Skill",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "115/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and search your deck for a Pokemon, a Supporter card, and a Basic Energy card, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.21,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.15,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610470"
+      },
+      "cardmarket": {
+        "product_name": "Larry's Skill",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.24,
+            "avg7": 0.16,
+            "avg30": 0.19,
+            "trend": 0.14,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larrys-Skill-V1-PRE115"
+      }
+    },
+    {
+      "id": "pk_7571f16fb2158bfae728db881128b97f198a58c16f2de37fbdbf4dc5918fbb86ab8e72df0aafe3652f70dc53e1f01a5f",
+      "card_info": {
+        "name": "Glass Trumpet",
+        "clean_name": "Glass Trumpet",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "110/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you have any Tera Pokemon in play.<br>Choose up to 2 of your Benched Colorless Pokemon and attach a Basic Energy card from your discard pile to each of them.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.08,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.18,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610465"
+      },
+      "cardmarket": {
+        "product_name": "Glass Trumpet",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.1,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glass-Trumpet-PRE110"
+      }
+    },
+    {
+      "id": "pk_c4f8b3a5a0aae9ee031483a82800682b91931635db418504125097a234f6d721c351e17dadf99081553048d3a9ebe155",
+      "card_info": {
+        "name": "Haban Berry",
+        "clean_name": "Haban Berry",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "111/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Pokemon Tool",
+        "hp": null,
+        "stage": null,
+        "card_text": "If the Pokemon this card is attached to is damaged by an attack from your opponent's Dragon Pokemon, it takes 60 less damage <em>(after applying Weakness and Resistance)</em>, and discard this card.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.14,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.07,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.16,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610466"
+      },
+      "cardmarket": {
+        "product_name": "Haban Berry",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.09,
+            "avg30": 0.12,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Haban-Berry-PRE111"
+      }
+    },
+    {
+      "id": "pk_9cf9c34bc4d2a1c1ee2fd2abe35b0e26b6ae4d2ddc254e860b404b246e32bd28c797277ed1ea1cbe64dbd57d45724108",
+      "card_info": {
+        "name": "Maximum Belt",
+        "clean_name": "Maximum Belt",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "117/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Pokemon Tool",
+        "hp": null,
+        "stage": null,
+        "card_text": "Attacks used by the Pokemon this card is attached to do 50 more damage to your opponent's Active Pokemon ex <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.66,
+            "high_price": 4321,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.49,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610472"
+      },
+      "cardmarket": {
+        "product_name": "Maximum Belt",
+        "prices": [
+          {
+            "avg": 1.21,
+            "low": 0.1,
+            "avg1": 1.85,
+            "avg7": 1.31,
+            "avg30": 1.21,
+            "trend": 1.36,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Maximum-Belt-PRE117"
+      }
+    },
+    {
+      "id": "pk_fdb2dcd34211b5f0f19a1cba4220a07ffc58a2c91e138e93b051f0d053e26a9a66c8679ee0b03309b3c3e8bcf728c2ca",
+      "card_info": {
+        "name": "Ogre's Mask",
+        "clean_name": "Ogres Mask",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "118/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose a Pokemon ex in your discard pile that has \"Ogerpon\" in its name, and switch it with 1 of your Pokemon ex in play that has \"Ogerpon\" in its name. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.19,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.09,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610473"
+      },
+      "cardmarket": {
+        "product_name": "Ogre's Mask",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ogres-Mask-PRE118"
+      }
+    },
+    {
+      "id": "pk_ba825a571aa7613df8854769fed3304714a9c09b4758e96ea6a1a1f69de7903ef9077b66ab7cdaff171c432c41c49f0a",
+      "card_info": {
+        "name": "Prime Catcher",
+        "clean_name": "Prime Catcher",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "119/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Switch in 1 of your opponent's Benched Pokemon to the Active Spot. If you do, switch your Active Pokemon with 1 of your Benched Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.75,
+            "high_price": 4321,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.74,
+            "direct_low_price": 0.6,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610474"
+      },
+      "cardmarket": {
+        "product_name": "Prime Catcher",
+        "prices": [
+          {
+            "avg": 0.67,
+            "low": 0.1,
+            "avg1": 0.72,
+            "avg7": 0.66,
+            "avg30": 0.67,
+            "trend": 0.72,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Prime-Catcher-PRE119"
+      }
+    },
+    {
+      "id": "pk_35038064dd930cd0cbcf46beb229d6aa4bde0219ac9f7b7e00745eeca55faf9ec9487aca2acdcbeaa1c53932fb2fa5e0",
+      "card_info": {
+        "name": "Haban Berry (Poke Ball Pattern)",
+        "clean_name": "Haban Berry Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "111/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Pokemon Tool",
+        "hp": null,
+        "stage": null,
+        "card_text": "If the Pokemon this card is attached to is damaged by an attack from your opponent's Dragon Pokemon, it takes 60 less damage <em>(after applying Weakness and Resistance)</em>, and discard this card.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.32,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.28,
+            "direct_low_price": 0.07,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610622"
+      },
+      "cardmarket": {
+        "product_name": "Haban Berry",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.09,
+            "avg30": 0.12,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Haban-Berry-PRE111"
+      }
+    },
+    {
+      "id": "pk_20d71b1eb12ad911f84bcc9cd05f11a0105aea8766ca6538ccf0f07f759a5262d97c9304c090084d356c9c74a39c0c10",
+      "card_info": {
+        "name": "Janine's Secret Art - 112/131 (Poke Ball Pattern)",
+        "clean_name": "Janines Secret Art 112 131 Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "112/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose up to 2 of your Darkness Pokemon. For each of those Pokemon, search your deck for a Basic Darkness Energy card and attach it to that Pokemon. Then, shuffle your deck. If you attached Energy to your Active Pokemon in this way, it is now Poisoned.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.37,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610623"
+      },
+      "cardmarket": {
+        "product_name": "Janine's Secret Art",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.15,
+            "avg30": 0.12,
+            "trend": 0.15,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Janines-Secret-Art-V1-PRE112"
+      }
+    },
+    {
+      "id": "pk_fa0938c471283aa98e4d156cb9f94aa828850344d09bfcb5802b0fd024011a6e77d6f8d965d955c7b71b41b5538aa58f",
+      "card_info": {
+        "name": "Kieran - 113/131 (Poke Ball Pattern)",
+        "clean_name": "Kieran 113 131 Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "113/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose 1:<br>* Switch your Active Pokemon with 1 of your Benched Pokemon.<br>* During this turn, attacks used by your Pokemon do 30 more damage to your opponent's Active Pokemon ex and Active Pokemon V <em>(before applying Weakness and Resistance)</em>.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.37,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.34,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610624"
+      },
+      "cardmarket": {
+        "product_name": "Kieran",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.07,
+            "avg30": 0.11,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Kieran-V1-PRE113"
+      }
+    },
+    {
+      "id": "pk_4db1babe6d3a520b907e00d70331c162f29964611bb233f556462abce3267b6ebbdd26189415407402a0dc62d454e1d2",
+      "card_info": {
+        "name": "Larry's Skill - 115/131 (Poke Ball Pattern)",
+        "clean_name": "Larrys Skill 115 131 Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "115/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and search your deck for a Pokemon, a Supporter card, and a Basic Energy card, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.38,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.33,
+            "direct_low_price": 0.33,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610626"
+      },
+      "cardmarket": {
+        "product_name": "Larry's Skill",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.24,
+            "avg7": 0.16,
+            "avg30": 0.19,
+            "trend": 0.14,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larrys-Skill-V1-PRE115"
+      }
+    },
+    {
+      "id": "pk_96aaf1f5008c71151c4c266a6c5f46fb3c4866c5240617366c7c31f1afb9faeffe67e180e6c66ec7d3c6a742b197f58c",
+      "card_info": {
+        "name": "Ogre's Mask (Poke Ball Pattern)",
+        "clean_name": "Ogres Mask Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "118/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose a Pokemon ex in your discard pile that has \"Ogerpon\" in its name, and switch it with 1 of your Pokemon ex in play that has \"Ogerpon\" in its name. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610627"
+      },
+      "cardmarket": {
+        "product_name": "Ogre's Mask",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ogres-Mask-PRE118"
+      }
+    },
+    {
+      "id": "pk_158b1bcc595b438ba4cdabd8acc93ba8e22f92daef76ba3879b9a713ae94ba78848d70edc9fb7cb3cb2a984278ea961b",
+      "card_info": {
+        "name": "Max Rod",
+        "clean_name": "Max Rod",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "116/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Put up to 5 in any combination of Pokemon and Basic Energy cards from your discard pile into your hand.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.89,
+            "high_price": 4321,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.75,
+            "direct_low_price": 0.84,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610471"
+      },
+      "cardmarket": {
+        "product_name": "Max Rod",
+        "prices": [
+          {
+            "avg": 0.94,
+            "low": 0.1,
+            "avg1": 1.5,
+            "avg7": 0.95,
+            "avg30": 0.95,
+            "trend": 0.97,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Max-Rod-PRE116"
+      }
+    },
+    {
+      "id": "pk_23f2668dc408880bdc6cd0eaa15baa663bdaa4ac767a886783e4621b585e1d1a11f9d68f9572238a773b1ffd9c58e9d5",
+      "card_info": {
+        "name": "Glass Trumpet (Poke Ball Pattern)",
+        "clean_name": "Glass Trumpet Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "110/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you have any Tera Pokemon in play.<br>Choose up to 2 of your Benched Colorless Pokemon and attach a Basic Energy card from your discard pile to each of them.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.34,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610621"
+      },
+      "cardmarket": {
+        "product_name": "Glass Trumpet",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.1,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glass-Trumpet-PRE110"
+      }
+    },
+    {
+      "id": "pk_5b0fcbc45ddcfbc8ed2515f557dd16c901f35331b1fb81efe4940739f2b9b3d1fcac50f15e759a39ef8f6b06b3d95d5e",
+      "card_info": {
+        "name": "Lacey - 114/131 (Poke Ball Pattern)",
+        "clean_name": "Lacey 114 131 Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "114/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.35,
+            "high_price": 9999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.32,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610625"
+      },
+      "cardmarket": {
+        "product_name": "Lacey",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.09,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+      }
+    },
+    {
+      "id": "8ed986588af1ad0fb65df605f572516fb1dee78ab9ba7fcdc471c08c5e219d68",
+      "card_info": {
+        "name": "Hydrapple ex",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "11"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Hydrapple ex",
+        "prices": [
+          {
+            "avg": 0.9,
+            "low": 0.1,
+            "avg1": 1.31,
+            "avg7": 1.02,
+            "avg30": 0.92,
+            "trend": 1.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hydrapple-ex-PRE011"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 18,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 18,
+    "tcg": 17,
+    "cardmarket": 18,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 17
+  }
+}

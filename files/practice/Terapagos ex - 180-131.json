@@ -1,0 +1,118 @@
+{
+  "query": "23821 18",
+  "results": [
+    {
+      "id": "pk_daed45001beec398e00f5efcf3b7b17b1f6ef4fab321a104d7acb9157df77a7c07e6ddee13824d6b3fe702677e582831",
+      "card_info": {
+        "name": "Terapagos ex - 180/131",
+        "clean_name": "Terapagos ex",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "180/131",
+        "rarity": "Hyper Rare",
+        "card_type": "Colorless",
+        "hp": "230.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[CC] Unified Beatdown (30x)<br> If you go second, you can't use this attack during your first turn. This attack does 30 damage for each of your Benched Pokemon.",
+          "[GWL] Crown Opal (180)<br> During your opponent's next turn, prevent all damage done to this Pokemon by attacks from Basic non-Colorless Pokemon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.37,
+            "mid_price": 13,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 11.86,
+            "direct_low_price": 11.9,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610535"
+      },
+      "cardmarket": {
+        "product_name": "Terapagos ex",
+        "prices": [
+          {
+            "avg": 8.8,
+            "low": 5,
+            "avg1": 9.5,
+            "avg7": 8.87,
+            "avg30": 8.78,
+            "trend": 9.34,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Terapagos-ex-V3-PRE180"
+      }
+    },
+    {
+      "id": "e5c228ec06fdbd078bf0c440cdd46eec7ed866f6d31b068cff04bdb1eaa7fdca",
+      "card_info": {
+        "name": "Slowpoke",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "18"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Slowpoke",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowpoke-PRE018"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 1,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 1
+  }
+}

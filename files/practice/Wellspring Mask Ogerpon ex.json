@@ -1,0 +1,55 @@
+{
+  "query": "23821 27",
+  "results": [
+    {
+      "id": "77a381d05dcfecd2cdb60290169d0b252ef83f8fe25233f2751b5b9ab4dfd88e",
+      "card_info": {
+        "name": "Wellspring Mask Ogerpon ex",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "27"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Wellspring Mask Ogerpon ex",
+        "prices": [
+          {
+            "avg": 0.98,
+            "low": 0.2,
+            "avg1": 1.38,
+            "avg7": 1.09,
+            "avg30": 0.98,
+            "trend": 1.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Wellspring-Mask-Ogerpon-ex-V1-PRE027"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 0,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 0
+  }
+}

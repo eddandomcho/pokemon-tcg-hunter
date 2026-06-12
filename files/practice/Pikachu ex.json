@@ -1,40 +1,40 @@
 {
-  "query": "23821 46",
+  "query": "23821 28",
   "results": [
     {
-      "id": "eb9b743ffad5213e613ca8d67f85b21eae0a709dad0b1ac0da8084920cf03425",
+      "id": "5197b0aba24c3cb67d5585aa6a59c3c2e60991f7ac63f20223260f1098b59367",
       "card_info": {
-        "name": "Iron Boulder",
+        "name": "Pikachu ex",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "46"
+        "card_number": "28"
       },
       "tcgplayer": null,
       "cardmarket": {
-        "product_name": "Iron Boulder",
+        "product_name": "Pikachu ex",
         "prices": [
           {
-            "avg": 0.05,
-            "low": 0.02,
-            "avg1": 0.06,
-            "avg7": 0.05,
-            "avg30": 0.05,
-            "trend": 0.08,
+            "avg": 2.52,
+            "low": 0.6,
+            "avg1": 2.55,
+            "avg7": 2.07,
+            "avg30": 2.13,
+            "trend": 2.28,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.11,
-            "low": 0.02,
-            "avg1": 0.12,
-            "avg7": 0.12,
-            "avg30": 0.11,
-            "trend": 0.12,
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Boulder-PRE046"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pikachu-ex-PRE028"
       }
     }
   ],

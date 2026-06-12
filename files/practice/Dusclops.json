@@ -1,40 +1,40 @@
 {
-  "query": "23821 20",
+  "query": "23821 36",
   "results": [
     {
-      "id": "5bb81969296591efbf9da26d0413e81afdb721974d06eea45e262232e7805288",
+      "id": "cd3d1bcfec94f1595e048d0e1c4e0ac1f73c3be0c0dc83e2de89a6b9cfdd3c4d",
       "card_info": {
-        "name": "Goldeen",
+        "name": "Dusclops",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "20"
+        "card_number": "36"
       },
       "tcgplayer": null,
       "cardmarket": {
-        "product_name": "Goldeen",
+        "product_name": "Dusclops",
         "prices": [
           {
-            "avg": 0.04,
+            "avg": 0.18,
             "low": 0.02,
-            "avg1": 0.02,
-            "avg7": 0.03,
-            "avg30": 0.04,
-            "trend": 0.04,
-            "updated_at": "2026-06-12T08:38:23.984889",
-            "variant_type": "normal"
-          },
-          {
-            "avg": 0.1,
-            "low": 0.02,
-            "avg1": 0.19,
-            "avg7": 0.11,
-            "avg30": 0.1,
+            "avg1": 0.27,
+            "avg7": 0.18,
+            "avg30": 0.17,
             "trend": 0.12,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.06,
+            "avg30": 0.08,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Goldeen-PRE020"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dusclops-PRE036"
       }
     }
   ],

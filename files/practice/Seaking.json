@@ -1,40 +1,40 @@
 {
-  "query": "23821 46",
+  "query": "23821 21",
   "results": [
     {
-      "id": "eb9b743ffad5213e613ca8d67f85b21eae0a709dad0b1ac0da8084920cf03425",
+      "id": "1673ea005a35a4f21f470d399a20e7f92fb3b84b7170cdd133d9cedcca8a5ec1",
       "card_info": {
-        "name": "Iron Boulder",
+        "name": "Seaking",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "46"
+        "card_number": "21"
       },
       "tcgplayer": null,
       "cardmarket": {
-        "product_name": "Iron Boulder",
+        "product_name": "Seaking",
         "prices": [
           {
             "avg": 0.05,
             "low": 0.02,
-            "avg1": 0.06,
-            "avg7": 0.05,
+            "avg1": 0.04,
+            "avg7": 0.07,
             "avg30": 0.05,
-            "trend": 0.08,
+            "trend": 0.06,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.11,
+            "avg": 0.15,
             "low": 0.02,
-            "avg1": 0.12,
+            "avg1": 0.3,
             "avg7": 0.12,
-            "avg30": 0.11,
-            "trend": 0.12,
+            "avg30": 0.16,
+            "trend": 0.15,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Boulder-PRE046"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Seaking-PRE021"
       }
     }
   ],

@@ -1,40 +1,40 @@
 {
-  "query": "23821 46",
+  "query": "23821 35",
   "results": [
     {
-      "id": "eb9b743ffad5213e613ca8d67f85b21eae0a709dad0b1ac0da8084920cf03425",
+      "id": "8f07d37e5a688913273adba6909aebce05d84400368dd97e7aa5a097a598de7d",
       "card_info": {
-        "name": "Iron Boulder",
+        "name": "Duskull",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "46"
+        "card_number": "35"
       },
       "tcgplayer": null,
       "cardmarket": {
-        "product_name": "Iron Boulder",
+        "product_name": "Duskull",
         "prices": [
           {
-            "avg": 0.05,
+            "avg": 0.06,
             "low": 0.02,
-            "avg1": 0.06,
-            "avg7": 0.05,
-            "avg30": 0.05,
-            "trend": 0.08,
+            "avg1": 0.08,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.06,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.11,
+            "avg": 0.13,
             "low": 0.02,
-            "avg1": 0.12,
+            "avg1": 0.16,
             "avg7": 0.12,
-            "avg30": 0.11,
-            "trend": 0.12,
+            "avg30": 0.13,
+            "trend": 0.1,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Boulder-PRE046"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Duskull-PRE035"
       }
     }
   ],

@@ -34,5 +34,3 @@ def extract_card_rarity(card_number):
     rarity = card_info["rarity"]
     print(rarity)
     return(rarity)
-
-extract_card_rarity("161/131")

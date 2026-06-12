@@ -1,6 +1,6 @@
 import requests
 import json
-import query_card_info as qci
+import models.query_card_info as qci
 
 API_KEY = "pk_test_91cc2b3ec9c75d68efac0da0c21d750d1db419801774bb4f"
 BASE_URL = "https://api.pokewallet.io"
@@ -41,6 +41,9 @@ def print_card_json(query):
 
 def write_card_json(query):
     result = fetch_card_json(query)
+
+    print(result)
+
     eng_name = qci.fetch_card_info(query)["name"]
     eng_name = eng_name.replace("/", "-")
 
@@ -48,7 +51,5 @@ def write_card_json(query):
 
     with open(file_path, mode = "w", encoding = "utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-        print(f"Saved data to files/practice/{eng_name}.json")
+        print(f"Saved data to files/practice2/{eng_name}.json")
 
-for i in range(1, 181):
-    write_card_json(f"{i}/131")

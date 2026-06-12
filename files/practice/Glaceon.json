@@ -1,40 +1,40 @@
 {
-  "query": "23821 20",
+  "query": "23821 25",
   "results": [
     {
-      "id": "5bb81969296591efbf9da26d0413e81afdb721974d06eea45e262232e7805288",
+      "id": "4cd70a8e9ae52da6b4001f12c26b1ac27abb0955fb9553a3a7c6f15ec0f3292c",
       "card_info": {
-        "name": "Goldeen",
+        "name": "Glaceon",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "20"
+        "card_number": "25"
       },
       "tcgplayer": null,
       "cardmarket": {
-        "product_name": "Goldeen",
+        "product_name": "Glaceon",
         "prices": [
           {
-            "avg": 0.04,
+            "avg": 0.27,
             "low": 0.02,
-            "avg1": 0.02,
-            "avg7": 0.03,
-            "avg30": 0.04,
-            "trend": 0.04,
-            "updated_at": "2026-06-12T08:38:23.984889",
-            "variant_type": "normal"
-          },
-          {
-            "avg": 0.1,
-            "low": 0.02,
-            "avg1": 0.19,
-            "avg7": 0.11,
-            "avg30": 0.1,
-            "trend": 0.12,
+            "avg1": 0.25,
+            "avg7": 0.27,
+            "avg30": 0.26,
+            "trend": 0.28,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
+          },
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.2,
+            "avg30": 0.24,
+            "trend": 0.19,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Goldeen-PRE020"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glaceon-PRE025"
       }
     }
   ],

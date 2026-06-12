@@ -1,0 +1,415 @@
+{
+  "query": "23821 4",
+  "results": [
+    {
+      "id": "052b742450abd974485dc38ba79495a937f5d00f225e01cb9e2b4f81e6bc2c7f",
+      "card_info": {
+        "name": "Budew",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "4"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Budew",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.08,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.16,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.14,
+            "avg30": 0.15,
+            "trend": 0.14,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Budew-PRE004"
+      }
+    },
+    {
+      "id": "dac015b5544838e69f3c8584e91a28fee5b2843fdb3d10f498d6b0f8a9689b52",
+      "card_info": {
+        "name": "Scream Tail",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "42"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Scream Tail",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.13,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.08,
+            "avg30": 0.12,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Scream-Tail-PRE042"
+      }
+    },
+    {
+      "id": "2b78c933e302d4f4e1a876b4493aaa7517f3bdb0baf2e4c40ff6696732fed456",
+      "card_info": {
+        "name": "Flutter Mane",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "43"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Flutter Mane",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.17,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.1,
+            "avg30": 0.14,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Flutter-Mane-PRE043"
+      }
+    },
+    {
+      "id": "4b3ab03443bcc466b81777e2f1b951bf1fe147aade6c0cf8024a010fbe9a6aa0",
+      "card_info": {
+        "name": "Munkidori",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "44"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Munkidori",
+        "prices": [
+          {
+            "avg": 0.3,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.26,
+            "avg30": 0.3,
+            "trend": 0.23,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.42,
+            "low": 0.02,
+            "avg1": 0.68,
+            "avg7": 0.3,
+            "avg30": 0.42,
+            "trend": 0.39,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Munkidori-PRE044"
+      }
+    },
+    {
+      "id": "d2e74469908a0cf7b295f119ee77e867fd206d59657992ba50a6a0b658067c79",
+      "card_info": {
+        "name": "Fezandipiti",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "45"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Fezandipiti",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.13,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Fezandipiti-PRE045"
+      }
+    },
+    {
+      "id": "eb9b743ffad5213e613ca8d67f85b21eae0a709dad0b1ac0da8084920cf03425",
+      "card_info": {
+        "name": "Iron Boulder",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "46"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Iron Boulder",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.12,
+            "avg30": 0.11,
+            "trend": 0.12,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Boulder-PRE046"
+      }
+    },
+    {
+      "id": "ce2c2d74695d120c2339b4a9cfb323ca66d02721e60ae7287e375aa24c48ac38",
+      "card_info": {
+        "name": "Larvitar",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "47"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Larvitar",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larvitar-PRE047"
+      }
+    },
+    {
+      "id": "3ebd60cd01be44fbab38f370483de7a0472b92d5bd014ca6aea41c944bdc5950",
+      "card_info": {
+        "name": "Sylveon",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "40"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Sylveon",
+        "prices": [
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.24,
+            "avg7": 0.18,
+            "avg30": 0.24,
+            "trend": 0.15,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.36,
+            "low": 0.02,
+            "avg1": 0.28,
+            "avg7": 0.36,
+            "avg30": 0.35,
+            "trend": 0.34,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sylveon-PRE040"
+      }
+    },
+    {
+      "id": "4236ccc261c59a0420fdaf4803d852fc6d8155ee9adaa1b6cd325bb3bc991ca0",
+      "card_info": {
+        "name": "Sylveon ex",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "41"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Sylveon ex",
+        "prices": [
+          {
+            "avg": 2.35,
+            "low": 0.5,
+            "avg1": 2.33,
+            "avg7": 2.5,
+            "avg30": 2.39,
+            "trend": 2.54,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sylveon-ex-V1-PRE041"
+      }
+    },
+    {
+      "id": "e3c8e533461144852ef46144cd094d1c3c94948d12c6826e85c9e7dc557aecb2",
+      "card_info": {
+        "name": "Pupitar",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "48"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Pupitar",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.13,
+            "avg7": 0.08,
+            "avg30": 0.07,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pupitar-PRE048"
+      }
+    },
+    {
+      "id": "19ea3bfe5f01a5491c83836c30279d4cd06c660941992bacf33e242dec123fb0",
+      "card_info": {
+        "name": "Groudon",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "49"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Groudon",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.2,
+            "avg7": 0.13,
+            "avg30": 0.15,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Groudon-PRE049"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 11,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 11,
+    "tcg": 0,
+    "cardmarket": 11,
+    "tcg_only": 0,
+    "cardmarket_only": 11,
+    "both_sources": 0
+  }
+}

@@ -1,40 +1,40 @@
 {
-  "query": "23821 46",
+  "query": "23821 39",
   "results": [
     {
-      "id": "eb9b743ffad5213e613ca8d67f85b21eae0a709dad0b1ac0da8084920cf03425",
+      "id": "73b0ce0b627ec2e4d8ca591735ff14b4a7567d939eebd2ae34e0649d9d5072b0",
       "card_info": {
-        "name": "Iron Boulder",
+        "name": "Aromatisse",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "46"
+        "card_number": "39"
       },
       "tcgplayer": null,
       "cardmarket": {
-        "product_name": "Iron Boulder",
+        "product_name": "Aromatisse",
         "prices": [
           {
-            "avg": 0.05,
+            "avg": 0.03,
             "low": 0.02,
-            "avg1": 0.06,
-            "avg7": 0.05,
-            "avg30": 0.05,
-            "trend": 0.08,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.02,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.11,
+            "avg": 0.1,
             "low": 0.02,
-            "avg1": 0.12,
-            "avg7": 0.12,
-            "avg30": 0.11,
-            "trend": 0.12,
+            "avg1": 0.17,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.06,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Boulder-PRE046"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Aromatisse-PRE039"
       }
     }
   ],

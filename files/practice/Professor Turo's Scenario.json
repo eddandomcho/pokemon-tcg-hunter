@@ -1,0 +1,1207 @@
+{
+  "query": "23821 12",
+  "results": [
+    {
+      "id": "pk_fd18e1e36c3f6b21eeae263f9b16921303807c453cee42d109ee2b1cb21c25926791663057e8bd843af2658ea4c751bd",
+      "card_info": {
+        "name": "Professor Turo's Scenario",
+        "clean_name": "Professor Turos Scenario",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "121/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Put 1 of your Pokemon in play into your hand. <em>(Discard all cards attached to that Pokemon.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.14,
+            "direct_low_price": 0.06,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.19,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610476"
+      },
+      "cardmarket": {
+        "product_name": "Professor Turo's Scenario",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.08,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Turos-Scenario-PRE121"
+      }
+    },
+    {
+      "id": "pk_4002437854135e133ae27db5e8e2eeb9e79647559e478f7fd9d2646ade3558dedca65fe7aa298a7ef391049280ccbd59",
+      "card_info": {
+        "name": "Scoop Up Cyclone",
+        "clean_name": "Scoop Up Cyclone",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "128/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Put 1 of your Pokemon and all attached cards into your hand.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.48,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.35,
+            "direct_low_price": 0.4,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610483"
+      },
+      "cardmarket": {
+        "product_name": "Scoop Up Cyclone",
+        "prices": [
+          {
+            "avg": 0.47,
+            "low": 0.05,
+            "avg1": 0.63,
+            "avg7": 0.44,
+            "avg30": 0.47,
+            "trend": 0.43,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Scoop-Up-Cyclone-PRE128"
+      }
+    },
+    {
+      "id": "pk_b8f345b9a6bd79787f6eb2eeb6b27f29384e5164ce3462c693e19976047a42276bc968442b0ab02e9fa49099a760c766",
+      "card_info": {
+        "name": "Professor's Research [Professor Rowan]",
+        "clean_name": "Professors Research Professor Rowan",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "124/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.09,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.24,
+            "direct_low_price": 0.02,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610479"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Rowan",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Rowan-PRE124"
+      }
+    },
+    {
+      "id": "pk_1a156605fba1b89a155e045a1ac21c93726ab07b614cdfb2a67ca0d2babf3117ce8c9b51c42637127aab009066602bb9",
+      "card_info": {
+        "name": "Professor Sada's Vitality",
+        "clean_name": "Professor Sadas Vitality",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "120/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose up to 2 of your Ancient Pokemon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.19,
+            "direct_low_price": 0.02,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.09,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610475"
+      },
+      "cardmarket": {
+        "product_name": "Professor Sada's Vitality",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.07,
+            "avg30": 0.11,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Sadas-Vitality-PRE120"
+      }
+    },
+    {
+      "id": "pk_d3e9dd90aaebea34db94b3dd197dc27a5f36d40b58f9d917ae90ae2871291c78023020a4c032b2182b5e269342e9f525",
+      "card_info": {
+        "name": "Professor's Research [Professor Oak]",
+        "clean_name": "Professors Research Professor Oak",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "122/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.21,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.17,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.18,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610477"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Oak",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Oak-PRE122"
+      }
+    },
+    {
+      "id": "pk_d51a7a02b7d53b740394041201c9491d577b9ab26e658a29110dc773779443da3146c16e6de9c05199de9f2115eaca1b",
+      "card_info": {
+        "name": "Professor's Research [Professor Elm]",
+        "clean_name": "Professors Research Professor Elm",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "123/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.12,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.19,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610478"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Elm",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.1,
+            "avg30": 0.09,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Elm-PRE124"
+      }
+    },
+    {
+      "id": "pk_1b16bf21e626f629aff424e38966d020c8b7207ded5289b88c34c41183b5121d5a1a952680c92c7ff057991daaf5f890",
+      "card_info": {
+        "name": "Professor's Research [Professor Sycamore]",
+        "clean_name": "Professors Research Professor Sycamore",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "125/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.14,
+            "direct_low_price": 0.03,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.18,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610480"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Sycamore",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.09,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Sycamore-PRE125"
+      }
+    },
+    {
+      "id": "pk_8935b7e705f08593e17b5325e4b4642e5c87339865db122bde0f750d48452a710b9fff2021ab291cdfcd1e5dbb0ad225",
+      "card_info": {
+        "name": "Rescue Board",
+        "clean_name": "Rescue Board",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "126/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Pokemon Tool",
+        "hp": null,
+        "stage": null,
+        "card_text": "The Retreat Cost of the Pokemon this card is attached to is Colorless less. If that Pokemon's remaining HP is 30 or less, it has no Retreat Cost.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.1,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.19,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610481"
+      },
+      "cardmarket": {
+        "product_name": "Rescue Board",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.07,
+            "avg30": 0.1,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Rescue-Board-PRE126"
+      }
+    },
+    {
+      "id": "pk_b488fcba19a09653acbecf7c03877141c4dc93fad18669fdb24217eeec7e0825f7d8326af22665ed17cca8ea8c33d33b",
+      "card_info": {
+        "name": "Roto-Stick",
+        "clean_name": "Roto Stick",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "127/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 4 cards of your deck. You may reveal any number of Supporter cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.25,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.25,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.17,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610482"
+      },
+      "cardmarket": {
+        "product_name": "Roto-Stick",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.09,
+            "avg30": 0.08,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.22,
+            "avg30": 0.19,
+            "trend": 0.14,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Roto-Stick-PRE127"
+      }
+    },
+    {
+      "id": "pk_85fc7eb9ea7f8a7a7483419e8cfc6c3eb4c4766cc5e6abec55920f4e3f9d561fe7c473a915824de482c6daaf8c890ded",
+      "card_info": {
+        "name": "Sparkling Crystal",
+        "clean_name": "Sparkling Crystal",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "129/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Pokemon Tool",
+        "hp": null,
+        "stage": null,
+        "card_text": "When the Tera Pokemon this card is attached to uses an attack, that attack costs 1 Energy less. <em>(The Energy can be of any type.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.46,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.36,
+            "direct_low_price": 0.39,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610484"
+      },
+      "cardmarket": {
+        "product_name": "Sparkling Crystal",
+        "prices": [
+          {
+            "avg": 0.4,
+            "low": 0.05,
+            "avg1": 0.65,
+            "avg7": 0.41,
+            "avg30": 0.39,
+            "trend": 0.43,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sparkling-Crystal-PRE129"
+      }
+    },
+    {
+      "id": "pk_8664fcef9aa9c07a0916b65dbef3eb2f62788ea2e2cd76f41901320142c27e504be158ace9dbbc7df93c0ca0d35bfc4f",
+      "card_info": {
+        "name": "Professor Sada's Vitality (Poke Ball Pattern)",
+        "clean_name": "Professor Sadas Vitality Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "120/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Choose up to 2 of your Ancient Pokemon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.32,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610628"
+      },
+      "cardmarket": {
+        "product_name": "Professor Sada's Vitality",
+        "prices": [
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.07,
+            "avg30": 0.11,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.02,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Sadas-Vitality-PRE120"
+      }
+    },
+    {
+      "id": "pk_8d846a45470ee9ae9150799f23bcfac4ae373df257f5171bf2bbba77ec2715009c3e78011e02169ad5306f9a4f7aa848",
+      "card_info": {
+        "name": "Professor Turo's Scenario (Poke Ball Pattern)",
+        "clean_name": "Professor Turos Scenario Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "121/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Put 1 of your Pokemon in play into your hand. <em>(Discard all cards attached to that Pokemon.)</em>",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.38,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610629"
+      },
+      "cardmarket": {
+        "product_name": "Professor Turo's Scenario",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.08,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Turos-Scenario-PRE121"
+      }
+    },
+    {
+      "id": "pk_ae9247107a5c0936ff3edea20c89a8e8d73433e04dafbef0e5e4d97016e5283aeed94fb1f52b1c6e1a6c835fc5931836",
+      "card_info": {
+        "name": "Professor's Research [Professor Oak] (Poke Ball Pattern)",
+        "clean_name": "Professors Research Professor Oak Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "122/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.39,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.37,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610630"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Oak",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Oak-PRE122"
+      }
+    },
+    {
+      "id": "pk_0fc62a9e8986977a53d3c538dc8214aa1d41b3b3fc85275c9cc9507d15d082e86f4d0cc4f6f62c5ff7623889e27dede3",
+      "card_info": {
+        "name": "Professor's Research [Professor Elm] (Poke Ball Pattern)",
+        "clean_name": "Professors Research Professor Elm Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "123/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.33,
+            "direct_low_price": 0.15,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610631"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Elm",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.1,
+            "avg30": 0.09,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Elm-PRE124"
+      }
+    },
+    {
+      "id": "pk_16ba1a673497f2d8ce393cc1c411952984175c2cd45ecae229fc282fe72365092ec69db239eca1768785558fc82abe96",
+      "card_info": {
+        "name": "Professor's Research [Professor Rowan] (Poke Ball Pattern)",
+        "clean_name": "Professors Research Professor Rowan Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "124/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.07,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.31,
+            "direct_low_price": 0.31,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610632"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Rowan",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Rowan-PRE124"
+      }
+    },
+    {
+      "id": "pk_57405f4b448473468e3f596f99641d9a74802ae41aef20fde9d632e20643fa48a5eb161a92b7024688d88dd99afe84ed",
+      "card_info": {
+        "name": "Professor's Research [Professor Sycamore] (Poke Ball Pattern)",
+        "clean_name": "Professors Research Professor Sycamore Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "125/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.39,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.34,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610633"
+      },
+      "cardmarket": {
+        "product_name": "Professor's Research - Professor Sycamore",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.07,
+            "avg30": 0.09,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Sycamore-PRE125"
+      }
+    },
+    {
+      "id": "pk_6e84d84ff75e54027b4ccadb9c14c63e09ca4a7d84fd0f934716053097743208c2de2a4b348eb1a34d629d3875d41389",
+      "card_info": {
+        "name": "Roto-Stick (Poke Ball Pattern)",
+        "clean_name": "Roto Stick Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "127/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 4 cards of your deck. You may reveal any number of Supporter cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.4,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.37,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610635"
+      },
+      "cardmarket": {
+        "product_name": "Roto-Stick",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.09,
+            "avg30": 0.08,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.22,
+            "avg30": 0.19,
+            "trend": 0.14,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Roto-Stick-PRE127"
+      }
+    },
+    {
+      "id": "pk_b2a28d1c4220df95fb5849733ec68095c99a8693bd31b1b3cd8917f52311bee78d1bac002c36dc23803569ae27d215d2",
+      "card_info": {
+        "name": "Rescue Board (Poke Ball Pattern)",
+        "clean_name": "Rescue Board Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "126/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "The Retreat Cost of the Pokemon this card is attached to is Colorless less. If that Pokemon's remaining HP is 30 or less, it has no Retreat Cost.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.34,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.3,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610634"
+      },
+      "cardmarket": {
+        "product_name": "Rescue Board",
+        "prices": [
+          {
+            "avg": 0.02,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.11,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.07,
+            "avg30": 0.1,
+            "trend": 0.07,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Rescue-Board-PRE126"
+      }
+    },
+    {
+      "id": "bae42b2de3e645de1bd2cac126a68f42c5def667756b561a03538f6e8222163f",
+      "card_info": {
+        "name": "Teal Mask Ogerpon ex",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "12"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Teal Mask Ogerpon ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.11,
+            "low": 1.89,
+            "avg1": 3.89,
+            "avg7": 3.98,
+            "avg30": 4.05,
+            "trend": 4.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Teal-Mask-Ogerpon-ex-V1-PRE012"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 19,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 19,
+    "tcg": 18,
+    "cardmarket": 19,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 18
+  }
+}

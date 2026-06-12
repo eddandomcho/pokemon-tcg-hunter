@@ -1,0 +1,1309 @@
+{
+  "query": "23821 10",
+  "results": [
+    {
+      "id": "pk_47b2766493cfed6c5f72a1f2ae0c9726b74c0de8ab0dd46f520e98cb6a056394ee198d5ff7a1d819375d853f0fa23071",
+      "card_info": {
+        "name": "Crispin - 105/131",
+        "clean_name": "Crispin",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "105/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Basic Energy cards of different types, reveal them, and put 1 of them into your hand. Attach the other to 1 of your Pokemon. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.27,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.26,
+            "direct_low_price": 0.03,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610460"
+      },
+      "cardmarket": {
+        "product_name": "Crispin",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.12,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.23,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.19,
+            "avg30": 0.22,
+            "trend": 0.23,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Crispin-V1-PRE105"
+      }
+    },
+    {
+      "id": "pk_30ba25722a78e7008e4798931712d36beae66f5e6841bb8f9112b052f10784277fec0866fa78c21c2de5b0a17a31808e",
+      "card_info": {
+        "name": "Friends in Paldea - 109/131",
+        "clean_name": "Friends in Paldea",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "109/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.17,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.17,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.19,
+            "direct_low_price": 0.02,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610464"
+      },
+      "cardmarket": {
+        "product_name": "Friends in Paldea",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.12,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Friends-in-Paldea-V1-PRE109"
+      }
+    },
+    {
+      "id": "pk_53dd81a1993981fafc5a15e457e621bd4186802875bb39b0be1e6f5f63bd25ad44b13623413ecbcf911e18c4cbd66347",
+      "card_info": {
+        "name": "Briar",
+        "clean_name": "Briar",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "100/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if your opponent has exactly 2 Prize cards remaining.<br>During this turn, if your opponent's Active Pokemon is Knocked Out by damage from an attack used by your Tera Pokemon, take 1 more Prize card.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.13,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.18,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610455"
+      },
+      "cardmarket": {
+        "product_name": "Briar",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Briar-PRE100"
+      }
+    },
+    {
+      "id": "pk_20a02184d0b6ab6007fed2a4ef1dba1fcb01857e530f184d6dea329c291caf747d6451152ced750a41c66ed9b1aa427e",
+      "card_info": {
+        "name": "Buddy-Buddy Poffin",
+        "clean_name": "Buddy Buddy Poffin",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "101/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Basic Pokemon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.21,
+            "direct_low_price": 0.13,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.26,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.26,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610456"
+      },
+      "cardmarket": {
+        "product_name": "Buddy-Buddy Poffin",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.09,
+            "avg30": 0.11,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.26,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.16,
+            "avg30": 0.24,
+            "trend": 0.26,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101"
+      }
+    },
+    {
+      "id": "pk_479ec4c6eef5a504bd2fc009ca138a7f6d87d41df0a701d2cf1028e7377f6bbb8548d27982af61aa488b6d20f97720d2",
+      "card_info": {
+        "name": "Bug Catching Set",
+        "clean_name": "Bug Catching Set",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "102/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal up to 2 in any combination of Grass Pokemon and Basic Grass Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.17,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.04,
+            "mid_price": 0.25,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.24,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610457"
+      },
+      "cardmarket": {
+        "product_name": "Bug Catching Set",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.17,
+            "avg30": 0.2,
+            "trend": 0.19,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Bug-Catching-Set-PRE102"
+      }
+    },
+    {
+      "id": "pk_cb58f6d38382bfea9cb9cd2103413ea9661ca68f7524fa057542cc434d33c6313776b07017bc68ca4fae477cffb8bbb9",
+      "card_info": {
+        "name": "Carmine",
+        "clean_name": "Carmine",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "103/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "If you go first, you may use this card during your first turn.<br>Discard your hand and draw 5 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.03,
+            "mid_price": 0.22,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.21,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.21,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610458"
+      },
+      "cardmarket": {
+        "product_name": "Carmine",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.14,
+            "avg30": 0.13,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Carmine-PRE103"
+      }
+    },
+    {
+      "id": "pk_b0015a3d676fe295d9d9a73bbdc1c125e5ea92aa7d19830ba465be61f0495005d422e7907c3ab7f421b26c2ea287c78a",
+      "card_info": {
+        "name": "Ciphermaniac's Codebreaking",
+        "clean_name": "Ciphermaniacs Codebreaking",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "104/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.22,
+            "direct_low_price": 0.03,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.2,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610459"
+      },
+      "cardmarket": {
+        "product_name": "Ciphermaniac's Codebreaking",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.19,
+            "avg30": 0.14,
+            "trend": 0.21,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ciphermaniacs-Codebreaking-PRE104"
+      }
+    },
+    {
+      "id": "pk_39705dbdf934718a9c6ae5bcf74107283998cd917d4f323c95dfd6e4a96e347247c10d418dbdaea8bc42f29051248104",
+      "card_info": {
+        "name": "Earthen Vessel",
+        "clean_name": "Earthen Vessel",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "106/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.3,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.3,
+            "direct_low_price": 0.18,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.23,
+            "direct_low_price": 0.06,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610461"
+      },
+      "cardmarket": {
+        "product_name": "Earthen Vessel",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.05,
+            "avg30": 0.07,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.14,
+            "avg30": 0.14,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106"
+      }
+    },
+    {
+      "id": "pk_68602b9bd07dff692de037f4fe1c3bc5fc28c3d544ec4dc91d5008cfa4044d2c248c21b7002c7ffce6ad8016d6c0a01d",
+      "card_info": {
+        "name": "Explorer's Guidance",
+        "clean_name": "Explorers Guidance",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "107/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.2,
+            "direct_low_price": 0.02,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.13,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610462"
+      },
+      "cardmarket": {
+        "product_name": "Explorer's Guidance",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.04,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.06,
+            "avg30": 0.1,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Explorers-Guidance-PRE107"
+      }
+    },
+    {
+      "id": "pk_4c609e5a7f428a3f6388320abd794d21c562bb5a72e249ae19bd576470c194c8cff66647f27eafbfbb8b084bb630e6cc",
+      "card_info": {
+        "name": "Festival Grounds",
+        "clean_name": "Festival Grounds",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "108/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Stadium",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Pokemon that has any Energy attached <em>(both yours and your opponent's)</em> recovers from all Special Conditions and can't be affected by any Special Conditions.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.14,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.03,
+            "mid_price": 0.23,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.23,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610463"
+      },
+      "cardmarket": {
+        "product_name": "Festival Grounds",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.38,
+            "avg7": 0.14,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Festival-Grounds-PRE108"
+      }
+    },
+    {
+      "id": "pk_353385e6641733f2ab609aa3a2176d892d4ec5bdeed34f15e933b9a7cd1f90592098b54f4af845679809a07d88119b90",
+      "card_info": {
+        "name": "Briar (Poke Ball Pattern)",
+        "clean_name": "Briar Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "100/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if your opponent has exactly 2 Prize cards remaining.<br>During this turn, if your opponent's Active Pokemon is Knocked Out by damage from an attack used by your Tera Pokemon, take 1 more Prize card.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.35,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.3,
+            "direct_low_price": 0.3,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610611"
+      },
+      "cardmarket": {
+        "product_name": "Briar",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.08,
+            "avg30": 0.11,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Briar-PRE100"
+      }
+    },
+    {
+      "id": "pk_f0d3bc777da82c47f8430a814a90811160ed0d1ae78b6eba43ea0861cc9fbc52bf02f2f30e3b7323313468e9c6e3d428",
+      "card_info": {
+        "name": "Buddy-Buddy Poffin (Poke Ball Pattern)",
+        "clean_name": "Buddy Buddy Poffin Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "101/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Basic Pokemon with 70 HP or less and put them onto your Bench. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.88,
+            "high_price": 9999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.75,
+            "direct_low_price": 0.77,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610612"
+      },
+      "cardmarket": {
+        "product_name": "Buddy-Buddy Poffin",
+        "prices": [
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.09,
+            "avg30": 0.11,
+            "trend": 0.11,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.26,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.16,
+            "avg30": 0.24,
+            "trend": 0.26,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101"
+      }
+    },
+    {
+      "id": "pk_a17b579b3e4dddc524445a48cd88bde4248148dd7b32eaaaac11a1df443d449557a29e8d373b0b0cb36eda54ee852fc0",
+      "card_info": {
+        "name": "Bug Catching Set (Poke Ball Pattern)",
+        "clean_name": "Bug Catching Set Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "102/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 7 cards of your deck. You may reveal up to 2 in any combination of Grass Pokemon and Basic Grass Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.53,
+            "mid_price": 2.6,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 2.2,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610613"
+      },
+      "cardmarket": {
+        "product_name": "Bug Catching Set",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.11,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.2,
+            "low": 0.02,
+            "avg1": 0.49,
+            "avg7": 0.17,
+            "avg30": 0.2,
+            "trend": 0.19,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Bug-Catching-Set-PRE102"
+      }
+    },
+    {
+      "id": "pk_69459985f06371cb2c6c48db50bdfef5563eafa6162daa7ce9b32e22acbcaf8b72959afe0cb80673ffd6cb40b9b6eb51",
+      "card_info": {
+        "name": "Carmine (Poke Ball Pattern)",
+        "clean_name": "Carmine Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "103/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "If you go first, you may use this card during your first turn.<br>Discard your hand and draw 5 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.4,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.32,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610614"
+      },
+      "cardmarket": {
+        "product_name": "Carmine",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.14,
+            "avg30": 0.13,
+            "trend": 0.13,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Carmine-PRE103"
+      }
+    },
+    {
+      "id": "pk_55483e4d622d1324b839214cc7991dbb1f92b9ee26287780b1ac35f30fbfd9e40801b91a25963f5aa1f59c3307944f0a",
+      "card_info": {
+        "name": "Ciphermaniac's Codebreaking (Poke Ball Pattern)",
+        "clean_name": "Ciphermaniacs Codebreaking Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "104/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.41,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.38,
+            "direct_low_price": 0.37,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610615"
+      },
+      "cardmarket": {
+        "product_name": "Ciphermaniac's Codebreaking",
+        "prices": [
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.19,
+            "avg30": 0.14,
+            "trend": 0.21,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ciphermaniacs-Codebreaking-PRE104"
+      }
+    },
+    {
+      "id": "pk_afdcafbdc5753615509101cc00dbe425952bd8f7c2384462cfc563765ed4b920bb80dd1e979643a30249e2d4bcd183c7",
+      "card_info": {
+        "name": "Crispin - 105/131 (Poke Ball Pattern)",
+        "clean_name": "Crispin 105 131 Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "105/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 2 Basic Energy cards of different types, reveal them, and put 1 of them into your hand. Attach the other to 1 of your Pokemon. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 0.71,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.57,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610616"
+      },
+      "cardmarket": {
+        "product_name": "Crispin",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.12,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.23,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.19,
+            "avg30": 0.22,
+            "trend": 0.23,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Crispin-V1-PRE105"
+      }
+    },
+    {
+      "id": "pk_8e0327b6a12806276c96dc70c445b219cdeb0eb7c9cd66de2f57db6f9c80508660f38fea0c6c581987f7b2f9ca3555f2",
+      "card_info": {
+        "name": "Earthen Vessel (Poke Ball Pattern)",
+        "clean_name": "Earthen Vessel Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "106/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.47,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610617"
+      },
+      "cardmarket": {
+        "product_name": "Earthen Vessel",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.05,
+            "avg30": 0.07,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.14,
+            "avg30": 0.14,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106"
+      }
+    },
+    {
+      "id": "pk_527e5af5ee2971a8f078d90e3b6001fb50b59e40a1db32f5909074e907b55bd86d267c900c9333857e01c58fd1d22a35",
+      "card_info": {
+        "name": "Explorer's Guidance (Poke Ball Pattern)",
+        "clean_name": "Explorers Guidance Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "107/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.34,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.32,
+            "direct_low_price": 0.26,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610618"
+      },
+      "cardmarket": {
+        "product_name": "Explorer's Guidance",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.04,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.06,
+            "avg30": 0.1,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Explorers-Guidance-PRE107"
+      }
+    },
+    {
+      "id": "pk_3e2539ded5bf18ed2f148309a936a7122ba8b41e6856d4253337add9d9bc3db30d2bafee88bd9cdd7b29643e3fbdee7d",
+      "card_info": {
+        "name": "Festival Grounds (Poke Ball Pattern)",
+        "clean_name": "Festival Grounds Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "108/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Stadium",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Pokemon that has any Energy attached <em>(both yours and your opponent's)</em> recovers from all Special Conditions and can't be affected by any Special Conditions.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.43,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.36,
+            "direct_low_price": 0.56,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610619"
+      },
+      "cardmarket": {
+        "product_name": "Festival Grounds",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.38,
+            "avg7": 0.14,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Festival-Grounds-PRE108"
+      }
+    },
+    {
+      "id": "pk_7598115b9c0af33b7bca4efd2e88da6484268bccecca63552ff8b164c82c9c84fd6255daf228547c3a0e37e1b535fbae",
+      "card_info": {
+        "name": "Friends in Paldea - 109/131 (Poke Ball Pattern)",
+        "clean_name": "Friends in Paldea 109 131 Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "109/131",
+        "rarity": "Common",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.33,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.3,
+            "direct_low_price": 0.24,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610620"
+      },
+      "cardmarket": {
+        "product_name": "Friends in Paldea",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.06,
+            "avg30": 0.07,
+            "trend": 0.12,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Friends-in-Paldea-V1-PRE109"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 21,
+    "total_pages": 2
+  },
+  "metadata": {
+    "total_count": 21,
+    "tcg": 20,
+    "cardmarket": 21,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 20
+  }
+}

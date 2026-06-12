@@ -1,0 +1,724 @@
+{
+  "query": "23821 13",
+  "results": [
+    {
+      "id": "pk_bf598f7adf7fe1f0a3770ed6582a117c33fbb1447c06fee083b4a5ae9fe8cb7289c4be3a7a8b0119293c2a03bffccaca",
+      "card_info": {
+        "name": "Atticus - 133/131",
+        "clean_name": "Atticus",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "133/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if your opponent's Active Pokemon is Poisoned.<br>Shuffle your hand into your deck. Then, draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.95,
+            "high_price": 999.99,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.77,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610488"
+      },
+      "cardmarket": {
+        "product_name": "Atticus",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.74,
+            "low": 0.19,
+            "avg1": 0.7,
+            "avg7": 0.78,
+            "avg30": 0.78,
+            "trend": 0.7,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V1-PRE133"
+      }
+    },
+    {
+      "id": "pk_be27547a0376065aff132c26da76fadf1f8b7077a8b13c592713f055847ad9552348a4f61d65d4fb9a52c915157c5b21",
+      "card_info": {
+        "name": "Atticus - 134/131",
+        "clean_name": "Atticus",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "134/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if your opponent's Active Pokemon is Poisoned.<br>Shuffle your hand into your deck. Then, draw 7 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 0.85,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.77,
+            "direct_low_price": 0.69,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610489"
+      },
+      "cardmarket": {
+        "product_name": "Atticus",
+        "prices": [
+          {
+            "avg": 0.69,
+            "low": 0.08,
+            "avg1": 0.66,
+            "avg7": 0.7,
+            "avg30": 0.7,
+            "trend": 0.72,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V2-PRE134"
+      }
+    },
+    {
+      "id": "pk_3e1f3bcbc4bc09a5a077406b77d44dd86ff915ccee13a89019f266ff982828e8e59f6c5b9569a4fb73473d25b58c1f9b",
+      "card_info": {
+        "name": "Friends in Paldea - 137/131",
+        "clean_name": "Friends in Paldea",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "137/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 3 cards.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.5,
+            "mid_price": 1.2,
+            "high_price": 4321,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 1.17,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610492"
+      },
+      "cardmarket": {
+        "product_name": "Friends in Paldea",
+        "prices": [
+          {
+            "avg": 1.14,
+            "low": 0.15,
+            "avg1": 1.53,
+            "avg7": 1.31,
+            "avg30": 1.16,
+            "trend": 1.19,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Friends-in-Paldea-V2-PRE137"
+      }
+    },
+    {
+      "id": "pk_bf4deb3ce978d669a963dadd9bb1c0d29239d5e2f05acec73752caf01a167e21a5e89139dda162c4c7adf50fcae74726",
+      "card_info": {
+        "name": "Larry's Skill - 139/131",
+        "clean_name": "Larry's Skill",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "139/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard your hand and search your deck for a Pokemon, a Supporter card, and a Basic Energy card, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 1,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.97,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610494"
+      },
+      "cardmarket": {
+        "product_name": "Larry's Skill",
+        "prices": [
+          {
+            "avg": 1.16,
+            "low": 0.15,
+            "avg1": 1.23,
+            "avg7": 1.17,
+            "avg30": 1.17,
+            "trend": 1.02,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larrys-Skill-V2-PRE139"
+      }
+    },
+    {
+      "id": "pk_7ddf690e740e078fe7f162abab813d0a3e0cafcfec78919561d73fa04ccb46248232981e12dfc3c751cf08bcab3fd720",
+      "card_info": {
+        "name": "Amarys - 132/131",
+        "clean_name": "Amarys",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "132/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Draw 4 cards. At the end of this turn, if you have 5 or more cards in your hand, discard your hand.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.78,
+            "high_price": 4321,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.53,
+            "direct_low_price": 0.56,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610487"
+      },
+      "cardmarket": {
+        "product_name": "Amarys",
+        "prices": [
+          {
+            "avg": 0.77,
+            "low": 0.02,
+            "avg1": 0.88,
+            "avg7": 0.81,
+            "avg30": 0.77,
+            "trend": 0.74,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Amarys-V2-PRE132"
+      }
+    },
+    {
+      "id": "pk_f1c3d8d2f6a9c2fdbbf84eaf99bf84c65e55ce75d8b53db58f19d379ba4420d5dca96d5a6cc6883b6ba77351564a4ef7",
+      "card_info": {
+        "name": "Techno Radar",
+        "clean_name": "Techno Radar",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "130/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Future Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.16,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.03,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610485"
+      },
+      "cardmarket": {
+        "product_name": "Techno Radar",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Techno-Radar-PRE130"
+      }
+    },
+    {
+      "id": "pk_92dd6fc7c0b0021475253a5dcb73592d9a88082d89b8abf9ccacf78a1ffad092e3b6527a16f48ffdc72b2a4a811591d1",
+      "card_info": {
+        "name": "Treasure Tracker",
+        "clean_name": "Treasure Tracker",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "131/131",
+        "rarity": "ACE SPEC Rare",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "Search your deck for up to 5 Pokemon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.42,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.36,
+            "direct_low_price": 0.31,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610486"
+      },
+      "cardmarket": {
+        "product_name": "Treasure Tracker",
+        "prices": [
+          {
+            "avg": 0.34,
+            "low": 0.02,
+            "avg1": 0.39,
+            "avg7": 0.42,
+            "avg30": 0.35,
+            "trend": 0.37,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Treasure-Tracker-PRE131"
+      }
+    },
+    {
+      "id": "pk_f7a74caaebd3ea86e485a763871ee69ce862b55434afb7c990b3c30ab2e48d594efbb172c18d7f6d7f9af7d998828371",
+      "card_info": {
+        "name": "Eri",
+        "clean_name": "Eri",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "136/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Your opponent reveals their hand, and you discard up to 2 Item cards you find there.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.17,
+            "high_price": 9999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.99,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610491"
+      },
+      "cardmarket": {
+        "product_name": "Eri",
+        "prices": [
+          {
+            "avg": 1.01,
+            "low": 0.2,
+            "avg1": 1.05,
+            "avg7": 0.99,
+            "avg30": 1.02,
+            "trend": 1.18,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Eri-PRE136"
+      }
+    },
+    {
+      "id": "pk_a1f8f061522ee68e9b347b391aab740625034a32223450e9ea95afdffa079606354e31b5a9ab029952cb30ac842ecfc3",
+      "card_info": {
+        "name": "Giacomo",
+        "clean_name": "Giacomo",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "138/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Discard a Special Energy from each of your opponent's Pokemon.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.18,
+            "mid_price": 0.75,
+            "high_price": 999.99,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.59,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610493"
+      },
+      "cardmarket": {
+        "product_name": "Giacomo",
+        "prices": [
+          {
+            "avg": 0.74,
+            "low": 0.09,
+            "avg1": 0.44,
+            "avg7": 0.7,
+            "avg30": 0.74,
+            "trend": 0.7,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Giacomo-PRE138"
+      }
+    },
+    {
+      "id": "pk_f73cb08e09e2ed2016e917acc886dfb6186be5a6fed5389d7eef055324b0f180e30c2862615fbe76b3d8b53eaa774ea6",
+      "card_info": {
+        "name": "Techno Radar (Poke Ball Pattern)",
+        "clean_name": "Techno Radar Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "130/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Future Pokemon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.33,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610636"
+      },
+      "cardmarket": {
+        "product_name": "Techno Radar",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.02,
+            "trend": 0.03,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.09,
+            "trend": 0.06,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Techno-Radar-PRE130"
+      }
+    },
+    {
+      "id": "pk_971d29218e3cee1876461cec9350175c9b5ec69c34d50d5b03b40d7b38110d143c05ea123e33c0f50f473c243bed751b",
+      "card_info": {
+        "name": "Brassius",
+        "clean_name": "Brassius",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "135/131",
+        "rarity": "Ultra Rare",
+        "card_type": "Trainer - Supporter",
+        "hp": null,
+        "stage": null,
+        "card_text": "Count the cards in your hand, shuffle those cards into your deck, then draw that many cards plus 1.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.13,
+            "mid_price": 0.75,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610490"
+      },
+      "cardmarket": {
+        "product_name": "Brassius",
+        "prices": [
+          {
+            "avg": 0.74,
+            "low": 0.08,
+            "avg1": 1.14,
+            "avg7": 0.71,
+            "avg30": 0.75,
+            "trend": 0.72,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Brassius-PRE135"
+      }
+    },
+    {
+      "id": "78df5dad6b14d7ccab973c11c97b4ebf937bbd5fcb78a3824adcb42b46ae7e3e",
+      "card_info": {
+        "name": "Flareon",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "13"
+      },
+      "tcgplayer": null,
+      "cardmarket": {
+        "product_name": "Flareon",
+        "prices": [
+          {
+            "avg": 0.29,
+            "low": 0.02,
+            "avg1": 0.24,
+            "avg7": 0.34,
+            "avg30": 0.28,
+            "trend": 0.27,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.25,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.17,
+            "avg30": 0.25,
+            "trend": 0.18,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Flareon-PRE013"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 12,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 12,
+    "tcg": 11,
+    "cardmarket": 12,
+    "tcg_only": 0,
+    "cardmarket_only": 1,
+    "both_sources": 11
+  }
+}

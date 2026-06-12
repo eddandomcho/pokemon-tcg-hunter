@@ -1,40 +1,40 @@
 {
-  "query": "23821 46",
+  "query": "23821 41",
   "results": [
     {
-      "id": "eb9b743ffad5213e613ca8d67f85b21eae0a709dad0b1ac0da8084920cf03425",
+      "id": "4236ccc261c59a0420fdaf4803d852fc6d8155ee9adaa1b6cd325bb3bc991ca0",
       "card_info": {
-        "name": "Iron Boulder",
+        "name": "Sylveon ex",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "46"
+        "card_number": "41"
       },
       "tcgplayer": null,
       "cardmarket": {
-        "product_name": "Iron Boulder",
+        "product_name": "Sylveon ex",
         "prices": [
           {
-            "avg": 0.05,
-            "low": 0.02,
-            "avg1": 0.06,
-            "avg7": 0.05,
-            "avg30": 0.05,
-            "trend": 0.08,
+            "avg": 2.35,
+            "low": 0.5,
+            "avg1": 2.33,
+            "avg7": 2.5,
+            "avg30": 2.39,
+            "trend": 2.54,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.11,
-            "low": 0.02,
-            "avg1": 0.12,
-            "avg7": 0.12,
-            "avg30": 0.11,
-            "trend": 0.12,
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Boulder-PRE046"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sylveon-ex-V1-PRE041"
       }
     }
   ],

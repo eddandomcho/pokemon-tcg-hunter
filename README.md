@@ -8,8 +8,10 @@ Extract, Transform, Load 파이프라인 스크립트, 레벨로 나누어져 �
 
 pandas 데이터 프레임 형태 테이블을 PostGreSQL pokehunter 데이터베이스로 로드하는 스크립트 모임
 
-- username = "student"
-- password = ""
+```
+username = "student"
+password = ""
+```
 
 ### data_transform
 

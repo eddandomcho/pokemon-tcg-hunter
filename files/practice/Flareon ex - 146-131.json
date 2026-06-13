@@ -1,0 +1,82 @@
+{
+  "query": "23821 146",
+  "results": [
+    {
+      "id": "pk_01126f93d7c9a1b93621a5db27548509159bb8f98c6a21b566e6fb9b3da39f5d5869355bd2aeb0d304eb69cdf78e9d69",
+      "card_info": {
+        "name": "Flareon ex - 146/131",
+        "clean_name": "Flareon ex",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "146/131",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Fire",
+        "hp": "270.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[RC] Burning Charge (130)<br> Search your deck for up to 2 Basic Energy cards and attach them to 1 of your Pokemon. Then, shuffle your deck.",
+          "[RWL] Carnelian (280)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 180,
+            "mid_price": 227.18,
+            "high_price": 1595.1,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 203.96,
+            "direct_low_price": 203.96,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610501"
+      },
+      "cardmarket": {
+        "product_name": "Flareon ex",
+        "prices": [
+          {
+            "avg": 144.49,
+            "low": 85,
+            "avg1": 169,
+            "avg7": 149.61,
+            "avg30": 144.27,
+            "trend": 155.61,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Flareon-ex-V2-PRE146"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

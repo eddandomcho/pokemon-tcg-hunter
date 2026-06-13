@@ -1,20 +1,20 @@
 {
-  "query": "23821 133",
+  "query": "23821 139",
   "results": [
     {
-      "id": "pk_bf598f7adf7fe1f0a3770ed6582a117c33fbb1447c06fee083b4a5ae9fe8cb7289c4be3a7a8b0119293c2a03bffccaca",
+      "id": "pk_bf4deb3ce978d669a963dadd9bb1c0d29239d5e2f05acec73752caf01a167e21a5e89139dda162c4c7adf50fcae74726",
       "card_info": {
-        "name": "Atticus - 133/131",
-        "clean_name": "Atticus",
+        "name": "Larry's Skill - 139/131",
+        "clean_name": "Larry's Skill",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "133/131",
+        "card_number": "139/131",
         "rarity": "Ultra Rare",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "You can use this card only if your opponent's Active Pokemon is Poisoned.<br>Shuffle your hand into your deck. Then, draw 7 cards.",
+        "card_text": "Discard your hand and search your deck for a Pokemon, a Supporter card, and a Basic Energy card, reveal them, and put them into your hand. Then, shuffle your deck.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -23,20 +23,30 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.35,
-            "mid_price": 0.95,
-            "high_price": 999.99,
+            "low_price": 0.3,
+            "mid_price": 1,
+            "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.77,
+            "market_price": 0.97,
             "direct_low_price": null,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610488"
+        "url": "https://www.tcgplayer.com/product/610494"
       },
       "cardmarket": {
-        "product_name": "Atticus",
+        "product_name": "Larry's Skill",
         "prices": [
+          {
+            "avg": 1.16,
+            "low": 0.15,
+            "avg1": 1.23,
+            "avg7": 1.17,
+            "avg30": 1.17,
+            "trend": 1.02,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
           {
             "avg": null,
             "low": null,
@@ -46,19 +56,9 @@
             "trend": 0,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
-          },
-          {
-            "avg": 0.74,
-            "low": 0.19,
-            "avg1": 0.7,
-            "avg7": 0.78,
-            "avg30": 0.78,
-            "trend": 0.7,
-            "updated_at": "2026-06-12T08:38:23.984889",
-            "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V1-PRE133"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larrys-Skill-V2-PRE139"
       }
     }
   ],

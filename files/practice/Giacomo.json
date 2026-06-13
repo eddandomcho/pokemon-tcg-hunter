@@ -1,20 +1,20 @@
 {
-  "query": "23821 133",
+  "query": "23821 138",
   "results": [
     {
-      "id": "pk_bf598f7adf7fe1f0a3770ed6582a117c33fbb1447c06fee083b4a5ae9fe8cb7289c4be3a7a8b0119293c2a03bffccaca",
+      "id": "pk_a1f8f061522ee68e9b347b391aab740625034a32223450e9ea95afdffa079606354e31b5a9ab029952cb30ac842ecfc3",
       "card_info": {
-        "name": "Atticus - 133/131",
-        "clean_name": "Atticus",
+        "name": "Giacomo",
+        "clean_name": "Giacomo",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "133/131",
+        "card_number": "138/131",
         "rarity": "Ultra Rare",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "You can use this card only if your opponent's Active Pokemon is Poisoned.<br>Shuffle your hand into your deck. Then, draw 7 cards.",
+        "card_text": "Discard a Special Energy from each of your opponent's Pokemon.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -23,20 +23,30 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.35,
-            "mid_price": 0.95,
+            "low_price": 0.18,
+            "mid_price": 0.75,
             "high_price": 999.99,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.77,
+            "market_price": 0.59,
             "direct_low_price": null,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610488"
+        "url": "https://www.tcgplayer.com/product/610493"
       },
       "cardmarket": {
-        "product_name": "Atticus",
+        "product_name": "Giacomo",
         "prices": [
+          {
+            "avg": 0.74,
+            "low": 0.09,
+            "avg1": 0.44,
+            "avg7": 0.7,
+            "avg30": 0.74,
+            "trend": 0.7,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
           {
             "avg": null,
             "low": null,
@@ -46,19 +56,9 @@
             "trend": 0,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
-          },
-          {
-            "avg": 0.74,
-            "low": 0.19,
-            "avg1": 0.7,
-            "avg7": 0.78,
-            "avg30": 0.78,
-            "trend": 0.7,
-            "updated_at": "2026-06-12T08:38:23.984889",
-            "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V1-PRE133"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Giacomo-PRE138"
       }
     }
   ],

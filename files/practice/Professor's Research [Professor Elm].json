@@ -1,20 +1,20 @@
 {
-  "query": "23821 114",
+  "query": "23821 123",
   "results": [
     {
-      "id": "pk_74831674bf43eb8008bb6dfe6816815609937be382239b0025b28023d2d99f7289c98fcfc63370ac245439e56cdb165c",
+      "id": "pk_d51a7a02b7d53b740394041201c9491d577b9ab26e658a29110dc773779443da3146c16e6de9c05199de9f2115eaca1b",
       "card_info": {
-        "name": "Lacey - 114/131",
-        "clean_name": "Lacey",
+        "name": "Professor's Research [Professor Elm]",
+        "clean_name": "Professors Research Professor Elm",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "114/131",
-        "rarity": "Uncommon",
+        "card_number": "123/131",
+        "rarity": "Common",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "card_text": "Discard your hand and draw 7 cards.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -22,68 +22,68 @@
       },
       "tcgplayer": {
         "prices": [
-          {
-            "low_price": 0.01,
-            "mid_price": 0.2,
-            "high_price": 999,
-            "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.17,
-            "direct_low_price": 0.01,
-            "sub_type_name": "Reverse Holofoil"
-          },
           {
             "low_price": 0.01,
             "mid_price": 0.15,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.09,
+            "market_price": 0.12,
             "direct_low_price": 0.01,
             "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.19,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Reverse Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610469"
+        "url": "https://www.tcgplayer.com/product/610478"
       },
       "cardmarket": {
-        "product_name": "Lacey",
+        "product_name": "Professor's Research - Professor Elm",
         "prices": [
           {
-            "avg": 0.12,
+            "avg": 0.1,
             "low": 0.02,
-            "avg1": 0.07,
-            "avg7": 0.07,
+            "avg1": 0.05,
+            "avg7": 0.1,
             "avg30": 0.09,
-            "trend": 0.06,
+            "trend": 0.11,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           },
           {
             "avg": 0.03,
             "low": 0.02,
-            "avg1": 0.05,
-            "avg7": 0.04,
+            "avg1": 0.02,
+            "avg7": 0.03,
             "avg30": 0.03,
             "trend": 0.03,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Elm-PRE124"
       }
     },
     {
-      "id": "pk_5b0fcbc45ddcfbc8ed2515f557dd16c901f35331b1fb81efe4940739f2b9b3d1fcac50f15e759a39ef8f6b06b3d95d5e",
+      "id": "pk_0fc62a9e8986977a53d3c538dc8214aa1d41b3b3fc85275c9cc9507d15d082e86f4d0cc4f6f62c5ff7623889e27dede3",
       "card_info": {
-        "name": "Lacey - 114/131 (Poke Ball Pattern)",
-        "clean_name": "Lacey 114 131 Poke Ball Pattern",
+        "name": "Professor's Research [Professor Elm] (Poke Ball Pattern)",
+        "clean_name": "Professors Research Professor Elm Poke Ball Pattern",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "114/131",
-        "rarity": "Uncommon",
+        "card_number": "123/131",
+        "rarity": "Common",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "card_text": "Discard your hand and draw 7 cards.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -92,42 +92,42 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.1,
+            "low_price": 0.05,
             "mid_price": 0.35,
-            "high_price": 9999,
+            "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.32,
-            "direct_low_price": null,
+            "market_price": 0.33,
+            "direct_low_price": 0.15,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610625"
+        "url": "https://www.tcgplayer.com/product/610631"
       },
       "cardmarket": {
-        "product_name": "Lacey",
+        "product_name": "Professor's Research - Professor Elm",
         "prices": [
           {
-            "avg": 0.12,
+            "avg": 0.1,
             "low": 0.02,
-            "avg1": 0.07,
-            "avg7": 0.07,
+            "avg1": 0.05,
+            "avg7": 0.1,
             "avg30": 0.09,
-            "trend": 0.06,
+            "trend": 0.11,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           },
           {
             "avg": 0.03,
             "low": 0.02,
-            "avg1": 0.05,
-            "avg7": 0.04,
+            "avg1": 0.02,
+            "avg7": 0.03,
             "avg30": 0.03,
             "trend": 0.03,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Elm-PRE124"
       }
     }
   ],

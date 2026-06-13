@@ -41,9 +41,6 @@ def print_card_json(query):
 
 def write_card_json(query):
     result = fetch_card_json(query)
-
-    print(result)
-
     eng_name = qci.fetch_card_info(query)["name"]
     eng_name = eng_name.replace("/", "-")
 

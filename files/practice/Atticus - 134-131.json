@@ -1,15 +1,15 @@
 {
-  "query": "23821 133",
+  "query": "23821 134",
   "results": [
     {
-      "id": "pk_bf598f7adf7fe1f0a3770ed6582a117c33fbb1447c06fee083b4a5ae9fe8cb7289c4be3a7a8b0119293c2a03bffccaca",
+      "id": "pk_be27547a0376065aff132c26da76fadf1f8b7077a8b13c592713f055847ad9552348a4f61d65d4fb9a52c915157c5b21",
       "card_info": {
-        "name": "Atticus - 133/131",
+        "name": "Atticus - 134/131",
         "clean_name": "Atticus",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "133/131",
+        "card_number": "134/131",
         "rarity": "Ultra Rare",
         "card_type": "Trainer - Supporter",
         "hp": null,
@@ -23,20 +23,30 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.35,
-            "mid_price": 0.95,
-            "high_price": 999.99,
+            "low_price": 0.29,
+            "mid_price": 0.85,
+            "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
             "market_price": 0.77,
-            "direct_low_price": null,
+            "direct_low_price": 0.69,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610488"
+        "url": "https://www.tcgplayer.com/product/610489"
       },
       "cardmarket": {
         "product_name": "Atticus",
         "prices": [
+          {
+            "avg": 0.69,
+            "low": 0.08,
+            "avg1": 0.66,
+            "avg7": 0.7,
+            "avg30": 0.7,
+            "trend": 0.72,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
           {
             "avg": null,
             "low": null,
@@ -46,19 +56,9 @@
             "trend": 0,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
-          },
-          {
-            "avg": 0.74,
-            "low": 0.19,
-            "avg1": 0.7,
-            "avg7": 0.78,
-            "avg30": 0.78,
-            "trend": 0.7,
-            "updated_at": "2026-06-12T08:38:23.984889",
-            "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V1-PRE133"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V2-PRE134"
       }
     }
   ],

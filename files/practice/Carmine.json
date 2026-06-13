@@ -1,20 +1,20 @@
 {
-  "query": "23821 105",
+  "query": "23821 103",
   "results": [
     {
-      "id": "pk_47b2766493cfed6c5f72a1f2ae0c9726b74c0de8ab0dd46f520e98cb6a056394ee198d5ff7a1d819375d853f0fa23071",
+      "id": "pk_cb58f6d38382bfea9cb9cd2103413ea9661ca68f7524fa057542cc434d33c6313776b07017bc68ca4fae477cffb8bbb9",
       "card_info": {
-        "name": "Crispin - 105/131",
-        "clean_name": "Crispin",
+        "name": "Carmine",
+        "clean_name": "Carmine",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "105/131",
+        "card_number": "103/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Search your deck for up to 2 Basic Energy cards of different types, reveal them, and put 1 of them into your hand. Attach the other to 1 of your Pokemon. Then, shuffle your deck.",
+        "card_text": "If you go first, you may use this card during your first turn.<br>Discard your hand and draw 5 cards.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -23,67 +23,67 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.02,
-            "mid_price": 0.27,
+            "low_price": 0.03,
+            "mid_price": 0.22,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.26,
-            "direct_low_price": 0.03,
+            "market_price": 0.21,
+            "direct_low_price": 0.1,
             "sub_type_name": "Reverse Holofoil"
           },
           {
             "low_price": 0.01,
-            "mid_price": 0.22,
+            "mid_price": 0.2,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.23,
-            "direct_low_price": null,
+            "market_price": 0.21,
+            "direct_low_price": 0.1,
             "sub_type_name": "Normal"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610460"
+        "url": "https://www.tcgplayer.com/product/610458"
       },
       "cardmarket": {
-        "product_name": "Crispin",
+        "product_name": "Carmine",
         "prices": [
           {
-            "avg": 0.1,
+            "avg": 0.05,
             "low": 0.02,
-            "avg1": 0.1,
-            "avg7": 0.09,
-            "avg30": 0.1,
-            "trend": 0.12,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.23,
+            "avg": 0.12,
             "low": 0.02,
-            "avg1": 0.16,
-            "avg7": 0.19,
-            "avg30": 0.22,
-            "trend": 0.23,
+            "avg1": 0.12,
+            "avg7": 0.14,
+            "avg30": 0.13,
+            "trend": 0.13,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Crispin-V1-PRE105"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Carmine-PRE103"
       }
     },
     {
-      "id": "pk_afdcafbdc5753615509101cc00dbe425952bd8f7c2384462cfc563765ed4b920bb80dd1e979643a30249e2d4bcd183c7",
+      "id": "pk_69459985f06371cb2c6c48db50bdfef5563eafa6162daa7ce9b32e22acbcaf8b72959afe0cb80673ffd6cb40b9b6eb51",
       "card_info": {
-        "name": "Crispin - 105/131 (Poke Ball Pattern)",
-        "clean_name": "Crispin 105 131 Poke Ball Pattern",
+        "name": "Carmine (Poke Ball Pattern)",
+        "clean_name": "Carmine Poke Ball Pattern",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "105/131",
+        "card_number": "103/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Search your deck for up to 2 Basic Energy cards of different types, reveal them, and put 1 of them into your hand. Attach the other to 1 of your Pokemon. Then, shuffle your deck.",
+        "card_text": "If you go first, you may use this card during your first turn.<br>Discard your hand and draw 5 cards.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -92,42 +92,42 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.2,
-            "mid_price": 0.71,
+            "low_price": 0.01,
+            "mid_price": 0.4,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.57,
+            "market_price": 0.32,
             "direct_low_price": null,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610616"
+        "url": "https://www.tcgplayer.com/product/610614"
       },
       "cardmarket": {
-        "product_name": "Crispin",
+        "product_name": "Carmine",
         "prices": [
           {
-            "avg": 0.1,
+            "avg": 0.05,
             "low": 0.02,
-            "avg1": 0.1,
-            "avg7": 0.09,
-            "avg30": 0.1,
-            "trend": 0.12,
+            "avg1": 0.05,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.23,
+            "avg": 0.12,
             "low": 0.02,
-            "avg1": 0.16,
-            "avg7": 0.19,
-            "avg30": 0.22,
-            "trend": 0.23,
+            "avg1": 0.12,
+            "avg7": 0.14,
+            "avg30": 0.13,
+            "trend": 0.13,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Crispin-V1-PRE105"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Carmine-PRE103"
       }
     }
   ],

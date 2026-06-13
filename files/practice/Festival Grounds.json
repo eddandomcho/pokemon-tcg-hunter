@@ -1,0 +1,148 @@
+{
+  "query": "23821 108",
+  "results": [
+    {
+      "id": "pk_4c609e5a7f428a3f6388320abd794d21c562bb5a72e249ae19bd576470c194c8cff66647f27eafbfbb8b084bb630e6cc",
+      "card_info": {
+        "name": "Festival Grounds",
+        "clean_name": "Festival Grounds",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "108/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Stadium",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Pokemon that has any Energy attached <em>(both yours and your opponent's)</em> recovers from all Special Conditions and can't be affected by any Special Conditions.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.14,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.03,
+            "mid_price": 0.23,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.23,
+            "direct_low_price": 0.04,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610463"
+      },
+      "cardmarket": {
+        "product_name": "Festival Grounds",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.38,
+            "avg7": 0.14,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Festival-Grounds-PRE108"
+      }
+    },
+    {
+      "id": "pk_3e2539ded5bf18ed2f148309a936a7122ba8b41e6856d4253337add9d9bc3db30d2bafee88bd9cdd7b29643e3fbdee7d",
+      "card_info": {
+        "name": "Festival Grounds (Poke Ball Pattern)",
+        "clean_name": "Festival Grounds Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "108/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Stadium",
+        "hp": null,
+        "stage": null,
+        "card_text": "Each Pokemon that has any Energy attached <em>(both yours and your opponent's)</em> recovers from all Special Conditions and can't be affected by any Special Conditions.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.15,
+            "mid_price": 0.43,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.36,
+            "direct_low_price": 0.56,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610619"
+      },
+      "cardmarket": {
+        "product_name": "Festival Grounds",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.38,
+            "avg7": 0.14,
+            "avg30": 0.11,
+            "trend": 0.09,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Festival-Grounds-PRE108"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

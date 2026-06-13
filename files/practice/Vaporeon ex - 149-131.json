@@ -1,0 +1,82 @@
+{
+  "query": "23821 149",
+  "results": [
+    {
+      "id": "pk_bf6ea5017897ab0d378178683b4dee7a75b547abdda5ee19442764609580b125222987acf2807366dff0b6c800bdae3a",
+      "card_info": {
+        "name": "Vaporeon ex - 149/131",
+        "clean_name": "Vaporeon ex",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "149/131",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Water",
+        "hp": "280.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WC] Severe Squall<br> This attack does 60 damage to each of your opponent's Pokemon ex. This attack's damage isn't affected by Weakness or Resistance.",
+          "[RWL] Aquamarine (280)<br> During your next turn, this Pokemon can't attack."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 245,
+            "mid_price": 345.24,
+            "high_price": 2000,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 291.39,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610504"
+      },
+      "cardmarket": {
+        "product_name": "Vaporeon ex",
+        "prices": [
+          {
+            "avg": 162.34,
+            "low": 105.48,
+            "avg1": 200,
+            "avg7": 166.62,
+            "avg30": 153.59,
+            "trend": 168.18,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Vaporeon-ex-V2-PRE149"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

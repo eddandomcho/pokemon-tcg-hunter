@@ -1,20 +1,20 @@
 {
-  "query": "23821 121",
+  "query": "23821 100",
   "results": [
     {
-      "id": "pk_fd18e1e36c3f6b21eeae263f9b16921303807c453cee42d109ee2b1cb21c25926791663057e8bd843af2658ea4c751bd",
+      "id": "pk_53dd81a1993981fafc5a15e457e621bd4186802875bb39b0be1e6f5f63bd25ad44b13623413ecbcf911e18c4cbd66347",
       "card_info": {
-        "name": "Professor Turo's Scenario",
-        "clean_name": "Professor Turos Scenario",
+        "name": "Briar",
+        "clean_name": "Briar",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "121/131",
+        "card_number": "100/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Put 1 of your Pokemon in play into your hand. <em>(Discard all cards attached to that Pokemon.)</em>",
+        "card_text": "You can use this card only if your opponent has exactly 2 Prize cards remaining.<br>During this turn, if your opponent's Active Pokemon is Knocked Out by damage from an attack used by your Tera Pokemon, take 1 more Prize card.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -27,63 +27,63 @@
             "mid_price": 0.15,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.14,
-            "direct_low_price": 0.06,
+            "market_price": 0.13,
+            "direct_low_price": 0.05,
             "sub_type_name": "Normal"
           },
           {
             "low_price": 0.01,
-            "mid_price": 0.22,
+            "mid_price": 0.2,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.19,
+            "market_price": 0.18,
             "direct_low_price": 0.01,
             "sub_type_name": "Reverse Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610476"
+        "url": "https://www.tcgplayer.com/product/610455"
       },
       "cardmarket": {
-        "product_name": "Professor Turo's Scenario",
+        "product_name": "Briar",
         "prices": [
           {
-            "avg": 0.03,
+            "avg": 0.04,
             "low": 0.02,
-            "avg1": 0.02,
-            "avg7": 0.02,
-            "avg30": 0.03,
-            "trend": 0.03,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.09,
+            "avg": 0.1,
             "low": 0.02,
-            "avg1": 0.1,
+            "avg1": 0.15,
             "avg7": 0.08,
-            "avg30": 0.1,
-            "trend": 0.1,
+            "avg30": 0.11,
+            "trend": 0.13,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Turos-Scenario-PRE121"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Briar-PRE100"
       }
     },
     {
-      "id": "pk_8d846a45470ee9ae9150799f23bcfac4ae373df257f5171bf2bbba77ec2715009c3e78011e02169ad5306f9a4f7aa848",
+      "id": "pk_353385e6641733f2ab609aa3a2176d892d4ec5bdeed34f15e933b9a7cd1f90592098b54f4af845679809a07d88119b90",
       "card_info": {
-        "name": "Professor Turo's Scenario (Poke Ball Pattern)",
-        "clean_name": "Professor Turos Scenario Poke Ball Pattern",
+        "name": "Briar (Poke Ball Pattern)",
+        "clean_name": "Briar Poke Ball Pattern",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "121/131",
+        "card_number": "100/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Put 1 of your Pokemon in play into your hand. <em>(Discard all cards attached to that Pokemon.)</em>",
+        "card_text": "You can use this card only if your opponent has exactly 2 Prize cards remaining.<br>During this turn, if your opponent's Active Pokemon is Knocked Out by damage from an attack used by your Tera Pokemon, take 1 more Prize card.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -92,42 +92,42 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.01,
-            "mid_price": 0.38,
+            "low_price": 0.05,
+            "mid_price": 0.35,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.31,
-            "direct_low_price": null,
+            "market_price": 0.3,
+            "direct_low_price": 0.3,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610629"
+        "url": "https://www.tcgplayer.com/product/610611"
       },
       "cardmarket": {
-        "product_name": "Professor Turo's Scenario",
+        "product_name": "Briar",
         "prices": [
           {
-            "avg": 0.03,
+            "avg": 0.04,
             "low": 0.02,
-            "avg1": 0.02,
-            "avg7": 0.02,
-            "avg30": 0.03,
-            "trend": 0.03,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
           {
-            "avg": 0.09,
+            "avg": 0.1,
             "low": 0.02,
-            "avg1": 0.1,
+            "avg1": 0.15,
             "avg7": 0.08,
-            "avg30": 0.1,
-            "trend": 0.1,
+            "avg30": 0.11,
+            "trend": 0.13,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Turos-Scenario-PRE121"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Briar-PRE100"
       }
     }
   ],

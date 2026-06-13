@@ -1,20 +1,20 @@
 {
-  "query": "23821 116",
+  "query": "23821 119",
   "results": [
     {
-      "id": "pk_158b1bcc595b438ba4cdabd8acc93ba8e22f92daef76ba3879b9a713ae94ba78848d70edc9fb7cb3cb2a984278ea961b",
+      "id": "pk_ba825a571aa7613df8854769fed3304714a9c09b4758e96ea6a1a1f69de7903ef9077b66ab7cdaff171c432c41c49f0a",
       "card_info": {
-        "name": "Max Rod",
-        "clean_name": "Max Rod",
+        "name": "Prime Catcher",
+        "clean_name": "Prime Catcher",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "116/131",
+        "card_number": "119/131",
         "rarity": "ACE SPEC Rare",
         "card_type": "Trainer - Item",
         "hp": null,
         "stage": null,
-        "card_text": "Put up to 5 in any combination of Pokemon and Basic Energy cards from your discard pile into your hand.",
+        "card_text": "Switch in 1 of your opponent's Benched Pokemon to the Active Spot. If you do, switch your Active Pokemon with 1 of your Benched Pokemon.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -23,27 +23,27 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.35,
-            "mid_price": 0.89,
+            "low_price": 0.09,
+            "mid_price": 0.75,
             "high_price": 4321,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.75,
-            "direct_low_price": 0.84,
+            "market_price": 0.74,
+            "direct_low_price": 0.6,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610471"
+        "url": "https://www.tcgplayer.com/product/610474"
       },
       "cardmarket": {
-        "product_name": "Max Rod",
+        "product_name": "Prime Catcher",
         "prices": [
           {
-            "avg": 0.94,
+            "avg": 0.67,
             "low": 0.1,
-            "avg1": 1.5,
-            "avg7": 0.95,
-            "avg30": 0.95,
-            "trend": 0.97,
+            "avg1": 0.72,
+            "avg7": 0.66,
+            "avg30": 0.67,
+            "trend": 0.72,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
@@ -58,7 +58,7 @@
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Max-Rod-PRE116"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Prime-Catcher-PRE119"
       }
     }
   ],

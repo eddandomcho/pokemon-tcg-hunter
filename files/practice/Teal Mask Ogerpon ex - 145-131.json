@@ -1,0 +1,81 @@
+{
+  "query": "23821 145",
+  "results": [
+    {
+      "id": "pk_6aad3f112883b5840fcfd8be97cf387c2e2980b3e7bfc928f2ea94d390cfb396bab1873c12654e7e431deb63ea06067f",
+      "card_info": {
+        "name": "Teal Mask Ogerpon ex - 145/131",
+        "clean_name": "Teal Mask Ogerpon ex",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "145/131",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Grass",
+        "hp": "210.0",
+        "stage": "Basic",
+        "card_text": "<strong>Ability: Teal Dance</strong> Once during your turn, you may attach a Basic Grass Energy card from your hand to this Pokemon. If you attached Energy to a Pokemon in this way, draw a card.",
+        "attacks": [
+          "[GGG] Myriad Leaf Shower (30+)<br> This attack does 30 more damage for each Energy attached to both Active Pokemon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 22.34,
+            "mid_price": 26.99,
+            "high_price": 9999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 24.25,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610500"
+      },
+      "cardmarket": {
+        "product_name": "Teal Mask Ogerpon ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 19.06,
+            "low": 10,
+            "avg1": 19.99,
+            "avg7": 19,
+            "avg30": 18.74,
+            "trend": 18.85,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Teal-Mask-Ogerpon-ex-V2-PRE145"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

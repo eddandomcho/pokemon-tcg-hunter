@@ -1,20 +1,20 @@
 {
-  "query": "23821 114",
+  "query": "23821 120",
   "results": [
     {
-      "id": "pk_74831674bf43eb8008bb6dfe6816815609937be382239b0025b28023d2d99f7289c98fcfc63370ac245439e56cdb165c",
+      "id": "pk_1a156605fba1b89a155e045a1ac21c93726ab07b614cdfb2a67ca0d2babf3117ce8c9b51c42637127aab009066602bb9",
       "card_info": {
-        "name": "Lacey - 114/131",
-        "clean_name": "Lacey",
+        "name": "Professor Sada's Vitality",
+        "clean_name": "Professor Sadas Vitality",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "114/131",
+        "card_number": "120/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "card_text": "Choose up to 2 of your Ancient Pokemon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -27,8 +27,8 @@
             "mid_price": 0.2,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.17,
-            "direct_low_price": 0.01,
+            "market_price": 0.19,
+            "direct_low_price": 0.02,
             "sub_type_name": "Reverse Holofoil"
           },
           {
@@ -41,49 +41,49 @@
             "sub_type_name": "Normal"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610469"
+        "url": "https://www.tcgplayer.com/product/610475"
       },
       "cardmarket": {
-        "product_name": "Lacey",
+        "product_name": "Professor Sada's Vitality",
         "prices": [
           {
-            "avg": 0.12,
+            "avg": 0.11,
             "low": 0.02,
-            "avg1": 0.07,
+            "avg1": 0.06,
             "avg7": 0.07,
-            "avg30": 0.09,
-            "trend": 0.06,
+            "avg30": 0.11,
+            "trend": 0.07,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           },
           {
             "avg": 0.03,
             "low": 0.02,
-            "avg1": 0.05,
-            "avg7": 0.04,
+            "avg1": 0.02,
+            "avg7": 0.02,
             "avg30": 0.03,
-            "trend": 0.03,
+            "trend": 0.02,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Sadas-Vitality-PRE120"
       }
     },
     {
-      "id": "pk_5b0fcbc45ddcfbc8ed2515f557dd16c901f35331b1fb81efe4940739f2b9b3d1fcac50f15e759a39ef8f6b06b3d95d5e",
+      "id": "pk_8664fcef9aa9c07a0916b65dbef3eb2f62788ea2e2cd76f41901320142c27e504be158ace9dbbc7df93c0ca0d35bfc4f",
       "card_info": {
-        "name": "Lacey - 114/131 (Poke Ball Pattern)",
-        "clean_name": "Lacey 114 131 Poke Ball Pattern",
+        "name": "Professor Sada's Vitality (Poke Ball Pattern)",
+        "clean_name": "Professor Sadas Vitality Poke Ball Pattern",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "114/131",
+        "card_number": "120/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "card_text": "Choose up to 2 of your Ancient Pokemon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -92,42 +92,42 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.1,
-            "mid_price": 0.35,
-            "high_price": 9999,
+            "low_price": 0.01,
+            "mid_price": 0.32,
+            "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.32,
+            "market_price": 0.31,
             "direct_low_price": null,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610625"
+        "url": "https://www.tcgplayer.com/product/610628"
       },
       "cardmarket": {
-        "product_name": "Lacey",
+        "product_name": "Professor Sada's Vitality",
         "prices": [
           {
-            "avg": 0.12,
+            "avg": 0.11,
             "low": 0.02,
-            "avg1": 0.07,
+            "avg1": 0.06,
             "avg7": 0.07,
-            "avg30": 0.09,
-            "trend": 0.06,
+            "avg30": 0.11,
+            "trend": 0.07,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           },
           {
             "avg": 0.03,
             "low": 0.02,
-            "avg1": 0.05,
-            "avg7": 0.04,
+            "avg1": 0.02,
+            "avg7": 0.02,
             "avg30": 0.03,
-            "trend": 0.03,
+            "trend": 0.02,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Sadas-Vitality-PRE120"
       }
     }
   ],

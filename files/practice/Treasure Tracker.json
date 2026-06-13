@@ -1,20 +1,20 @@
 {
-  "query": "23821 116",
+  "query": "23821 131",
   "results": [
     {
-      "id": "pk_158b1bcc595b438ba4cdabd8acc93ba8e22f92daef76ba3879b9a713ae94ba78848d70edc9fb7cb3cb2a984278ea961b",
+      "id": "pk_92dd6fc7c0b0021475253a5dcb73592d9a88082d89b8abf9ccacf78a1ffad092e3b6527a16f48ffdc72b2a4a811591d1",
       "card_info": {
-        "name": "Max Rod",
-        "clean_name": "Max Rod",
+        "name": "Treasure Tracker",
+        "clean_name": "Treasure Tracker",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "116/131",
+        "card_number": "131/131",
         "rarity": "ACE SPEC Rare",
         "card_type": "Trainer - Item",
         "hp": null,
         "stage": null,
-        "card_text": "Put up to 5 in any combination of Pokemon and Basic Energy cards from your discard pile into your hand.",
+        "card_text": "Search your deck for up to 5 Pokemon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -23,27 +23,27 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.35,
-            "mid_price": 0.89,
-            "high_price": 4321,
+            "low_price": 0.01,
+            "mid_price": 0.42,
+            "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.75,
-            "direct_low_price": 0.84,
+            "market_price": 0.36,
+            "direct_low_price": 0.31,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610471"
+        "url": "https://www.tcgplayer.com/product/610486"
       },
       "cardmarket": {
-        "product_name": "Max Rod",
+        "product_name": "Treasure Tracker",
         "prices": [
           {
-            "avg": 0.94,
-            "low": 0.1,
-            "avg1": 1.5,
-            "avg7": 0.95,
-            "avg30": 0.95,
-            "trend": 0.97,
+            "avg": 0.34,
+            "low": 0.02,
+            "avg1": 0.39,
+            "avg7": 0.42,
+            "avg30": 0.35,
+            "trend": 0.37,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           },
@@ -58,7 +58,7 @@
             "variant_type": "holo"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Max-Rod-PRE116"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Treasure-Tracker-PRE131"
       }
     }
   ],

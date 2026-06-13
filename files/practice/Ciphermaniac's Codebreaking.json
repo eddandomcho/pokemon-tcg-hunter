@@ -1,20 +1,20 @@
 {
-  "query": "23821 114",
+  "query": "23821 104",
   "results": [
     {
-      "id": "pk_74831674bf43eb8008bb6dfe6816815609937be382239b0025b28023d2d99f7289c98fcfc63370ac245439e56cdb165c",
+      "id": "pk_b0015a3d676fe295d9d9a73bbdc1c125e5ea92aa7d19830ba465be61f0495005d422e7907c3ab7f421b26c2ea287c78a",
       "card_info": {
-        "name": "Lacey - 114/131",
-        "clean_name": "Lacey",
+        "name": "Ciphermaniac's Codebreaking",
+        "clean_name": "Ciphermaniacs Codebreaking",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "114/131",
+        "card_number": "104/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "card_text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -24,66 +24,66 @@
         "prices": [
           {
             "low_price": 0.01,
-            "mid_price": 0.2,
+            "mid_price": 0.24,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.17,
-            "direct_low_price": 0.01,
+            "market_price": 0.22,
+            "direct_low_price": 0.03,
             "sub_type_name": "Reverse Holofoil"
           },
           {
             "low_price": 0.01,
-            "mid_price": 0.15,
+            "mid_price": 0.19,
             "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.09,
-            "direct_low_price": 0.01,
+            "market_price": 0.2,
+            "direct_low_price": 0.1,
             "sub_type_name": "Normal"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610469"
+        "url": "https://www.tcgplayer.com/product/610459"
       },
       "cardmarket": {
-        "product_name": "Lacey",
+        "product_name": "Ciphermaniac's Codebreaking",
         "prices": [
           {
-            "avg": 0.12,
+            "avg": 0.14,
             "low": 0.02,
-            "avg1": 0.07,
-            "avg7": 0.07,
-            "avg30": 0.09,
-            "trend": 0.06,
+            "avg1": 0.1,
+            "avg7": 0.19,
+            "avg30": 0.14,
+            "trend": 0.21,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           },
           {
-            "avg": 0.03,
+            "avg": 0.05,
             "low": 0.02,
-            "avg1": 0.05,
-            "avg7": 0.04,
-            "avg30": 0.03,
-            "trend": 0.03,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.08,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ciphermaniacs-Codebreaking-PRE104"
       }
     },
     {
-      "id": "pk_5b0fcbc45ddcfbc8ed2515f557dd16c901f35331b1fb81efe4940739f2b9b3d1fcac50f15e759a39ef8f6b06b3d95d5e",
+      "id": "pk_55483e4d622d1324b839214cc7991dbb1f92b9ee26287780b1ac35f30fbfd9e40801b91a25963f5aa1f59c3307944f0a",
       "card_info": {
-        "name": "Lacey - 114/131 (Poke Ball Pattern)",
-        "clean_name": "Lacey 114 131 Poke Ball Pattern",
+        "name": "Ciphermaniac's Codebreaking (Poke Ball Pattern)",
+        "clean_name": "Ciphermaniacs Codebreaking Poke Ball Pattern",
         "set_name": "SV: Prismatic Evolutions",
         "set_code": "PRE",
         "set_id": "23821",
-        "card_number": "114/131",
+        "card_number": "104/131",
         "rarity": "Uncommon",
         "card_type": "Trainer - Supporter",
         "hp": null,
         "stage": null,
-        "card_text": "Shuffle your hand into your deck. Then, draw 4 cards. If your opponent has 3 or fewer Prize cards remaining, draw 8 cards instead.",
+        "card_text": "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order.",
         "attacks": [],
         "weakness": null,
         "resistance": null,
@@ -92,42 +92,42 @@
       "tcgplayer": {
         "prices": [
           {
-            "low_price": 0.1,
-            "mid_price": 0.35,
-            "high_price": 9999,
+            "low_price": 0.01,
+            "mid_price": 0.41,
+            "high_price": 999,
             "updated_at": "2026-06-12T08:53:22.81957",
-            "market_price": 0.32,
-            "direct_low_price": null,
+            "market_price": 0.38,
+            "direct_low_price": 0.37,
             "sub_type_name": "Holofoil"
           }
         ],
-        "url": "https://www.tcgplayer.com/product/610625"
+        "url": "https://www.tcgplayer.com/product/610615"
       },
       "cardmarket": {
-        "product_name": "Lacey",
+        "product_name": "Ciphermaniac's Codebreaking",
         "prices": [
           {
-            "avg": 0.12,
+            "avg": 0.14,
             "low": 0.02,
-            "avg1": 0.07,
-            "avg7": 0.07,
-            "avg30": 0.09,
-            "trend": 0.06,
+            "avg1": 0.1,
+            "avg7": 0.19,
+            "avg30": 0.14,
+            "trend": 0.21,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "holo"
           },
           {
-            "avg": 0.03,
+            "avg": 0.05,
             "low": 0.02,
-            "avg1": 0.05,
-            "avg7": 0.04,
-            "avg30": 0.03,
-            "trend": 0.03,
+            "avg1": 0.03,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.08,
             "updated_at": "2026-06-12T08:38:23.984889",
             "variant_type": "normal"
           }
         ],
-        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114"
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ciphermaniacs-Codebreaking-PRE104"
       }
     }
   ],

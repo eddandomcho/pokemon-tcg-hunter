@@ -1,0 +1,148 @@
+{
+  "query": "23821 106",
+  "results": [
+    {
+      "id": "pk_39705dbdf934718a9c6ae5bcf74107283998cd917d4f323c95dfd6e4a96e347247c10d418dbdaea8bc42f29051248104",
+      "card_info": {
+        "name": "Earthen Vessel",
+        "clean_name": "Earthen Vessel",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "106/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.04,
+            "mid_price": 0.3,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.3,
+            "direct_low_price": 0.18,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.23,
+            "direct_low_price": 0.06,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610461"
+      },
+      "cardmarket": {
+        "product_name": "Earthen Vessel",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.05,
+            "avg30": 0.07,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.14,
+            "avg30": 0.14,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106"
+      }
+    },
+    {
+      "id": "pk_8e0327b6a12806276c96dc70c445b219cdeb0eb7c9cd66de2f57db6f9c80508660f38fea0c6c581987f7b2f9ca3555f2",
+      "card_info": {
+        "name": "Earthen Vessel (Poke Ball Pattern)",
+        "clean_name": "Earthen Vessel Poke Ball Pattern",
+        "set_name": "SV: Prismatic Evolutions",
+        "set_code": "PRE",
+        "set_id": "23821",
+        "card_number": "106/131",
+        "rarity": "Uncommon",
+        "card_type": "Trainer - Item",
+        "hp": null,
+        "stage": null,
+        "card_text": "You can use this card only if you discard another card from your hand.<br>Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.1,
+            "mid_price": 0.47,
+            "high_price": 999,
+            "updated_at": "2026-06-12T08:53:22.81957",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/610617"
+      },
+      "cardmarket": {
+        "product_name": "Earthen Vessel",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.05,
+            "avg30": 0.07,
+            "trend": 0.08,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.14,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.14,
+            "avg30": 0.14,
+            "trend": 0.1,
+            "updated_at": "2026-06-12T08:38:23.984889",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 2,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 2,
+    "tcg": 2,
+    "cardmarket": 2,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 2
+  }
+}

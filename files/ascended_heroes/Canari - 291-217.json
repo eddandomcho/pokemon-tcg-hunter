@@ -1,0 +1,79 @@
+{
+  "query": "24541 291",
+  "results": [
+    {
+      "id": "pk_848feaf0e1b6916f257edbe47cab7b9e37933eb82dd607a5a3a2c6818d6a036ea25a75d05bc48e3cc4f27a89004bab5d",
+      "card_info": {
+        "name": "Canari - 291/217",
+        "clean_name": "Canari",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "291/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 45,
+            "mid_price": 54.99,
+            "high_price": 449.9,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 47.78,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676103"
+      },
+      "cardmarket": {
+        "product_name": "Canari",
+        "prices": [
+          {
+            "avg": 26.7,
+            "low": 16,
+            "avg1": 27.45,
+            "avg7": 27.77,
+            "avg30": 26.63,
+            "trend": 27.4,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Canari-V3-ASC292"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

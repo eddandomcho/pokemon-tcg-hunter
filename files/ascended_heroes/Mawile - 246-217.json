@@ -1,0 +1,79 @@
+{
+  "query": "24541 246",
+  "results": [
+    {
+      "id": "pk_c7bb6356b27962ff3a362092bcbd8f2a95c1cf806688f2e06fabff765f9393054347d2af354dbc9850190142d801807e",
+      "card_info": {
+        "name": "Mawile - 246/217",
+        "clean_name": "Mawile",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "246/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Metal",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.1,
+            "mid_price": 7.76,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 6.83,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676058"
+      },
+      "cardmarket": {
+        "product_name": "Mawile",
+        "prices": [
+          {
+            "avg": 4.61,
+            "low": 2.3,
+            "avg1": 4.97,
+            "avg7": 4.35,
+            "avg30": 4.48,
+            "trend": 5.24,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mawile-V2-ASC246"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

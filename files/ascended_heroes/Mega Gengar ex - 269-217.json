@@ -1,0 +1,79 @@
+{
+  "query": "24541 269",
+  "results": [
+    {
+      "id": "pk_ce164ac1caf190e343be008115f2268b7e28d45767f91459e8448605d9b7e057cb5d7eceaaf31af6101efbda137baaef",
+      "card_info": {
+        "name": "Mega Gengar ex - 269/217",
+        "clean_name": "Mega Gengar ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "269/217",
+        "rarity": "Mega Attack Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 68.52,
+            "mid_price": 89.11,
+            "high_price": 632.2,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 76.35,
+            "direct_low_price": 83.46,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676081"
+      },
+      "cardmarket": {
+        "product_name": "Mega Gengar ex",
+        "prices": [
+          {
+            "avg": 49.94,
+            "low": 24,
+            "avg1": 49.78,
+            "avg7": 49.47,
+            "avg30": 50.13,
+            "trend": 50.93,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Gengar-ex-V2-ASC269"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "query": "24541 262",
+  "results": [
+    {
+      "id": "pk_8009473d8a67d7f75e37750baa4b08f50e87914b9dce61927283e87f58ef3b713fbdfec76ce937799970f6fad4aeb2a0",
+      "card_info": {
+        "name": "N's PP Up - 262/217",
+        "clean_name": "N's PP Up",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "262/217",
+        "rarity": "Ultra Rare",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2.1,
+            "mid_price": 3.34,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 2.89,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676074"
+      },
+      "cardmarket": {
+        "product_name": "N's PP Up",
+        "prices": [
+          {
+            "avg": 1.18,
+            "low": 0.3,
+            "avg1": 1.2,
+            "avg7": 1.19,
+            "avg30": 1.26,
+            "trend": 1.17,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Ns-PP-Up-V2-ASC262"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

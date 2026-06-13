@@ -1,0 +1,79 @@
+{
+  "query": "24541 245",
+  "results": [
+    {
+      "id": "pk_4ea4715f607b2fabe997416129cb5f4fa9a83ff5d4c3d4feacfcabc25bb9f41aadb3e353cea93180da214d0b0218ada4",
+      "card_info": {
+        "name": "Galarian Obstagoon - 245/217",
+        "clean_name": "Galarian Obstagoon",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "245/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.4,
+            "mid_price": 4.99,
+            "high_price": 50.9,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 4.54,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676057"
+      },
+      "cardmarket": {
+        "product_name": "Galarian Obstagoon",
+        "prices": [
+          {
+            "avg": 3.26,
+            "low": 0.74,
+            "avg1": 3.15,
+            "avg7": 3.17,
+            "avg30": 3.3,
+            "trend": 3.2,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Galarian-Obstagoon-V2-ASC245"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

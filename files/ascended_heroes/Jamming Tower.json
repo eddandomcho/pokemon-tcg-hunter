@@ -1,0 +1,79 @@
+{
+  "query": "24541 261",
+  "results": [
+    {
+      "id": "pk_4596d208fac1b7201a9651a5b9d12d28f3d4c7936b39ee28ee0f98f17375ab2c77c440c6ceff03a1d90d1cbc04feafc8",
+      "card_info": {
+        "name": "Jamming Tower",
+        "clean_name": "Jamming Tower",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "261/217",
+        "rarity": "Ultra Rare",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 1.25,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.88,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676073"
+      },
+      "cardmarket": {
+        "product_name": "Jamming Tower",
+        "prices": [
+          {
+            "avg": 1.07,
+            "low": 0.39,
+            "avg1": 0.94,
+            "avg7": 1.08,
+            "avg30": 1.08,
+            "trend": 1.1,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Jamming-Tower-ASC261"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

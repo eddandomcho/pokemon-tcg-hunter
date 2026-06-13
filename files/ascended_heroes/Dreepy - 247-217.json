@@ -1,0 +1,79 @@
+{
+  "query": "24541 247",
+  "results": [
+    {
+      "id": "pk_29bab41fe44813fac1a48d7088dbb5f9821cac5b709ba945e1369f9f53953eafdd8cfd6b594f0f3c1eecd90e0858b479",
+      "card_info": {
+        "name": "Dreepy - 247/217",
+        "clean_name": "Dreepy",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "247/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Dragon",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11,
+            "mid_price": 13.36,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 11.69,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676059"
+      },
+      "cardmarket": {
+        "product_name": "Dreepy",
+        "prices": [
+          {
+            "avg": 6.36,
+            "low": 2.5,
+            "avg1": 8.16,
+            "avg7": 6.75,
+            "avg30": 6.5,
+            "trend": 6.47,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Dreepy-V2-ASC247"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

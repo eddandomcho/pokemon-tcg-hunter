@@ -1,0 +1,79 @@
+{
+  "query": "24541 253",
+  "results": [
+    {
+      "id": "pk_558860ba994c4bb036c5df974cdbc60d40ae86a1cb66799b82a9cf241dd12c602a27e1665b85f542cbbd6b483d24308d",
+      "card_info": {
+        "name": "Mega Audino ex - 253/217",
+        "clean_name": "Mega Audino ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "253/217",
+        "rarity": "Ultra Rare",
+        "card_type": "Colorless",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1,
+            "mid_price": 2.37,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 1.8,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676065"
+      },
+      "cardmarket": {
+        "product_name": "Mega Audino ex",
+        "prices": [
+          {
+            "avg": 1.66,
+            "low": 0.39,
+            "avg1": 1.79,
+            "avg7": 1.67,
+            "avg30": 1.65,
+            "trend": 1.63,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Audino-ex-V2-ASC253"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

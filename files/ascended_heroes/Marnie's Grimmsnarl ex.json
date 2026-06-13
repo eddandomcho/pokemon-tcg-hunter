@@ -1,0 +1,79 @@
+{
+  "query": "24541 287",
+  "results": [
+    {
+      "id": "pk_4b837d2923d90c9949af935bbe92482387a2274bb1c9682df4382c1bb7e17a7692b702d38861511db4d0320f8ae8c6f9",
+      "card_info": {
+        "name": "Marnie's Grimmsnarl ex",
+        "clean_name": "Marnies Grimmsnarl ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "287/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 80,
+            "mid_price": 90,
+            "high_price": 950,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 85.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676099"
+      },
+      "cardmarket": {
+        "product_name": "Marnie's Grimmsnarl ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 47.88,
+            "low": 27,
+            "avg1": 43.99,
+            "avg7": 45.86,
+            "avg30": 46.59,
+            "trend": 49.23,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Marnies-Grimmsnarl-ex-ASC287"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

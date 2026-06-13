@@ -1,0 +1,79 @@
+{
+  "query": "24541 280",
+  "results": [
+    {
+      "id": "pk_93af3abfdb7ab5e473d776e5a3a9e64eac1b9f29ada2d6bbc5971ad554762758a164fa430ce486e42927b3033ba1e8de",
+      "card_info": {
+        "name": "Lillie's Clefairy ex - 280/217",
+        "clean_name": "Lillie's Clefairy ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "280/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 205,
+            "mid_price": 243.48,
+            "high_price": 1789.9,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 207,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676092"
+      },
+      "cardmarket": {
+        "product_name": "Lillie's Clefairy ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 124.1,
+            "low": 58.99,
+            "avg1": 129,
+            "avg7": 124.3,
+            "avg30": 124.54,
+            "trend": 154.6,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Lillies-Clefairy-ex-V2-ASC280"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

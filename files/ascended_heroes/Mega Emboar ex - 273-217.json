@@ -1,0 +1,79 @@
+{
+  "query": "24541 273",
+  "results": [
+    {
+      "id": "pk_0caac08f6b1cbe09d28a9e4fc14597f967f2cb3eee4d16a7966f635d598c9005bc2dac9436097829d5e602526883993a",
+      "card_info": {
+        "name": "Mega Emboar ex - 273/217",
+        "clean_name": "Mega Emboar ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "273/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Fire",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 66.99,
+            "mid_price": 81.65,
+            "high_price": 849.9,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 73.5,
+            "direct_low_price": 74.98,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676085"
+      },
+      "cardmarket": {
+        "product_name": "Mega Emboar ex",
+        "prices": [
+          {
+            "avg": 48.96,
+            "low": 27.5,
+            "avg1": 51.17,
+            "avg7": 48.99,
+            "avg30": 48.52,
+            "trend": 48.58,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Emboar-ex-V2-ASC273"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

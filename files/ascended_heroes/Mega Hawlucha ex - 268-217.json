@@ -1,0 +1,79 @@
+{
+  "query": "24541 268",
+  "results": [
+    {
+      "id": "pk_491c77401f5518e863b184af027d063ffbbe17977005fc3a63c0d0a631c9ac3c58463fe937bc1adafb0003578f902b38",
+      "card_info": {
+        "name": "Mega Hawlucha ex - 268/217",
+        "clean_name": "Mega Hawlucha ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "268/217",
+        "rarity": "Mega Attack Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.53,
+            "mid_price": 9.28,
+            "high_price": 99.9,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 7.85,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676080"
+      },
+      "cardmarket": {
+        "product_name": "Mega Hawlucha ex",
+        "prices": [
+          {
+            "avg": 4.47,
+            "low": 1.9,
+            "avg1": 4.35,
+            "avg7": 4.43,
+            "avg30": 4.55,
+            "trend": 4.44,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Hawlucha-ex-V2-ASC268"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

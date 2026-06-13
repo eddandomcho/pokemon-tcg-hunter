@@ -1,0 +1,79 @@
+{
+  "query": "24541 256",
+  "results": [
+    {
+      "id": "pk_c72dfaaa460948d3aa9ddb93f30b60a58f741aa2a6112381999350073043b2f6d069a31fbb713e03986bb79d9b9110b2",
+      "card_info": {
+        "name": "Boss's Orders [Corbeau] - 256/217",
+        "clean_name": "Boss's Orders [Corbeau]",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "256/217",
+        "rarity": "Ultra Rare",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.76,
+            "mid_price": 10,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 8.95,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676068"
+      },
+      "cardmarket": {
+        "product_name": "Boss's Orders - Corbeau",
+        "prices": [
+          {
+            "avg": 5.38,
+            "low": 2,
+            "avg1": 5.04,
+            "avg7": 5.08,
+            "avg30": 5.61,
+            "trend": 5.17,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Bosss-Orders-Corbeau-V2-ASC255"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "query": "24541 288",
+  "results": [
+    {
+      "id": "pk_944f54bcf8357167536be0eec39f82c62d3d6604ae2393e30816eb87785a44373284c8fc7827a42df940a682d2f18ec3",
+      "card_info": {
+        "name": "Fezandipiti ex - 288/217",
+        "clean_name": "Fezandipiti ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "288/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 70.38,
+            "mid_price": 81.19,
+            "high_price": 861,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 73.03,
+            "direct_low_price": 74.37,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676100"
+      },
+      "cardmarket": {
+        "product_name": "Fezandipiti ex",
+        "prices": [
+          {
+            "avg": 52.87,
+            "low": 31.5,
+            "avg1": 49.2,
+            "avg7": 53.96,
+            "avg30": 54.56,
+            "trend": 51.89,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Fezandipiti-ex-V2-ASC288"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

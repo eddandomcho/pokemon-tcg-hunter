@@ -1,0 +1,79 @@
+{
+  "query": "24541 265",
+  "results": [
+    {
+      "id": "pk_caeca84a0233a0b0619b74e6e643650f0eeba75d541652e7b6f0294fffba2c69bb98d0b06113a0aa3206459d0540aff9",
+      "card_info": {
+        "name": "Mega Froslass ex - 265/217",
+        "clean_name": "Mega Froslass ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "265/217",
+        "rarity": "Mega Attack Rare",
+        "card_type": "Water",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13,
+            "mid_price": 17,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 14.55,
+            "direct_low_price": 14.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676077"
+      },
+      "cardmarket": {
+        "product_name": "Mega Froslass ex",
+        "prices": [
+          {
+            "avg": 9.77,
+            "low": 4,
+            "avg1": 10.06,
+            "avg7": 9.56,
+            "avg30": 9.82,
+            "trend": 9.88,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Froslass-ex-V2-ASC265"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

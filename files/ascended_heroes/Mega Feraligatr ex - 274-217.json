@@ -1,0 +1,79 @@
+{
+  "query": "24541 274",
+  "results": [
+    {
+      "id": "pk_e17e5186bdf112213d38b6fd678a8188f6f4c01873edb7ca957c8a45141f6b66af50133837709570908f5e3e3e7df19b",
+      "card_info": {
+        "name": "Mega Feraligatr ex - 274/217",
+        "clean_name": "Mega Feraligatr ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "274/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Water",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 169.99,
+            "mid_price": 199.99,
+            "high_price": 1706.8,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 188.59,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676086"
+      },
+      "cardmarket": {
+        "product_name": "Mega Feraligatr ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 109.64,
+            "low": 70,
+            "avg1": 149,
+            "avg7": 110.32,
+            "avg30": 104.91,
+            "trend": 134.86,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Feraligatr-ex-V2-ASC274"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

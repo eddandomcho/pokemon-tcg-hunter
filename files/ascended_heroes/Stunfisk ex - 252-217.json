@@ -1,0 +1,79 @@
+{
+  "query": "24541 252",
+  "results": [
+    {
+      "id": "pk_777c84f0d9cbba67d578446ad6624a8c6f1290229df73a2754be150a359d1789de035458e87c3642fbd908d1d209244c",
+      "card_info": {
+        "name": "Stunfisk ex - 252/217",
+        "clean_name": "Stunfisk ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "252/217",
+        "rarity": "Ultra Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.4,
+            "mid_price": 0.99,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.65,
+            "direct_low_price": 0.4,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676064"
+      },
+      "cardmarket": {
+        "product_name": "Stunfisk ex",
+        "prices": [
+          {
+            "avg": 0.78,
+            "low": 0.02,
+            "avg1": 0.74,
+            "avg7": 0.72,
+            "avg30": 0.75,
+            "trend": 0.83,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Stunfisk-ex-V2-ASC252"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

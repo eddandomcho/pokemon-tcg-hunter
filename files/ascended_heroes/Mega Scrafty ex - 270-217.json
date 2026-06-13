@@ -1,0 +1,79 @@
+{
+  "query": "24541 270",
+  "results": [
+    {
+      "id": "pk_97ebcd644e0d9e5822cbbb2d3e49d0dfc2a3327f91842ac370c6c2ea36f7014c9f9fc399bbd63f6000cd7ed8f28a6524",
+      "card_info": {
+        "name": "Mega Scrafty ex - 270/217",
+        "clean_name": "Mega Scrafty ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "270/217",
+        "rarity": "Mega Attack Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.15,
+            "mid_price": 7,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 5.3,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676082"
+      },
+      "cardmarket": {
+        "product_name": "Mega Scrafty ex",
+        "prices": [
+          {
+            "avg": 4.06,
+            "low": 1.4,
+            "avg1": 4.18,
+            "avg7": 4.2,
+            "avg30": 4.07,
+            "trend": 4,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Scrafty-ex-V2-ASC270"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

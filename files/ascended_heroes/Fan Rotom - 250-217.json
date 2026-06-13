@@ -1,0 +1,79 @@
+{
+  "query": "24541 250",
+  "results": [
+    {
+      "id": "pk_c75d667d3d477673ab52bada32204f05ee99f8e401562fe2c52554a92ad4eab991109175aa9338fb9337b055805a6be2",
+      "card_info": {
+        "name": "Fan Rotom - 250/217",
+        "clean_name": "Fan Rotom",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "250/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Colorless",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3.14,
+            "mid_price": 4.99,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 4.18,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676062"
+      },
+      "cardmarket": {
+        "product_name": "Fan Rotom",
+        "prices": [
+          {
+            "avg": 3.16,
+            "low": 1,
+            "avg1": 3.15,
+            "avg7": 3.22,
+            "avg30": 3.17,
+            "trend": 3.21,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Fan-Rotom-V2-ASC250"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

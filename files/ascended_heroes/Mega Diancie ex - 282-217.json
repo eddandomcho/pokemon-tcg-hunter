@@ -1,0 +1,79 @@
+{
+  "query": "24541 282",
+  "results": [
+    {
+      "id": "pk_788cdbceaaa0e51d331dc9eadffddf7b249f74a038dbab89f314e913aab177553adf73b311f1f3aed67ebb051cc81318",
+      "card_info": {
+        "name": "Mega Diancie ex - 282/217",
+        "clean_name": "Mega Diancie ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "282/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 71,
+            "mid_price": 81.69,
+            "high_price": 1499.8,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 75.15,
+            "direct_low_price": 75.15,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676094"
+      },
+      "cardmarket": {
+        "product_name": "Mega Diancie ex",
+        "prices": [
+          {
+            "avg": 39.29,
+            "low": 21,
+            "avg1": 43.33,
+            "avg7": 40.6,
+            "avg30": 38.67,
+            "trend": 41.71,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Diancie-ex-V2-ASC282"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

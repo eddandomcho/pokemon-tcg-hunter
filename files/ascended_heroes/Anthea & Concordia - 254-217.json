@@ -1,0 +1,79 @@
+{
+  "query": "24541 254",
+  "results": [
+    {
+      "id": "pk_dddef630d818ca7eea0a23d3d079b9cf4c8799323028892c8548e7b1266e99d613deac6ae92ba7183363d03d968311ed",
+      "card_info": {
+        "name": "Anthea & Concordia - 254/217",
+        "clean_name": "Anthea & Concordia",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "254/217",
+        "rarity": "Ultra Rare",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.7,
+            "mid_price": 1.33,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 1.11,
+            "direct_low_price": 1.07,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676066"
+      },
+      "cardmarket": {
+        "product_name": "Anthea & Concordia",
+        "prices": [
+          {
+            "avg": 1.24,
+            "low": 0.15,
+            "avg1": 0.96,
+            "avg7": 1.13,
+            "avg30": 1.23,
+            "trend": 1.19,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Anthea-Concordia-V2-ASC254"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

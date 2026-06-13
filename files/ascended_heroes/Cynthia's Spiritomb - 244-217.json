@@ -1,0 +1,79 @@
+{
+  "query": "24541 244",
+  "results": [
+    {
+      "id": "pk_e29fb87c8ae7be884a5fdcb149a764e2213c396a8094b8b4e3fbd13fa4d8d7fe853fcacd294413d39c7ea2fdf93e5c20",
+      "card_info": {
+        "name": "Cynthia's Spiritomb - 244/217",
+        "clean_name": "Cynthia's Spiritomb",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "244/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 13.5,
+            "mid_price": 16.2,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 14.92,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676056"
+      },
+      "cardmarket": {
+        "product_name": "Cynthia's Spiritomb",
+        "prices": [
+          {
+            "avg": 7.43,
+            "low": 2.5,
+            "avg1": 6.98,
+            "avg7": 7.39,
+            "avg30": 7.39,
+            "trend": 7.67,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Cynthias-Spiritomb-V2-ASC244"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "query": "24541 249",
+  "results": [
+    {
+      "id": "pk_b088e8eff2214d0f59028e2343ab4b806e25765608582418e70ec879395a1a068d3e4980d383bf31a10172a03f0e5359",
+      "card_info": {
+        "name": "Larry's Staraptor - 249/217",
+        "clean_name": "Larry's Staraptor",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "249/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Colorless",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 3,
+            "mid_price": 5.5,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 5.06,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676061"
+      },
+      "cardmarket": {
+        "product_name": "Larry's Staraptor",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.78,
+            "low": 2,
+            "avg1": 4.7,
+            "avg7": 4.78,
+            "avg30": 4.78,
+            "trend": 4.85,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Staraptor-V2-ASC249"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

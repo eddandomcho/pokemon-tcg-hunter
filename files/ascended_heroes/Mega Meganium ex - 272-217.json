@@ -1,0 +1,79 @@
+{
+  "query": "24541 272",
+  "results": [
+    {
+      "id": "pk_9192d72d07244192af69c7f9da6ddf672080e93ef681044f5a4037503b0b64bca172463c6bbf931bc8f944ae65c1a878",
+      "card_info": {
+        "name": "Mega Meganium ex - 272/217",
+        "clean_name": "Mega Meganium ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "272/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Grass",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 104.07,
+            "mid_price": 125.55,
+            "high_price": 950,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 103.9,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676084"
+      },
+      "cardmarket": {
+        "product_name": "Mega Meganium ex",
+        "prices": [
+          {
+            "avg": 77.8,
+            "low": 44,
+            "avg1": 74.5,
+            "avg7": 68.99,
+            "avg30": 72.38,
+            "trend": 109.38,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Meganium-ex-V2-ASC272"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

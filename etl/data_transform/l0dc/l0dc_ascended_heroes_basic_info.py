@@ -8,7 +8,8 @@ new_df = df[["results_id"
                       , "results_card_info_set_code"
                       , "results_card_info_set_id"
                       , "results_card_info_rarity"
-                      , "results_card_info_card_type"]]
+                      , "results_card_info_card_type"
+                      , "results_card_info_card_number"]]
 
 new_df.rename(columns = {
     "results_id" : "id"
@@ -18,6 +19,7 @@ new_df.rename(columns = {
     , "results_card_info_set_id" : "set_id"
     , "results_card_info_rarity" : "rarity"
     , "results_card_info_card_type" : "card_type"
+    , "results_card_info_card_number" : "card_number"
 }, inplace = True)
 
 new_df.to_csv("files/l0dc/l0dc_ascended_heroes_normalized.csv", index = False)

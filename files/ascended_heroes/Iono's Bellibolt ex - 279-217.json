@@ -1,0 +1,79 @@
+{
+  "query": "24541 279",
+  "results": [
+    {
+      "id": "pk_344cfbbec3e46c461a0f28168542f0fa809beefa28eaa9df8a685edd8f6045a5c4e8625c2075d1e586e65605e752559d",
+      "card_info": {
+        "name": "Iono's Bellibolt ex - 279/217",
+        "clean_name": "Iono's Bellibolt ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "279/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Lightning",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 74.04,
+            "mid_price": 84.63,
+            "high_price": 864.3,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 73.88,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676091"
+      },
+      "cardmarket": {
+        "product_name": "Iono's Bellibolt ex",
+        "prices": [
+          {
+            "avg": 38.42,
+            "low": 22,
+            "avg1": 38.38,
+            "avg7": 37.66,
+            "avg30": 38.44,
+            "trend": 41.4,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Bellibolt-ex-V2-ASC279"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

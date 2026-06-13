@@ -1,0 +1,79 @@
+{
+  "query": "24541 285",
+  "results": [
+    {
+      "id": "pk_c18aab117831c77a6bc1d8eaa714fc3c04942eb972a6cf0c61c9a07ac2b169048527f46adb7c4eb1447aaf9ee930d063",
+      "card_info": {
+        "name": "Mega Scrafty ex - 285/217",
+        "clean_name": "Mega Scrafty ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "285/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 71.01,
+            "mid_price": 79.99,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 76.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676097"
+      },
+      "cardmarket": {
+        "product_name": "Mega Scrafty ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 39.09,
+            "low": 27,
+            "avg1": 44.2,
+            "avg7": 40.84,
+            "avg30": 38.73,
+            "trend": 44.63,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Scrafty-ex-V3-ASC285"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

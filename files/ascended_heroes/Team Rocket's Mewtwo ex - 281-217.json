@@ -1,0 +1,79 @@
+{
+  "query": "24541 281",
+  "results": [
+    {
+      "id": "pk_48693b13e35bab23f044cd19e90995ba3bc10ecf4731f5fef2a6318d96daa81094ee00169746b74f1a859c80e672fcd3",
+      "card_info": {
+        "name": "Team Rocket's Mewtwo ex - 281/217",
+        "clean_name": "Team Rocket's Mewtwo ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "281/217",
+        "rarity": "Special Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 413,
+            "mid_price": 495,
+            "high_price": 1500,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 459.03,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676093"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Mewtwo ex",
+        "prices": [
+          {
+            "avg": 394.94,
+            "low": 170,
+            "avg1": 349.5,
+            "avg7": 333.89,
+            "avg30": 349.81,
+            "trend": 396.67,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Mewtwo-ex-V2-ASC281"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

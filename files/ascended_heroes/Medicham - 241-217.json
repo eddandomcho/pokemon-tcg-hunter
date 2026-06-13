@@ -1,0 +1,79 @@
+{
+  "query": "24541 241",
+  "results": [
+    {
+      "id": "pk_4dc961f91a6289b1308782a7e5aaec0c0321586fdc00abe6697a0e15abb3a014aede14c1ebd5f70bfd45a8f179467359",
+      "card_info": {
+        "name": "Medicham - 241/217",
+        "clean_name": "Medicham",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "241/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.29,
+            "mid_price": 7.1,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 6.24,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676053"
+      },
+      "cardmarket": {
+        "product_name": "Medicham",
+        "prices": [
+          {
+            "avg": 3.4,
+            "low": 1,
+            "avg1": 3.01,
+            "avg7": 3.44,
+            "avg30": 3.45,
+            "trend": 3.56,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Medicham-V2-ASC241"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

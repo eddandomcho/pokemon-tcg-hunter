@@ -1,0 +1,79 @@
+{
+  "query": "24541 228",
+  "results": [
+    {
+      "id": "pk_e677e6be79b2c54977446c23489372fa0cbdc0f7d99b7a5a6f7e668eeb72ddf7c69bb0be036357b0718b5bc315da021b",
+      "card_info": {
+        "name": "Weavile - 228/217",
+        "clean_name": "Weavile",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "228/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Water",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.5,
+            "mid_price": 8.34,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 7.9,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676040"
+      },
+      "cardmarket": {
+        "product_name": "Weavile",
+        "prices": [
+          {
+            "avg": 5.97,
+            "low": 2.5,
+            "avg1": 5.6,
+            "avg7": 5.76,
+            "avg30": 5.93,
+            "trend": 6.19,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Weavile-V2-ASC228"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

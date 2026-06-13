@@ -1,0 +1,79 @@
+{
+  "query": "24541 236",
+  "results": [
+    {
+      "id": "pk_d3cccff31b86c7b2745b0ad372fcce08195fde5ee810313aa913179f16dacbaec2523b9e03c63c4eaf321aa3a344dbb5",
+      "card_info": {
+        "name": "Slurpuff - 236/217",
+        "clean_name": "Slurpuff",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "236/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8.5,
+            "mid_price": 10.43,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 9.57,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676048"
+      },
+      "cardmarket": {
+        "product_name": "Slurpuff",
+        "prices": [
+          {
+            "avg": 3.44,
+            "low": 1.2,
+            "avg1": 3.28,
+            "avg7": 3.46,
+            "avg30": 3.49,
+            "trend": 3.81,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Slurpuff-V2-ASC236"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

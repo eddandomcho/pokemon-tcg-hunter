@@ -1,0 +1,79 @@
+{
+  "query": "24541 231",
+  "results": [
+    {
+      "id": "pk_5e009f1ed930817f3e0991d2dd8d24d9417937d2e0953d8bcaec9200ce737e03a8db7def97ff557d7efbc28d1e7537ac",
+      "card_info": {
+        "name": "Iono's Wattrel - 231/217",
+        "clean_name": "Iono's Wattrel",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "231/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Lightning",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 9.99,
+            "mid_price": 12.5,
+            "high_price": 128.1,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 11.32,
+            "direct_low_price": 12.99,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676043"
+      },
+      "cardmarket": {
+        "product_name": "Iono's Wattrel",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.18,
+            "low": 1.99,
+            "avg1": 6.14,
+            "avg7": 5.27,
+            "avg30": 5.33,
+            "trend": 5.43,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Ionos-Wattrel-V2-ASC231"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

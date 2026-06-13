@@ -1,0 +1,79 @@
+{
+  "query": "24541 238",
+  "results": [
+    {
+      "id": "pk_ca69ea2b6e47ade4db5beb623bc440d9d9a06525085eade3e2d2c17a7cdfe3fd75bfed603aaa488bcf2704c5728fc82b",
+      "card_info": {
+        "name": "Team Rocket's Mimikyu - 238/217",
+        "clean_name": "Team Rocket's Mimikyu",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "238/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 29,
+            "mid_price": 33.89,
+            "high_price": 308.4,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 29.74,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676050"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Mimikyu",
+        "prices": [
+          {
+            "avg": 14.32,
+            "low": 5.9,
+            "avg1": 14.73,
+            "avg7": 14.43,
+            "avg30": 13.53,
+            "trend": 16.25,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Mimikyu-V2-ASC238"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

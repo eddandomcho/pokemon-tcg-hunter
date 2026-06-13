@@ -1,0 +1,79 @@
+{
+  "query": "24541 240",
+  "results": [
+    {
+      "id": "pk_ee39d9bf0cb4a83327fba9b197f75af2fb9c0bf65c20d3c97932e90ed028d7de21902183b16361a4ee096ba61bce74bd",
+      "card_info": {
+        "name": "Hitmontop - 240/217",
+        "clean_name": "Hitmontop",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "240/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.22,
+            "mid_price": 9.83,
+            "high_price": 75,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 9.41,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676052"
+      },
+      "cardmarket": {
+        "product_name": "Hitmontop",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 4.08,
+            "low": 1.29,
+            "avg1": 3.96,
+            "avg7": 4.2,
+            "avg30": 4,
+            "trend": 4.23,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Hitmontop-V2-ASC240"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,9 +1,9 @@
 from pathlib import Path as P
 import models.save_card_json as scj
 
-set_id = 23821
+set_id = 24541
 
-for i in range(100, 181):
+for i in range(218, 296):
     card_number = f"{set_id} {i}"
 
     scj.write_card_json(card_number)

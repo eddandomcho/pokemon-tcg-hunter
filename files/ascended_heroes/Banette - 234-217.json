@@ -1,0 +1,79 @@
+{
+  "query": "24541 234",
+  "results": [
+    {
+      "id": "pk_12240f66d8cdc9d49a21b25d80ac09a3f41210ff474c32faf5dc858659c3ce320c53835913147d9497a68d4ee90b8b35",
+      "card_info": {
+        "name": "Banette - 234/217",
+        "clean_name": "Banette",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "234/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 11,
+            "mid_price": 14,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 12.74,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676046"
+      },
+      "cardmarket": {
+        "product_name": "Banette",
+        "prices": [
+          {
+            "avg": 6.58,
+            "low": 4,
+            "avg1": 6.76,
+            "avg7": 6.41,
+            "avg30": 6.25,
+            "trend": 7.18,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Banette-V2-ASC234"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "query": "24541 227",
+  "results": [
+    {
+      "id": "pk_eb6542e35eb976cf8f397cd815c38381a61eceb9c07fb909cdc2328568a82364fa01de60ae0c61830ea7d1d64bcda8aa",
+      "card_info": {
+        "name": "Snorunt - 227/217",
+        "clean_name": "Snorunt",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "227/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Water",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6,
+            "mid_price": 7.94,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 6.88,
+            "direct_low_price": 8.24,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676039"
+      },
+      "cardmarket": {
+        "product_name": "Snorunt",
+        "prices": [
+          {
+            "avg": 5.1,
+            "low": 1.99,
+            "avg1": 5.31,
+            "avg7": 4.94,
+            "avg30": 5.17,
+            "trend": 5.19,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Snorunt-V2-ASC227"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

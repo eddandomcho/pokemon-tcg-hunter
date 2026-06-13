@@ -1,0 +1,79 @@
+{
+  "query": "24541 243",
+  "results": [
+    {
+      "id": "pk_4a1857463db3bd0b2c73c59b7b418aaa2e6a2ca31b20332abe3a5ae5d09e0bf1aa4de01c82ce7e7e8b3e085c87f54dcf",
+      "card_info": {
+        "name": "Mightyena - 243/217",
+        "clean_name": "Mightyena",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "243/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 8,
+            "mid_price": 10,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 9.46,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676055"
+      },
+      "cardmarket": {
+        "product_name": "Mightyena",
+        "prices": [
+          {
+            "avg": 6.52,
+            "low": 3,
+            "avg1": 7.71,
+            "avg7": 6.71,
+            "avg30": 6.53,
+            "trend": 6.63,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mightyena-V2-ASC243"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

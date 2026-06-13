@@ -44,9 +44,9 @@ def write_card_json(query):
     eng_name = qci.fetch_card_info(query)["name"]
     eng_name = eng_name.replace("/", "-")
 
-    file_path = f"files/practice/{eng_name}.json"
+    file_path = f"files/ascended_heroes/{eng_name}.json"
 
     with open(file_path, mode = "w", encoding = "utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-        print(f"Saved data to files/practice2/{eng_name}.json")
+        print(f"Saved data to files/ascended_heroes/{eng_name}.json")
 

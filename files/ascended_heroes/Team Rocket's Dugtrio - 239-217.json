@@ -1,0 +1,79 @@
+{
+  "query": "24541 239",
+  "results": [
+    {
+      "id": "pk_fae221ecaaf50b6782d0ca2efddef9a9b2a7018c6ab1703afe15c54495a0d92d6a21888d23eea71639fa064be6c37ecb",
+      "card_info": {
+        "name": "Team Rocket's Dugtrio - 239/217",
+        "clean_name": "Team Rocket's Dugtrio",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "239/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 12.79,
+            "mid_price": 16.7,
+            "high_price": 122.2,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 15.58,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676051"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Dugtrio",
+        "prices": [
+          {
+            "avg": 8.04,
+            "low": 2.5,
+            "avg1": 8.32,
+            "avg7": 8.04,
+            "avg30": 7.86,
+            "trend": 8.52,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Dugtrio-V2-ASC239"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

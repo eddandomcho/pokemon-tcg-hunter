@@ -1,0 +1,79 @@
+{
+  "query": "24541 235",
+  "results": [
+    {
+      "id": "pk_65a5bd89da2e356f07ec827be8c1387eb88423fb5ba6aa71e423748c98eddd995aa195aca641be7509a15458932be9b4",
+      "card_info": {
+        "name": "Togekiss - 235/217",
+        "clean_name": "Togekiss",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "235/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.99,
+            "mid_price": 8.01,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 7.6,
+            "direct_low_price": 7.7,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676047"
+      },
+      "cardmarket": {
+        "product_name": "Togekiss",
+        "prices": [
+          {
+            "avg": 4.11,
+            "low": 1.2,
+            "avg1": 3.81,
+            "avg7": 3.88,
+            "avg30": 4.06,
+            "trend": 4.31,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Togekiss-V2-ASC235"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

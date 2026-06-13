@@ -1,0 +1,79 @@
+{
+  "query": "24541 225",
+  "results": [
+    {
+      "id": "pk_ebd87e95de885a8e9e2b4f52c206730d9dac0d0b0fc6d773f3265739e24710d9d67077902a200b20da402f1c637d71b9",
+      "card_info": {
+        "name": "Scorbunny - 225/217",
+        "clean_name": "Scorbunny",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "225/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Fire",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 10.86,
+            "mid_price": 13.45,
+            "high_price": 129.9,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 11.47,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676037"
+      },
+      "cardmarket": {
+        "product_name": "Scorbunny",
+        "prices": [
+          {
+            "avg": 7.71,
+            "low": 1.94,
+            "avg1": 7.97,
+            "avg7": 7.39,
+            "avg30": 7.71,
+            "trend": 8.42,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Scorbunny-V2-ASC225"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

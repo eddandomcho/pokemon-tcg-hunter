@@ -1,0 +1,79 @@
+{
+  "query": "24541 230",
+  "results": [
+    {
+      "id": "pk_6cb9fac2afa234abbc629e09f4b755f73c46ea0da6f08284d42bf264a06e149612164ef238a0dbb37c9d49edd6fb7aa6",
+      "card_info": {
+        "name": "Vikavolt - 230/217",
+        "clean_name": "Vikavolt",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "230/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Lightning",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.18,
+            "high_price": 59.9,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 2.34,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676042"
+      },
+      "cardmarket": {
+        "product_name": "Vikavolt",
+        "prices": [
+          {
+            "avg": 2.36,
+            "low": 0.65,
+            "avg1": 2.46,
+            "avg7": 2.49,
+            "avg30": 2.38,
+            "trend": 2.45,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Vikavolt-V2-ASC230"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

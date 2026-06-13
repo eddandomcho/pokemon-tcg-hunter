@@ -1,0 +1,79 @@
+{
+  "query": "24541 232",
+  "results": [
+    {
+      "id": "pk_70bc18c160c471b6fedb592c77d6cbea18a10560ec28ff213e08117353251278481ee5b0d8da7e0a5fe77da634f7c218",
+      "card_info": {
+        "name": "Marill - 232/217",
+        "clean_name": "Marill",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "232/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 15,
+            "mid_price": 19.15,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 17.14,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676044"
+      },
+      "cardmarket": {
+        "product_name": "Marill",
+        "prices": [
+          {
+            "avg": 7.88,
+            "low": 2.89,
+            "avg1": 7.99,
+            "avg7": 7.6,
+            "avg30": 7.78,
+            "trend": 8.71,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Marill-V2-ASC232"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

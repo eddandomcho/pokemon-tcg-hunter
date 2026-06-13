@@ -1,0 +1,79 @@
+{
+  "query": "24541 237",
+  "results": [
+    {
+      "id": "pk_24fc694fed794c67d8e5ad4e54927f949162c409011efe49cfd879a1988101404e2aefb257c2ae9477be2fb38c2dc923",
+      "card_info": {
+        "name": "Hop's Trevenant - 237/217",
+        "clean_name": "Hop's Trevenant",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "237/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Psychic",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 4.99,
+            "mid_price": 6.8,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 6.48,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676049"
+      },
+      "cardmarket": {
+        "product_name": "Hop's Trevenant",
+        "prices": [
+          {
+            "avg": 3.84,
+            "low": 1,
+            "avg1": 4.2,
+            "avg7": 3.79,
+            "avg30": 3.76,
+            "trend": 4.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Hops-Trevenant-V2-ASC237"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

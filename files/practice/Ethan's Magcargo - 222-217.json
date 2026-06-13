@@ -1,0 +1,79 @@
+{
+  "query": "24541 222",
+  "results": [
+    {
+      "id": "pk_4b04586626cd940e7003820a178fab7e3eb54e2588d7342f22bec995afec5e3fca33869531f5d335dd40b4340f9c1f53",
+      "card_info": {
+        "name": "Ethan's Magcargo - 222/217",
+        "clean_name": "Ethan's Magcargo",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "222/217",
+        "rarity": "Illustration Rare",
+        "card_type": "Fire",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 6.5,
+            "mid_price": 8.87,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 7.67,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676034"
+      },
+      "cardmarket": {
+        "product_name": "Ethan's Magcargo",
+        "prices": [
+          {
+            "avg": 6.39,
+            "low": 2.19,
+            "avg1": 6.37,
+            "avg7": 6.21,
+            "avg30": 6.27,
+            "trend": 6.63,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Ethans-Magcargo-V2-ASC222"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "query": "24541 017",
+  "results": [
+    {
+      "id": "pk_901938c6ae8b8e9226d0421901eacd52e83c701fe867baa00e84fcfc948a27a3956cf5d35e9c89a09595d7cf2e965b",
+      "card_info": {
+        "name": "Grubbin",
+        "clean_name": "Grubbin",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "017/217",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.06,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675829"
+      },
+      "cardmarket": {
+        "product_name": "Grubbin",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Grubbin-ASC017"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

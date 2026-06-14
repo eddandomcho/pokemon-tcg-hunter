@@ -1,0 +1,90 @@
+{
+  "query": "24587 044",
+  "results": [
+    {
+      "id": "pk_32bf4e42f8ba0c203f1c2823d3324eb98a222a03b69ace3deffc87efe1d92e6ca2c84daa428c6c02e3b7dfcec72823",
+      "card_info": {
+        "name": "Tyrunt",
+        "clean_name": "Tyrunt",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "044/088",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "hp": "100.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[FC] Get Angry (20x)<br> This attack does 20 damage for each damage counter on this Pokémon."
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.16,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.21,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684358"
+      },
+      "cardmarket": {
+        "product_name": "Tyrunt",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.11,
+            "avg30": 0.1,
+            "trend": 0.1,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Tyrunt-POR044"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

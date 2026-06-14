@@ -1,0 +1,79 @@
+{
+  "query": "24541 012",
+  "results": [
+    {
+      "id": "pk_03edd70695037cf1d5d3207ab33b36c8109506da49f57534778d09423aa111886aaf32ebc0ee16782fddae709be40d",
+      "card_info": {
+        "name": "Silcoon",
+        "clean_name": "Silcoon",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "012/217",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.21,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675824"
+      },
+      "cardmarket": {
+        "product_name": "Silcoon",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Silcoon-ASC012"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

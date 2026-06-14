@@ -1,0 +1,91 @@
+{
+  "query": "24587 040",
+  "results": [
+    {
+      "id": "pk_f742f5f1a6885a15657fde50fd1d815b77a036e3f83ae0b8f4c0503dcffc1b3e345ff065101b31f0744964222b2b90",
+      "card_info": {
+        "name": "Hippowdon",
+        "clean_name": "Hippowdon",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "040/088",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "hp": "150.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[FFC] Twister Spewing (80)<br> If you played Tarragon from your hand during this turn, discard the top 3 cards of your opponent's deck.",
+          "[FFCC] Heavy Impact (130)"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.23,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.03,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684426"
+      },
+      "cardmarket": {
+        "product_name": "Hippowdon",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "trend": 0.02,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.11,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Hippowdon-POR040"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

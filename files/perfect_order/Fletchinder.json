@@ -1,0 +1,90 @@
+{
+  "query": "24587 013",
+  "results": [
+    {
+      "id": "pk_5e5b27b3dd5ac8bbcd01327b67610f3a08d7285491d358ba9c1e05e7c344d8635c2175e3b96f13f0708d21ab4cffe6",
+      "card_info": {
+        "name": "Fletchinder",
+        "clean_name": "Fletchinder",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "013/088",
+        "rarity": "Common",
+        "card_type": "Fire",
+        "hp": "90.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[RR] Flare (60)"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.07,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.23,
+            "direct_low_price": 0.23,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684404"
+      },
+      "cardmarket": {
+        "product_name": "Fletchinder",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.09,
+            "avg30": 0.08,
+            "trend": 0.09,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Fletchinder-POR013"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

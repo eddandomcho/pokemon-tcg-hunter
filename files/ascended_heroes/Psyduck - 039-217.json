@@ -1,0 +1,79 @@
+{
+  "query": "24541 039",
+  "results": [
+    {
+      "id": "pk_0ea5fd10ba2fabb177928d76a9b9489e1e1ad02859530c566b3287a874823320dec8b8f9ba7855b041b642f9040e4c",
+      "card_info": {
+        "name": "Psyduck - 039/217",
+        "clean_name": "Psyduck",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "039/217",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.3,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.3,
+            "direct_low_price": 0.19,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675851"
+      },
+      "cardmarket": {
+        "product_name": "Psyduck",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.07,
+            "avg30": 0.08,
+            "trend": 0.08,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Psyduck-V1-ASC039"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

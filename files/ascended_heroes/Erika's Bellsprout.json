@@ -1,0 +1,79 @@
+{
+  "query": "24541 004",
+  "results": [
+    {
+      "id": "pk_9f9611586d4d31e3743ed3926afe7fc0df1553d0565936a0c2108287ab01cbed03bc37508d8c005fe4742fd6bb22",
+      "card_info": {
+        "name": "Erika's Bellsprout",
+        "clean_name": "Erikas Bellsprout",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "004/217",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.04,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675816"
+      },
+      "cardmarket": {
+        "product_name": "Erika's Bellsprout",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Bellsprout-ASC004"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

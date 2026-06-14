@@ -1,0 +1,79 @@
+{
+  "query": "24541 003",
+  "results": [
+    {
+      "id": "pk_ccdb13d56f18dd4a5eb71655489427af43ce2c49bce25b00e03f9ed4de8056c80e8c133b0b2043d45a84a368e1a0",
+      "card_info": {
+        "name": "Erika's Vileplume ex",
+        "clean_name": "Erikas Vileplume ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "003/217",
+        "rarity": "Double Rare",
+        "card_type": "Grass",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 1.1,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.87,
+            "direct_low_price": 0.96,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675815"
+      },
+      "cardmarket": {
+        "product_name": "Erika's Vileplume ex",
+        "prices": [
+          {
+            "avg": 0.87,
+            "low": 0.05,
+            "avg1": 0.84,
+            "avg7": 0.82,
+            "avg30": 0.85,
+            "trend": 0.84,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Erikas-Vileplume-ex-ASC003"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

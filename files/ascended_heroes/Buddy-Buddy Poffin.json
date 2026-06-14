@@ -1,0 +1,1282 @@
+{
+  "query": "24541 1",
+  "results": [
+    {
+      "id": "pk_69199194dd0e1d1ae7ac75fb8dc2f9118b60c78c5cdf2fe8905bd06a9deb5c137db3f655b43d46edb9da8571a6b52b84",
+      "card_info": {
+        "name": "Buddy-Buddy Poffin",
+        "clean_name": "Buddy Buddy Poffin",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "184/217",
+        "rarity": "Common",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.17,
+            "direct_low_price": 0.21,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.16,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675996"
+      },
+      "cardmarket": {
+        "product_name": "Buddy-Buddy Poffin",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.19,
+            "low": 0.02,
+            "avg1": 0.25,
+            "avg7": 0.23,
+            "avg30": 0.2,
+            "trend": 0.22,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Buddy-Buddy-Poffin-ASC184"
+      }
+    },
+    {
+      "id": "pk_dcefc7fb0f6cc877b57378826ca245b24c112d684eafdc3d5528d9098ee51d21b4c60ece22659047b520d49a8a75b42c",
+      "card_info": {
+        "name": "Team Rocket's Murkrow",
+        "clean_name": "Team Rockets Murkrow",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "126/217",
+        "rarity": "Common",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.15,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675938"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Murkrow",
+        "prices": [
+          {
+            "avg": 0.07,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.08,
+            "avg30": 0.07,
+            "trend": 0.07,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Murkrow-ASC126"
+      }
+    },
+    {
+      "id": "pk_c91e91d813f29b09a9e9d2a804f61f46b1213c341bd7819ae04ec8e1f8877829fd2a5b25f7ce3dc1ebe1e6bfd7fb4651",
+      "card_info": {
+        "name": "Pancham",
+        "clean_name": "Pancham",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "115/217",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 2,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.09,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675927"
+      },
+      "cardmarket": {
+        "product_name": "Pancham",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Pancham-ASC115"
+      }
+    },
+    {
+      "id": "pk_d6775dafe25d50a84d98457f14c6a36fb67dee26fe05cde1a277b35dfc438c438f62a7e73b41c175279c011e89364fcb",
+      "card_info": {
+        "name": "Drampa",
+        "clean_name": "Drampa",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "176/217",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.14,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.03,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675988"
+      },
+      "cardmarket": {
+        "product_name": "Drampa",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Drampa-ASC176"
+      }
+    },
+    {
+      "id": "pk_d458254a6482a7f283adff16e6ecce78a53a153f206eb8e53900d85fe83df33d30730c806db8c2e0e571aa270a932dd9",
+      "card_info": {
+        "name": "Team Rocket's Honchkrow",
+        "clean_name": "Team Rockets Honchkrow",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "127/217",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.32,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.3,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675939"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Honchkrow",
+        "prices": [
+          {
+            "avg": 0.24,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.18,
+            "avg30": 0.26,
+            "trend": 0.26,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Honchkrow-ASC127"
+      }
+    },
+    {
+      "id": "pk_3b69cd97bedf77acc2cc692b2562ab7f9c858d94a96e0ab736da7e3fda097b1c032a5e5f756368cba7ddae5b77a1642d",
+      "card_info": {
+        "name": "Bisharp",
+        "clean_name": "Bisharp",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "147/217",
+        "rarity": "Common",
+        "card_type": "Metal",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.06,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675959"
+      },
+      "cardmarket": {
+        "product_name": "Bisharp",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Bisharp-ASC147"
+      }
+    },
+    {
+      "id": "pk_deb200927050ff0d89f1d943bda40aef71dbca58fab90a115958fdd188cb541da34a3e10f9de9d0fbf420266a242ca80",
+      "card_info": {
+        "name": "Larry's Dunsparce",
+        "clean_name": "Larrys Dunsparce",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "163/217",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.09,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675975"
+      },
+      "cardmarket": {
+        "product_name": "Larry's Dunsparce",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Larrys-Dunsparce-ASC163"
+      }
+    },
+    {
+      "id": "pk_b9353085b6571384303582a9228a38e252349e601b25c256ba2f2b8f4b2ca4f8d0a1c35039f53e50682d67039a427f12",
+      "card_info": {
+        "name": "Zangoose ex",
+        "clean_name": "Zangoose ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "167/217",
+        "rarity": "Double Rare",
+        "card_type": "Colorless",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.36,
+            "mid_price": 0.79,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.62,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675979"
+      },
+      "cardmarket": {
+        "product_name": "Zangoose ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.64,
+            "low": 0.07,
+            "avg1": 0.71,
+            "avg7": 0.61,
+            "avg30": 0.6,
+            "trend": 0.7,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Zangoose-ex-ASC167"
+      }
+    },
+    {
+      "id": "pk_cd715fa0ab2df1f3cd751b4ab09426502dda6341cf6c8b11fb3d7e85d25e7b726856151b4495c785522eff39f54093ab",
+      "card_info": {
+        "name": "Acerola's Mischief",
+        "clean_name": "Acerolas Mischief",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "180/217",
+        "rarity": "Uncommon",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.25,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.22,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.2,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675992"
+      },
+      "cardmarket": {
+        "product_name": "Acerola's Mischief",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.21,
+            "low": 0.02,
+            "avg1": 0.23,
+            "avg7": 0.22,
+            "avg30": 0.23,
+            "trend": 0.2,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Acerolas-Mischief-ASC180"
+      }
+    },
+    {
+      "id": "pk_7cf56c8ae44792882026adafa74e9d87906f7b2cf5670b41d570436326632ceafbe17ed7a2312eacaf67ba9dcec20f7d",
+      "card_info": {
+        "name": "Fighting Gong",
+        "clean_name": "Fighting Gong",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "187/217",
+        "rarity": "Uncommon",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.37,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.33,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.19,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.16,
+            "direct_low_price": 0.11,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675999"
+      },
+      "cardmarket": {
+        "product_name": "Fighting Gong",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.08,
+            "avg30": 0.07,
+            "trend": 0.05,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.22,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.21,
+            "avg30": 0.22,
+            "trend": 0.23,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Fighting-Gong-ASC187"
+      }
+    },
+    {
+      "id": "pk_c7366561d0ed030589c4402b750d59906779f9ef8a0c43cb8b5565b5ad1f874818b581cf18b4a29be3342d17a3b98612",
+      "card_info": {
+        "name": "Forest of Vitality",
+        "clean_name": "Forest of Vitality",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "188/217",
+        "rarity": "Uncommon",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.09,
+            "mid_price": 0.33,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.27,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.21,
+            "direct_low_price": 0.16,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676000"
+      },
+      "cardmarket": {
+        "product_name": "Forest of Vitality",
+        "prices": [
+          {
+            "avg": 0.28,
+            "low": 0.02,
+            "avg1": 0.74,
+            "avg7": 0.32,
+            "avg30": 0.27,
+            "trend": 0.33,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.09,
+            "avg30": 0.1,
+            "trend": 0.12,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Forest-of-Vitality-ASC188"
+      }
+    },
+    {
+      "id": "pk_4c64ea34b24f85b7fde3e0936d9a6f08cc8267dfa5a1e7fda60db6e80d8c25854c4b5fabb56262656ed6c0c360ed3078",
+      "card_info": {
+        "name": "Light Ball",
+        "clean_name": "Light Ball",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "191/217",
+        "rarity": "Uncommon",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 25,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.18,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.2,
+            "mid_price": 0.51,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.41,
+            "direct_low_price": 0.42,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676003"
+      },
+      "cardmarket": {
+        "product_name": "Light Ball",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.05,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.26,
+            "low": 0.02,
+            "avg1": 0.28,
+            "avg7": 0.25,
+            "avg30": 0.26,
+            "trend": 0.24,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Light-Ball-ASC191"
+      }
+    },
+    {
+      "id": "pk_9d07bc8b9d0179469a9c7675b0495e0d8fa16dae650c9c2e90536b8741413ae08c90787c9200b00441bff39532ce27f1",
+      "card_info": {
+        "name": "Lillie's Determination",
+        "clean_name": "Lillies Determination",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "192/217",
+        "rarity": "Uncommon",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.3,
+            "mid_price": 0.75,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.72,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.45,
+            "high_price": 25,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.45,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676004"
+      },
+      "cardmarket": {
+        "product_name": "Lillie's Determination",
+        "prices": [
+          {
+            "avg": 0.72,
+            "low": 0.02,
+            "avg1": 0.63,
+            "avg7": 0.72,
+            "avg30": 0.68,
+            "trend": 0.82,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.41,
+            "low": 0.02,
+            "avg1": 0.46,
+            "avg7": 0.39,
+            "avg30": 0.4,
+            "trend": 0.46,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Lillies-Determination-ASC192"
+      }
+    },
+    {
+      "id": "pk_2e0d7ceb954496b4bd5df6ad39b33163d5f688e59684390bf8e6323f527100d2d8e4274133d274b0a846615727aa844f",
+      "card_info": {
+        "name": "Boss's Orders [Corbeau] - 183/217",
+        "clean_name": "Boss's Orders [Corbeau]",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "183/217",
+        "rarity": "Uncommon",
+        "card_type": null,
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.45,
+            "mid_price": 0.88,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.74,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.24,
+            "direct_low_price": null,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675995"
+      },
+      "cardmarket": {
+        "product_name": "Boss's Orders - Corbeau",
+        "prices": [
+          {
+            "avg": 0.18,
+            "low": 0.02,
+            "avg1": 0.19,
+            "avg7": 0.16,
+            "avg30": 0.16,
+            "trend": 0.2,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.39,
+            "low": 0.05,
+            "avg1": 0.27,
+            "avg7": 0.38,
+            "avg30": 0.37,
+            "trend": 0.42,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Bosss-Orders-Corbeau-V1-ASC183"
+      }
+    },
+    {
+      "id": "pk_a659670239a7189c7935a281d9623be8e291483f019bb5e1247f7b8e51cd90018da49e84a4b05e937ae813b9ab60eb77",
+      "card_info": {
+        "name": "Team Rocket's Diglett",
+        "clean_name": "Team Rockets Diglett",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "100/217",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.07,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675912"
+      },
+      "cardmarket": {
+        "product_name": "Team Rocket's Diglett",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Team-Rockets-Diglett-ASC100"
+      }
+    },
+    {
+      "id": "pk_7e213342d5bfcf6e0b6be10f0fa17d54509eea29e841315695a2d286b43761d0eec010b382ed565b25f29d05ed343568",
+      "card_info": {
+        "name": "Meditite",
+        "clean_name": "Meditite",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "103/217",
+        "rarity": "Common",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.05,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675915"
+      },
+      "cardmarket": {
+        "product_name": "Meditite",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Meditite-ASC103"
+      }
+    },
+    {
+      "id": "pk_491f2d84162bf98a6e0ee7c5e7cce44134302fadd2d0f2f8f5f97b1f5ea68621bef6263190a4f65a03da0458f4397111",
+      "card_info": {
+        "name": "Lunatone",
+        "clean_name": "Lunatone",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "105/217",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.25,
+            "direct_low_price": 0.1,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675917"
+      },
+      "cardmarket": {
+        "product_name": "Lunatone",
+        "prices": [
+          {
+            "avg": 0.08,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.06,
+            "avg30": 0.08,
+            "trend": 0.06,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Lunatone-ASC105"
+      }
+    },
+    {
+      "id": "pk_9cd655653b1dc7acf4f69c37ce010fd16e6b5489cd1cec64291aa8f48006c6013946a1ca6337ea87fc3900153baeb9c4",
+      "card_info": {
+        "name": "Solrock",
+        "clean_name": "Solrock",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "106/217",
+        "rarity": "Uncommon",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.14,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675918"
+      },
+      "cardmarket": {
+        "product_name": "Solrock",
+        "prices": [
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.03,
+            "avg30": 0.04,
+            "trend": 0.03,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Solrock-ASC106"
+      }
+    },
+    {
+      "id": "pk_60af49f0d375c5ae7ba52d027df2464f8c268242b9f6d4a1e7a24f42ca8e059eeccb626750950c3d0feaa68159a6364d",
+      "card_info": {
+        "name": "Regirock ex",
+        "clean_name": "Regirock ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "107/217",
+        "rarity": "Double Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.29,
+            "mid_price": 0.75,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.52,
+            "direct_low_price": 0.62,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675919"
+      },
+      "cardmarket": {
+        "product_name": "Regirock ex",
+        "prices": [
+          {
+            "avg": 0.49,
+            "low": 0.02,
+            "avg1": 0.57,
+            "avg7": 0.55,
+            "avg30": 0.49,
+            "trend": 0.51,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Regirock-ex-ASC107"
+      }
+    },
+    {
+      "id": "pk_0a62825782a9d02b1d116cf61fb5280d59fa98d9ec5ff6437ed729660d4938faa3ca24e4a87cbf47fd48507e7741a0b5",
+      "card_info": {
+        "name": "Groudon",
+        "clean_name": "Groudon",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "108/217",
+        "rarity": "Rare",
+        "card_type": "Fighting",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 19.98,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.07,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675920"
+      },
+      "cardmarket": {
+        "product_name": "Groudon",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.06,
+            "avg30": 0.06,
+            "trend": 0.05,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Groudon-ASC108"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 100,
+    "total_pages": 5
+  },
+  "metadata": {
+    "total_count": 100,
+    "tcg": 100,
+    "cardmarket": 100,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 100
+  }
+}

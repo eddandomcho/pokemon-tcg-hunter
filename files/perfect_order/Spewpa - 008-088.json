@@ -1,0 +1,90 @@
+{
+  "query": "24587 008",
+  "results": [
+    {
+      "id": "pk_2fd1f4bfedeb6c0300d80a4c69d6b2b111a8157b838747508e739480f4e21f74b75353df62d7dd5c6a435d659fb3",
+      "card_info": {
+        "name": "Spewpa - 008/088",
+        "clean_name": "Spewpa",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "008/088",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Hide<br> Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.2,
+            "direct_low_price": 0.22,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.08,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684364"
+      },
+      "cardmarket": {
+        "product_name": "Spewpa",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.08,
+            "avg30": 0.09,
+            "trend": 0.08,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Spewpa-V1-POR008"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

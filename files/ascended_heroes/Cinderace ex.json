@@ -1,0 +1,79 @@
+{
+  "query": "24541 038",
+  "results": [
+    {
+      "id": "pk_950f140af2c6299be6193f7ac4dfb5c6a4239210269f8f7898133ab84ea25c051f34dce6701c3b6dca8e23127a98b4",
+      "card_info": {
+        "name": "Cinderace ex",
+        "clean_name": "Cinderace ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "038/217",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.35,
+            "mid_price": 0.81,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.67,
+            "direct_low_price": 0.71,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675850"
+      },
+      "cardmarket": {
+        "product_name": "Cinderace ex",
+        "prices": [
+          {
+            "avg": 0.69,
+            "low": 0.03,
+            "avg1": 0.67,
+            "avg7": 0.69,
+            "avg30": 0.66,
+            "trend": 0.69,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Cinderace-ex-ASC038"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

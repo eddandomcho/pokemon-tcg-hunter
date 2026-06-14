@@ -1,0 +1,90 @@
+{
+  "query": "24587 009",
+  "results": [
+    {
+      "id": "pk_3b4f7538b8c13d2bae5e522946b18cf0d38de0eec75c2a504df0d1309d14098bff553d97dda2945204cf47d4e555",
+      "card_info": {
+        "name": "Vivillon",
+        "clean_name": "Vivillon",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "009/088",
+        "rarity": "Uncommon",
+        "card_type": "Grass",
+        "hp": "120.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[G] Blow Through (60+)<br> If a Stadium is in play, this attack does 60 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.22,
+            "direct_low_price": 0.21,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.05,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684366"
+      },
+      "cardmarket": {
+        "product_name": "Vivillon",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.08,
+            "avg7": 0.1,
+            "avg30": 0.1,
+            "trend": 0.09,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Vivillon-POR009"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

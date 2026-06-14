@@ -1,0 +1,91 @@
+{
+  "query": "24587 010",
+  "results": [
+    {
+      "id": "pk_5278dd338a1e41f380e98376f15abbf045fcf89241d91fc3027bb4d67fd1917cbd6734e94a6fc903e0aa9cd23e9044",
+      "card_info": {
+        "name": "Rowlet - 010/088",
+        "clean_name": "Rowlet",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "010/088",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Find a Friend<br> Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[CCC] Tackle (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.24,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.26,
+            "direct_low_price": 0.24,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.07,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684367"
+      },
+      "cardmarket": {
+        "product_name": "Rowlet",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.09,
+            "avg30": 0.09,
+            "trend": 0.09,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.05,
+            "avg30": 0.04,
+            "trend": 0.05,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Rowlet-V1-POR010"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

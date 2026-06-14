@@ -1,55 +1,91 @@
 id,name,set_name,set_code,set_id,rarity,card_type,card_number
 pk_2c408dd15af7bfa4fedf80caa3bb050a7685d0f7b0e7da5a6e9df74dd766d05fbfac1eb9ad9580fde76b0427cda741b2,Black Belt's Training,ME: Ascended Heroes,ASC,24541,Ultra Rare,,255/217
 pk_c33ae71fa5e1949d382017955e849ff382b3dc2bb8ed41283f34c027210d5734fc055a4af3a49e4840587b50fe95d2d6,Counter Gain - 259/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,259/217
+pk_d1d93b689ac607621de93e36b76a8542b837b5338e95c07e9b30cb87e9efbe4327a54fb99de12b94fc013e39b7bca58f,Surfer - 293/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,,293/217
 pk_d3cccff31b86c7b2745b0ad372fcce08195fde5ee810313aa913179f16dacbaec2523b9e03c63c4eaf321aa3a344dbb5,Slurpuff - 236/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Psychic,236/217
 pk_848feaf0e1b6916f257edbe47cab7b9e37933eb82dd607a5a3a2c6818d6a036ea25a75d05bc48e3cc4f27a89004bab5d,Canari - 291/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,,291/217
 pk_a997c435954c9265e224167faac1346407d9127933dde6f8309d8086013cf55be74f9af3bf25cf8afdbae5a4cd1222b2,Erika's Tangela - 218/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Grass,218/217
+pk_b103f1f9186909c48a71aebf0ebf796f8af8f02628bf978827234dbb0360723ee15e58e0120d45781ca3c4fffb6e40,Beautifly - 013/217,ME: Ascended Heroes,ASC,24541,Uncommon,Grass,013/217
 pk_c18aab117831c77a6bc1d8eaa714fc3c04942eb972a6cf0c61c9a07ac2b169048527f46adb7c4eb1447aaf9ee930d063,Mega Scrafty ex - 285/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Darkness,285/217
 pk_491c77401f5518e863b184af027d063ffbbe17977005fc3a63c0d0a631c9ac3c58463fe937bc1adafb0003578f902b38,Mega Hawlucha ex - 268/217,ME: Ascended Heroes,ASC,24541,Mega Attack Rare,Fighting,268/217
 pk_0caac08f6b1cbe09d28a9e4fc14597f967f2cb3eee4d16a7966f635d598c9005bc2dac9436097829d5e602526883993a,Mega Emboar ex - 273/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Fire,273/217
+pk_d2199e3d534e8016e5b82f1019133f40f101df60e92d5792604584a815226f1f344439a9c7818b1d2ed99d09fcfd32,Ethan's Ho-Oh ex,ME: Ascended Heroes,ASC,24541,Double Rare,Fire,026/217
 pk_29bab41fe44813fac1a48d7088dbb5f9821cac5b709ba945e1369f9f53953eafdd8cfd6b594f0f3c1eecd90e0858b479,Dreepy - 247/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Dragon,247/217
 pk_b9d8c9b4f084e5a55537ef3ed8a56778a134dd64af51acc5edb27a4e08378606e35eb4d93dadf185ee4767c2b3c20736,Mega Gengar ex - 284/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Darkness,284/217
 pk_b088e8eff2214d0f59028e2343ab4b806e25765608582418e70ec879395a1a068d3e4980d383bf31a10172a03f0e5359,Larry's Staraptor - 249/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Colorless,249/217
+pk_8be55be19d517d68bb0196ea76ce3c26201dfddfb4f362441855bc2bcf8004a6d685ef7df7d4f83d66ec2e33052fa6,Charmeleon,ME: Ascended Heroes,ASC,24541,Uncommon,Fire,021/217
+pk_633b1a94dd70c4c778734fa1698469ade3f6cd87f103c4e319bb5d747c46f6189bae069386165fbe2a7dca1bf5dd7e,Scorbunny - 036/217,ME: Ascended Heroes,ASC,24541,Common,Fire,036/217
 pk_cdbd328508ada8fddba340469638e98c60796c3280d28796c81e60567ed4a49f9198a077f393ce561fd6ee737efefee2,Mega Froslass ex - 275/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Water,275/217
 pk_92523b52cd44b6673b7f76ca09272f647a85201292c5543a1ba0a7c3f43710e22a68a922f2e5bc97024ccfa0fcdec798,Cheren,ME: Ascended Heroes,ASC,24541,Ultra Rare,,258/217
+pk_f8750997b279fe2883fb1de633dc92d5393f1093e8f018b7a77a8d5dd3cb8191b2074e223fa0c5bb0c0c05aadd2448,Team Rocket's Spidops,ME: Ascended Heroes,ASC,24541,Rare,Grass,019/217
 pk_e29fb87c8ae7be884a5fdcb149a764e2213c396a8094b8b4e3fbd13fa4d8d7fe853fcacd294413d39c7ea2fdf93e5c20,Cynthia's Spiritomb - 244/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Darkness,244/217
 pk_4ccec49ade95dfc0e9ed5102684717fec026c12b9a9a9513accca08b0ce76390779f593192c73518deb53e05f2ba9875,Mega Dragonite ex - 271/217,ME: Ascended Heroes,ASC,24541,Mega Attack Rare,Dragon,271/217
+pk_828bcf47a03376d47d8e585d170a5a17e6d535cb0e3096cdbe101186a134caa2f77980253520800c809c3e2a30e809,N's Darmanitan,ME: Ascended Heroes,ASC,24541,Uncommon,Fire,033/217
+pk_00b30e202c0abe0abc6c4292b8dc5b326329e0be030aaa64174285f69b8bee93dbf44b7e02441896485140100219e7,Budew - 016/217,ME: Ascended Heroes,ASC,24541,Common,Grass,016/217
 pk_fae221ecaaf50b6782d0ca2efddef9a9b2a7018c6ab1703afe15c54495a0d92d6a21888d23eea71639fa064be6c37ecb,Team Rocket's Dugtrio - 239/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Fighting,239/217
+pk_95667752278017977e497c937eca5ac3234a249f7077861c6935c527e5d1d87b068cd4bd6daa3ceb4ca64f9202b1d6,Mega Feraligatr ex - 043/217,ME: Ascended Heroes,ASC,24541,Double Rare,Water,043/217
 pk_838c67b30b100d37013bf5035b0913295360a61792a917b44fc3b7d08d3a16aa9911da8567d565f15c56a753e54e0121,Misdreavus - 233/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Psychic,233/217
 pk_4a1857463db3bd0b2c73c59b7b418aaa2e6a2ca31b20332abe3a5ae5d09e0bf1aa4de01c82ce7e7e8b3e085c87f54dcf,Mightyena - 243/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Darkness,243/217
 pk_6c9ddf769797ab32e2a8a2d09761274a41e332b8384c9de29a690a85174e09febae211f8f6e7ace102de10600f0ee7f7,Team Rocket's Transceiver - 263/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,263/217
 pk_c75d667d3d477673ab52bada32204f05ee99f8e401562fe2c52554a92ad4eab991109175aa9338fb9337b055805a6be2,Fan Rotom - 250/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Colorless,250/217
+pk_0ea5fd10ba2fabb177928d76a9b9489e1e1ad02859530c566b3287a874823320dec8b8f9ba7855b041b642f9040e4c,Psyduck - 039/217,ME: Ascended Heroes,ASC,24541,Common,Water,039/217
 pk_056165fa6dfbc4a0906130e16d0020e0c883faefc210d7403663aee8e3a7dbbff3713c3ed67298d26f87e3987627a6e6,Mega Eelektross ex - 278/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Lightning,278/217
+pk_3a69cbd6e8a7516b998ccbed202550a560abce0136410052578305f73282df3be4d2379b5dd98aa04e67db319c825fa9,Mega Dragonite ex - 295/217,ME: Ascended Heroes,ASC,24541,Mega Hyper Rare,Dragon,295/217
+pk_5287101b0450ab0985b9b87b5657cba455e6bfc33fd2580cd5809503374c36626fe8230538ad672782b9690aadfe11,Mega Froslass ex - 047/217,ME: Ascended Heroes,ASC,24541,Double Rare,Water,047/217
 pk_443b57e3f92e2abb7f4145cf8a3a8c188e58786fe186d6010572a9a5f901de93deda78002a9dd163f6ac8e11b45e0eff,Canari - 257/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,257/217
+pk_ef0c239e79c4be288c10bf78b387bb98d343204554898f7558de2bf37b2dcd256918a5b4f5cddcceaed7ebd868d40f,Totodile,ME: Ascended Heroes,ASC,24541,Common,Water,041/217
+pk_42347d4c6d07a8a1c01aacfb582c481385b84497628c3d313844f0464da90e2437250a64e28eb79a58f3cdf8907f399a,Waitress,ME: Ascended Heroes,ASC,24541,Common,,215/217
 pk_eb6542e35eb976cf8f397cd815c38381a61eceb9c07fb909cdc2328568a82364fa01de60ae0c61830ea7d1d64bcda8aa,Snorunt - 227/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Water,227/217
+pk_ef0a799490349d989fad3f261cdb081bc8cd14c78115db7ba3792c80de0de0c23dbaabb6eb92753047c694feb6478e,Sneasel,ME: Ascended Heroes,ASC,24541,Common,Water,044/217
 pk_4b837d2923d90c9949af935bbe92482387a2274bb1c9682df4382c1bb7e17a7692b702d38861511db4d0320f8ae8c6f9,Marnie's Grimmsnarl ex,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Darkness,287/217
 pk_c72dfaaa460948d3aa9ddb93f30b60a58f741aa2a6112381999350073043b2f6d069a31fbb713e03986bb79d9b9110b2,Boss's Orders [Corbeau] - 256/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,256/217
 pk_944f54bcf8357167536be0eec39f82c62d3d6604ae2393e30816eb87785a44373284c8fc7827a42df940a682d2f18ec3,Fezandipiti ex - 288/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Darkness,288/217
 pk_5e009f1ed930817f3e0991d2dd8d24d9417937d2e0953d8bcaec9200ce737e03a8db7def97ff557d7efbc28d1e7537ac,Iono's Wattrel - 231/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Lightning,231/217
 pk_97ebcd644e0d9e5822cbbb2d3e49d0dfc2a3327f91842ac370c6c2ea36f7014c9f9fc399bbd63f6000cd7ed8f28a6524,Mega Scrafty ex - 270/217,ME: Ascended Heroes,ASC,24541,Mega Attack Rare,Darkness,270/217
+pk_623420b002ef9fb92604962f7cc8fff912b158a9e72a7de17efd53629d832266598a0722ec9a4e4c846c4f46c4b909,Raboot,ME: Ascended Heroes,ASC,24541,Common,Fire,037/217
 pk_70128e045db68b7f9c660e8322c89f525e7ec8c60680f78f49afadc215fca6b51b79a06a3f555d1ecd9e6f40280500fd,N's Zoroark ex - 286/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Darkness,286/217
 pk_6cb9fac2afa234abbc629e09f4b755f73c46ea0da6f08284d42bf264a06e149612164ef238a0dbb37c9d49edd6fb7aa6,Vikavolt - 230/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Lightning,230/217
+pk_528c956c2cb83d24de26557ad4613f85f7b24231f96b4b37a69b50a2cfb3aa596360eea08e472a40917ca9dc2dc0c5,Charmander,ME: Ascended Heroes,ASC,24541,Common,Fire,020/217
+pk_f0c245f02f8689b8a87887c1e7abc578f56acecab579e4d01bac5857a5434e197ecccf856d2cc54ee8058149bb98b8,Snorunt - 046/217,ME: Ascended Heroes,ASC,24541,Common,Water,046/217
 pk_12240f66d8cdc9d49a21b25d80ac09a3f41210ff474c32faf5dc858659c3ce320c53835913147d9497a68d4ee90b8b35,Banette - 234/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Psychic,234/217
+pk_1a4848cdcdb1ddd22f1cdacecd7449f703171b3b145d6f41259e647484cac15e8cfdf38b6ab999514c6a6f6e188f02,Ethan's Magcargo - 024/217,ME: Ascended Heroes,ASC,24541,Rare,Fire,024/217
+pk_7c2a5d2078506018bb0b838840aa769503ca618a4ae2dd0419b5c71aa3f6a6b803d29c085875c71cab64a7acdd42ec,Mega Emboar ex - 031/217,ME: Ascended Heroes,ASC,24541,Double Rare,Fire,031/217
 pk_bc9d940dbe86023f8fd5c6497716a3faa9f8fc4865e95457841228dec0c07b01557bdfcff6e7a520dfd94b26b949700c,Beautifly - 219/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Grass,219/217
 pk_788cdbceaaa0e51d331dc9eadffddf7b249f74a038dbab89f314e913aab177553adf73b311f1f3aed67ebb051cc81318,Mega Diancie ex - 282/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Psychic,282/217
 pk_1732e550a727dab5beb5851899e26e1d6d8cf821a350b2264109cd26a9c029263d2432a9b482913bcb5547640540d736,Mega Diancie ex - 267/217,ME: Ascended Heroes,ASC,24541,Mega Attack Rare,Psychic,267/217
 pk_9192d72d07244192af69c7f9da6ddf672080e93ef681044f5a4037503b0b64bca172463c6bbf931bc8f944ae65c1a878,Mega Meganium ex - 272/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Grass,272/217
 pk_c7bb6356b27962ff3a362092bcbd8f2a95c1cf806688f2e06fabff765f9393054347d2af354dbc9850190142d801807e,Mawile - 246/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Metal,246/217
+pk_cd5f78713a2cd8beb3580324902392eeccf9cfdb7f6449dcd88d027038f5eee529917987066571a83a1d58065c7f1b,Golduck,ME: Ascended Heroes,ASC,24541,Uncommon,Water,040/217
 pk_558860ba994c4bb036c5df974cdbc60d40ae86a1cb66799b82a9cf241dd12c602a27e1665b85f542cbbd6b483d24308d,Mega Audino ex - 253/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,Colorless,253/217
 pk_caeca84a0233a0b0619b74e6e643650f0eeba75d541652e7b6f0294fffba2c69bb98d0b06113a0aa3206459d0540aff9,Mega Froslass ex - 265/217,ME: Ascended Heroes,ASC,24541,Mega Attack Rare,Water,265/217
+pk_eedbbd7e9cfcdfaaf31791934e1f830685aea24360ea9786f1526041fac494fd754d084f9afcb388e2251dcfe47c72,Entei,ME: Ascended Heroes,ASC,24541,Rare,Fire,025/217
 pk_4596d208fac1b7201a9651a5b9d12d28f3d4c7936b39ee28ee0f98f17375ab2c77c440c6ceff03a1d90d1cbc04feafc8,Jamming Tower,ME: Ascended Heroes,ASC,24541,Ultra Rare,,261/217
+pk_66c424b0aa13e04fbd59bf924df696414960b2947155fe23f37669201432791f7e30c59e3e8b8db6fbaae436e1d95d,Numel - 027/217,ME: Ascended Heroes,ASC,24541,Common,Fire,027/217
 pk_8009473d8a67d7f75e37750baa4b08f50e87914b9dce61927283e87f58ef3b713fbdfec76ce937799970f6fad4aeb2a0,N's PP Up - 262/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,262/217
+pk_3d33b5fda8ba889e6d074243c305b2c71cb97b6d9cb3fed84b86d791815b416c6a3756bd76df8ead3415e11d2e0755,Weavile - 045/217,ME: Ascended Heroes,ASC,24541,Uncommon,Water,045/217
+pk_6f702bf76de958152713f8a9010e822f4e11f7a012561cdb1fe03e5e4aacdaea9f43e9fef0b9d0cc143e8554a57858,Mega Charizard Y ex - 022/217,ME: Ascended Heroes,ASC,24541,Double Rare,Fire,022/217
+pk_f2d2b55cce81dba7b3bad6f2371e9d354b71c2b807bfb3e3cf341842e9d0a92455f33a84194cf2fa85a4b0b4776f,Chikorita,ME: Ascended Heroes,ASC,24541,Common,Grass,008/217
 pk_93af3abfdb7ab5e473d776e5a3a9e64eac1b9f29ada2d6bbc5971ad554762758a164fa430ce486e42927b3033ba1e8de,Lillie's Clefairy ex - 280/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Psychic,280/217
 pk_e677e6be79b2c54977446c23489372fa0cbdc0f7d99b7a5a6f7e668eeb72ddf7c69bb0be036357b0718b5bc315da021b,Weavile - 228/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Water,228/217
+pk_a41a9b88285d15c9e3668f2ebc2de61ad6bd6f8d2bba976ceb870a53a75910621fdaa87579556ce5d1f85535bea67d9d,Mega Charizard Y ex - 294/217,ME: Ascended Heroes,ASC,24541,Mega Hyper Rare,Fire,294/217
 pk_4b04586626cd940e7003820a178fab7e3eb54e2588d7342f22bec995afec5e3fca33869531f5d335dd40b4340f9c1f53,Ethan's Magcargo - 222/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Fire,222/217
+pk_dcd4a1d160e12ec8c1661ac7bb9e58b5644568914e89563b4ce03a354915bf63da675273bf6417eb74754f381914,Erika's Weepinbell,ME: Ascended Heroes,ASC,24541,Uncommon,Grass,005/217
 pk_4ea4715f607b2fabe997416129cb5f4fa9a83ff5d4c3d4feacfcabc25bb9f41aadb3e353cea93180da214d0b0218ada4,Galarian Obstagoon - 245/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Darkness,245/217
+pk_f6c92e41eea45aba286665b05e7541b776b65f40feda178bee12d728597e2b10b75d0c278ae40ce4ef16de7172d2ed,Mega Meganium ex - 010/217,ME: Ascended Heroes,ASC,24541,Double Rare,Grass,010/217
+pk_f00bf1e643b72a40c4b64c77206aed8389d202dfe9e1f055ab8619bd93572cc47aa10830d0a5bdf45613fd5c8c1803,Wurmple,ME: Ascended Heroes,ASC,24541,Common,Grass,011/217
+pk_901938c6ae8b8e9226d0421901eacd52e83c701fe867baa00e84fcfc948a27a3956cf5d35e9c89a09595d7cf2e965b,Grubbin,ME: Ascended Heroes,ASC,24541,Common,Grass,017/217
 pk_5a6dcd48eab70c44c4f9fbf0319520b37b50d46ec7c2dfb41f557f9a5330f1be30f043c0ad23977f5d54a70a5b81708d,Ultra Ball - 264/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,264/217
 pk_8f8439d6a2288ec9c55d86701116564a69f72ed1cd3981a9d6c6d3069c7c61789808266a93149fb4772c97f9eac256fc,Drakloak - 248/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Dragon,248/217
 pk_9269fbbbe278f9a5dc5b3243bc6402dabe74df45cf1b2841134e39d8ad2040d75ad950b1f720710706b9448292f6059e,Pikachu ex - 276/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Lightning,276/217
 pk_1c812fed25a3244a335be91aa1b1519c2020a82b5e7e52f58489ac1f4eaccaa63e6a420514f629ed80478631834ee65e,Pikachu ex - 277/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Lightning,277/217
 pk_de930368a28e0300d3cdf67fc12d8c245463c78afc805cc6767bf3a3d57edd9ce4beb3579fd53e4d646af06d2f672a6f,Carbink - 242/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Fighting,242/217
+pk_07d24d95535c1583c526b76ae1d94ee8cc220b891cfd71b6714030baca5d6054ac6f73a589efc26460fa0856da2c7cbb,Iris's Fighting Spirit - 292/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,,292/217
+pk_950f140af2c6299be6193f7ac4dfb5c6a4239210269f8f7898133ab84ea25c051f34dce6701c3b6dca8e23127a98b4,Cinderace ex,ME: Ascended Heroes,ASC,24541,Double Rare,Fire,038/217
+pk_71fa55acf87240caced3df3fa625f0438892954283830ff9078767e9976826cb1363a6daf12d6345395f30dd3b39dc,Tepig,ME: Ascended Heroes,ASC,24541,Common,Fire,029/217
+pk_05f14161d552c5b7ac013b95f7916bd3f788749156005e2112ae6e777f67b42d6ffbf3a616d6cf4f4e31cf48658231,Salazzle - 035/217,ME: Ascended Heroes,ASC,24541,Uncommon,Fire,035/217
 pk_ebd87e95de885a8e9e2b4f52c206730d9dac0d0b0fc6d773f3265739e24710d9d67077902a200b20da402f1c637d71b9,Scorbunny - 225/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Fire,225/217
 pk_92b18bb3dd40357b54806b285d5e46509cb41027af7492b92a64618f0b59174bf646995afd2c71445d255a15a266d2a1,Dustox - 220/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Grass,220/217
+pk_4e48695433f561efaf2d9eff704c21a233b99b1de17d3b2feead88af0ca3ce905cb97f0c26fc614891244261618062,Croconaw,ME: Ascended Heroes,ASC,24541,Uncommon,Water,042/217
 pk_65a5bd89da2e356f07ec827be8c1387eb88423fb5ba6aa71e423748c98eddd995aa195aca641be7509a15458932be9b4,Togekiss - 235/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Psychic,235/217
 pk_af4c66540e05afe85f1efb98cb9d1565b7517e55156edd2218bde14652fd0175642d87745d81661b9514744ef8da2605,Mega Eelektross ex - 266/217,ME: Ascended Heroes,ASC,24541,Mega Attack Rare,Lightning,266/217
 pk_9066ddb21c4fd0958e446180c1b3caf93c5b4fd8633bc808b077f1da04973b19858bd033d8b41ef03ec2ae6676bd3bb4,Sprigatito ex,ME: Ascended Heroes,ASC,24541,Ultra Rare,Grass,251/217
@@ -57,19 +93,34 @@ pk_3cfc493bb9052f00218d1850069c400ca2c16e897047bb933f476692d431063ad07c47a31c1e1
 pk_8dff2d3e5e1427d807a5e1a100a7b3f182860cd8f469a90f2e9f6841560f8e57ea3510b46e0b415724ca0cae8186ee5e,Steven's Metagross ex,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Metal,289/217
 pk_777c84f0d9cbba67d578446ad6624a8c6f1290229df73a2754be150a359d1789de035458e87c3642fbd908d1d209244c,Stunfisk ex - 252/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,Fighting,252/217
 pk_e75d509b70d7ea3c35ad24532cfd13dd85cb1f311f5c14b1f1da3ec0bbc47e88ff2c8d6f2d8fccd2c26ed30d7b4049d9,Heliolisk - 229/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Lightning,229/217
+pk_b93c7df43e629fccaea033bafbfcfdcb93e065fa39ec72d6664061ac321720c3d536dba5f9ccfb09d2b5b569030c49,Ethan's Slugma,ME: Ascended Heroes,ASC,24541,Common,Fire,023/217
 pk_ce164ac1caf190e343be008115f2268b7e28d45767f91459e8448605d9b7e057cb5d7eceaaf31af6101efbda137baaef,Mega Gengar ex - 269/217,ME: Ascended Heroes,ASC,24541,Mega Attack Rare,Darkness,269/217
 pk_70bc18c160c471b6fedb592c77d6cbea18a10560ec28ff213e08117353251278481ee5b0d8da7e0a5fe77da634f7c218,Marill - 232/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Psychic,232/217
 pk_e17e5186bdf112213d38b6fd678a8188f6f4c01873edb7ca957c8a45141f6b66af50133837709570908f5e3e3e7df19b,Mega Feraligatr ex - 274/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Water,274/217
+pk_c5ebce33fa78744a32584aad186a41be7d6a03a132f7342b66cba04ba6734d4d843a22977e789a539d531e86ea60c7,Salandit,ME: Ascended Heroes,ASC,24541,Common,Fire,034/217
 pk_8fa6d0d3e74ba95b16557d851c65e3fff97c8e0d7207f6de5e34dc00968fb67085d797ec74266ee935754538cc227521,Budew - 221/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Grass,221/217
 pk_de3d2fe727a8648b8875f2fb88dc9bd7bde70915ee19430d14c3d7b8b2696a8f1e0349fcbcc2e9a9314109120ff3907d,Mega Hawlucha ex - 283/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Fighting,283/217
 pk_48693b13e35bab23f044cd19e90995ba3bc10ecf4731f5fef2a6318d96daa81094ee00169746b74f1a859c80e672fcd3,Team Rocket's Mewtwo ex - 281/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Psychic,281/217
 pk_4dc961f91a6289b1308782a7e5aaec0c0321586fdc00abe6697a0e15abb3a014aede14c1ebd5f70bfd45a8f179467359,Medicham - 241/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Fighting,241/217
+pk_80f601591d343674ef74918f6ee44cfbe8e623ce6c6d96cf690fb53a175f73e77bee40e8da4ebbcd30ce91381ac7,Erika's Tangela - 007/217,ME: Ascended Heroes,ASC,24541,Common,Grass,007/217
 pk_344cfbbec3e46c461a0f28168542f0fa809beefa28eaa9df8a685edd8f6045a5c4e8625c2075d1e586e65605e752559d,Iono's Bellibolt ex - 279/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Lightning,279/217
+pk_ca2f68e1eb9404dc973771ede01e59b0a3d0076e162adbf153537f6f9cd6e3d299a71b9bf01132f83baf60508fcd,Bayleef,ME: Ascended Heroes,ASC,24541,Uncommon,Grass,009/217
+pk_5d523e9796a3c70402080558ddc2ca56935011353d59bd319a33292291221f871e8850e9f66cbeeb2e56141d8564c3,Cascoon,ME: Ascended Heroes,ASC,24541,Common,Grass,014/217
 pk_ca69ea2b6e47ade4db5beb623bc440d9d9a06525085eade3e2d2c17a7cdfe3fd75bfed603aaa488bcf2704c5728fc82b,Team Rocket's Mimikyu - 238/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Psychic,238/217
 pk_dddef630d818ca7eea0a23d3d079b9cf4c8799323028892c8548e7b1266e99d613deac6ae92ba7183363d03d968311ed,Anthea & Concordia - 254/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,254/217
+pk_3c58f2dd54c1040173db5de5886c18021ccd69e784a52692a3b57a298338b2b3c095117bd2db0a37222040eb38d0de,Team Rocket's Tarountula,ME: Ascended Heroes,ASC,24541,Common,Grass,018/217
 pk_b2d934f07b2b68a1b4695191c6236420bb292527141643e70c089a1133fc5c3f72d434352399d9d217df1bb077dede50,Psyduck - 226/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Water,226/217
+pk_ccdb13d56f18dd4a5eb71655489427af43ce2c49bce25b00e03f9ed4de8056c80e8c133b0b2043d45a84a368e1a0,Erika's Vileplume ex,ME: Ascended Heroes,ASC,24541,Double Rare,Grass,003/217
 pk_24fc694fed794c67d8e5ad4e54927f949162c409011efe49cfd879a1988101404e2aefb257c2ae9477be2fb38c2dc923,Hop's Trevenant - 237/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Psychic,237/217
+pk_69199194dd0e1d1ae7ac75fb8dc2f9118b60c78c5cdf2fe8905bd06a9deb5c137db3f655b43d46edb9da8571a6b52b84,Buddy-Buddy Poffin,ME: Ascended Heroes,ASC,24541,Common,,184/217
+pk_ebf2fa9ffc3a19e83b08e05e063f18e494811650b9867308e95e2c3464d5724f8e34b9b9517d0e0bc732e7045502,Erika's Victreebel,ME: Ascended Heroes,ASC,24541,Rare,Grass,006/217
+pk_03edd70695037cf1d5d3207ab33b36c8109506da49f57534778d09423aa111886aaf32ebc0ee16782fddae709be40d,Silcoon,ME: Ascended Heroes,ASC,24541,Common,Grass,012/217
+pk_17f9e7d11c52aca6c949f6123ec37f6b8728303c6f54ee343d10e3cb5fa869fd2cb5217433dc8643b60663b963f075,Pignite,ME: Ascended Heroes,ASC,24541,Uncommon,Fire,030/217
+pk_b9c2b1beadf2a1fc0bfbcbdc0e49c1a9516b0354f98de13757474a18b55acf282cbd1760ea41b03c4242166c305d41,Camerupt,ME: Ascended Heroes,ASC,24541,Uncommon,Fire,028/217
+pk_4fba2665af1e436480e3732114d4b367c9fbff99a2194a668c59cd49eebed5ddd8298dfc4332a454b00550a35a7840,N's Darumaka,ME: Ascended Heroes,ASC,24541,Common,Fire,032/217
 pk_ee39d9bf0cb4a83327fba9b197f75af2fb9c0bf65c20d3c97932e90ed028d7de21902183b16361a4ee096ba61bce74bd,Hitmontop - 240/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Fighting,240/217
 pk_445342b5ba53f8c45bdde8fafb142ae8ff51019bcb8d0bfc74103f42e4550ab5d9a5136a0f8d2916d3ea8bc2b3b00ac9,Glass Trumpet - 260/217,ME: Ascended Heroes,ASC,24541,Ultra Rare,,260/217
 pk_f442dc524ab003168b0c13b6a3e0921f6695ca139ec1b65b020c6d7f88b490f500d780032e7071ae4143580cabc06239,Numel - 223/217,ME: Ascended Heroes,ASC,24541,Illustration Rare,Fire,223/217
+pk_9f9611586d4d31e3743ed3926afe7fc0df1553d0565936a0c2108287ab01cbed03bc37508d8c005fe4742fd6bb22,Erika's Bellsprout,ME: Ascended Heroes,ASC,24541,Common,Grass,004/217
 pk_8fbea73dc7527f33541938203c838cc490f5f3481a7313910749d05a57a1fc65ae34fdf78c787d0aa75c89f28e27cb72,Mega Dragonite ex - 290/217,ME: Ascended Heroes,ASC,24541,Special Illustration Rare,Dragon,290/217
+pk_82269be33bc0ca3cc3a14765ef3b1455fb7d6cf096dfa7caa07ccd3b8149cdc4f71e20e51598eaf84c42bd775d305b,Dustox - 015/217,ME: Ascended Heroes,ASC,24541,Uncommon,Grass,015/217

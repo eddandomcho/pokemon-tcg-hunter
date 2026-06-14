@@ -1,0 +1,81 @@
+{
+  "query": "24587 012",
+  "results": [
+    {
+      "id": "pk_a244b55e332501fe1cc5cf6ed056ee7f7e986df1a0df2c75f87bb134f62969919a7ee81bd52fc220a0b4d43177bcca",
+      "card_info": {
+        "name": "Decidueye ex - 012/088",
+        "clean_name": "Decidueye ex",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "012/088",
+        "rarity": "Double Rare",
+        "card_type": "Grass",
+        "hp": "320.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[GCCC] Crushing Arrow (240)<br> Discard an Energy from your opponent's Active Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.08,
+            "mid_price": 0.6,
+            "high_price": 4321,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.53,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684370"
+      },
+      "cardmarket": {
+        "product_name": "Decidueye ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.53,
+            "low": 0.02,
+            "avg1": 0.46,
+            "avg7": 0.53,
+            "avg30": 0.52,
+            "trend": 0.53,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Decidueye-ex-V1-POR012"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

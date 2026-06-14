@@ -1,0 +1,81 @@
+{
+  "query": "24587 031",
+  "results": [
+    {
+      "id": "pk_74f9c50a004bc6a8b039079fd4d09ca30c602be97d6e65525676b8e70610e936c93d53111a85e6d61f010af9476288",
+      "card_info": {
+        "name": "Mega Clefable ex - 031/088",
+        "clean_name": "Mega Clefable ex",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "031/088",
+        "rarity": "Double Rare",
+        "card_type": "Psychic",
+        "hp": "320.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PP] Shooting Moons (120+)<br> You may discard up to 4 Energy cards from your hand, and this attack does 40 more damage for each card you discarded in this way."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 0.75,
+            "high_price": 4321,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.67,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684383"
+      },
+      "cardmarket": {
+        "product_name": "Mega Clefable ex",
+        "prices": [
+          {
+            "avg": 0.65,
+            "low": 0.1,
+            "avg1": 0.61,
+            "avg7": 0.63,
+            "avg30": 0.65,
+            "trend": 0.66,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Mega-Clefable-ex-V1-POR031"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

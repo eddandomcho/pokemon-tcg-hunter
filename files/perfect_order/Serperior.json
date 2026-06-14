@@ -1,0 +1,91 @@
+{
+  "query": "24587 006",
+  "results": [
+    {
+      "id": "pk_cc147a348f1131b57dec81b88e222a90cc7e6dcc1a58bf21c1bda146be5fe70fd588f83c51111cd7d40e0b2cbf83",
+      "card_info": {
+        "name": "Serperior",
+        "clean_name": "Serperior",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "006/088",
+        "rarity": "Rare",
+        "card_type": "Grass",
+        "hp": "160.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[G] Regal Command (20x)<br> This attack does 20 damage for each of your Pokémon in play.",
+          "[GGG] Solar Coiling (100+)<br> If Rosa's Encouragement is in your discard pile, this attack does 150 more damage."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.13,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 20,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.22,
+            "direct_low_price": 0.22,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684402"
+      },
+      "cardmarket": {
+        "product_name": "Serperior",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.05,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.16,
+            "avg7": 0.12,
+            "avg30": 0.12,
+            "trend": 0.11,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Serperior-POR006"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "query": "24587 036",
+  "results": [
+    {
+      "id": "pk_4be8c2bd7b1e5fe6aedfba5b8c4c4d27776e858296ff1dd13aae528c5a6436544eb067d6bd5b4db4dc6ab98d8fcbf4",
+      "card_info": {
+        "name": "Aromatisse",
+        "clean_name": "Aromatisse",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "036/088",
+        "rarity": "Uncommon",
+        "card_type": "Psychic",
+        "hp": "120.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[PC] Draining Kiss (50)<br> Heal 30 damage from this Pokémon."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.24,
+            "direct_low_price": 0.21,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.14,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.08,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684421"
+      },
+      "cardmarket": {
+        "product_name": "Aromatisse",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.04,
+            "avg7": 0.03,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.15,
+            "avg7": 0.08,
+            "avg30": 0.1,
+            "trend": 0.08,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Aromatisse-POR036"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

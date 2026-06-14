@@ -1,0 +1,91 @@
+{
+  "query": "24587 011",
+  "results": [
+    {
+      "id": "pk_1f954ec9ba7897961196a52e7a3409bf4b561b8275daa9aafa0bfcb630a1d723c7a930e520de17f75403500b20309a",
+      "card_info": {
+        "name": "Dartrix",
+        "clean_name": "Dartrix",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "011/088",
+        "rarity": "Common",
+        "card_type": "Grass",
+        "hp": "100.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Leafage (20)",
+          "[CCC] Feather Shot<br> Discard all Energy from this Pokémon, and this attack does 90 damage to 1 of your opponent's Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.22,
+            "direct_low_price": 0.24,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.15,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.1,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684369"
+      },
+      "cardmarket": {
+        "product_name": "Dartrix",
+        "prices": [
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.14,
+            "avg7": 0.1,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.04,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Dartrix-POR011"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -20,6 +20,7 @@ def fetch_card_info(query):
     )
 
     result = response.json()
+
     card_info = result["results"][0]["card_info"]
     return(card_info)
 
@@ -35,3 +36,15 @@ def extract_card_rarity(card_number):
     print(rarity)
     return(rarity)
 
+
+def extract_set_code(card_number):
+    card_info = fetch_card_info(card_number)
+    set_code = card_info["set_code"]
+    print(set_code)
+    return(set_code)
+
+def extract_set_id(card_number):
+    card_info = fetch_card_info(card_number)
+    set_id = card_info["set_id"]
+    print(set_id)
+    return(set_id)

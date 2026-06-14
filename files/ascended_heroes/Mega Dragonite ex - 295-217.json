@@ -1,0 +1,79 @@
+{
+  "query": "24541 295",
+  "results": [
+    {
+      "id": "pk_3a69cbd6e8a7516b998ccbed202550a560abce0136410052578305f73282df3be4d2379b5dd98aa04e67db319c825fa9",
+      "card_info": {
+        "name": "Mega Dragonite ex - 295/217",
+        "clean_name": "Mega Dragonite ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "295/217",
+        "rarity": "Mega Hyper Rare",
+        "card_type": "Dragon",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 291.25,
+            "mid_price": 339.99,
+            "high_price": 1249.99,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 331.59,
+            "direct_low_price": 330,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676107"
+      },
+      "cardmarket": {
+        "product_name": "Mega Dragonite ex",
+        "prices": [
+          {
+            "avg": 182.63,
+            "low": 130,
+            "avg1": 219.99,
+            "avg7": 180.54,
+            "avg30": 184.51,
+            "trend": 182.34,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Dragonite-ex-V4-ASC295"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

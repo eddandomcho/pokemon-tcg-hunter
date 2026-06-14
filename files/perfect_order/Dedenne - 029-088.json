@@ -1,0 +1,91 @@
+{
+  "query": "24587 029",
+  "results": [
+    {
+      "id": "pk_7efecc4bd896ede39741ee19cd9408d90a91d471f7250df9399e233ddb514b9b801665a336edc4efb4db05c8d471ac",
+      "card_info": {
+        "name": "Dedenne - 029/088",
+        "clean_name": "Dedenne",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "029/088",
+        "rarity": "Common",
+        "card_type": "Lightning",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[L] Tail Generator<br> Choose Basic Lightning Energy cards from your discard pile up to the amount of Energy attached to all of your opponent's Pokémon and attach them to your Lightning Pokémon in any way you like.",
+          "[LC] Thunder Shock (30)<br> Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.23,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.26,
+            "direct_low_price": 0.2,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.14,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.05,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684412"
+      },
+      "cardmarket": {
+        "product_name": "Dedenne",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.04,
+            "avg30": 0.03,
+            "trend": 0.04,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.07,
+            "avg7": 0.09,
+            "avg30": 0.09,
+            "trend": 0.1,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Dedenne-V1-POR029"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

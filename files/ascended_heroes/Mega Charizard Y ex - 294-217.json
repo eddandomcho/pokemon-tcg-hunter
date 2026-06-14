@@ -1,0 +1,79 @@
+{
+  "query": "24541 294",
+  "results": [
+    {
+      "id": "pk_a41a9b88285d15c9e3668f2ebc2de61ad6bd6f8d2bba976ceb870a53a75910621fdaa87579556ce5d1f85535bea67d9d",
+      "card_info": {
+        "name": "Mega Charizard Y ex - 294/217",
+        "clean_name": "Mega Charizard Y ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "294/217",
+        "rarity": "Mega Hyper Rare",
+        "card_type": "Fire",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 514.86,
+            "mid_price": 675.04,
+            "high_price": 4499.56,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 643.1,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/676106"
+      },
+      "cardmarket": {
+        "product_name": "Mega Charizard Y ex",
+        "prices": [
+          {
+            "avg": 376.27,
+            "low": 250,
+            "avg1": 294.99,
+            "avg7": 441.95,
+            "avg30": 365.26,
+            "trend": 357.56,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Charizard-Y-ex-V2-ASC294"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

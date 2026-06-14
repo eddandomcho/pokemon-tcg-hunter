@@ -1,0 +1,79 @@
+{
+  "query": "24541 026",
+  "results": [
+    {
+      "id": "pk_d2199e3d534e8016e5b82f1019133f40f101df60e92d5792604584a815226f1f344439a9c7818b1d2ed99d09fcfd32",
+      "card_info": {
+        "name": "Ethan's Ho-Oh ex",
+        "clean_name": "Ethans Ho Oh ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "026/217",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.37,
+            "mid_price": 0.78,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 0.65,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675838"
+      },
+      "cardmarket": {
+        "product_name": "Ethan's Ho-Oh ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 0.78,
+            "low": 0.04,
+            "avg1": 0.77,
+            "avg7": 0.8,
+            "avg30": 0.76,
+            "trend": 0.79,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Ethans-Ho-Oh-ex-ASC026"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

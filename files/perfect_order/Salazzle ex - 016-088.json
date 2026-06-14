@@ -1,0 +1,82 @@
+{
+  "query": "24587 016",
+  "results": [
+    {
+      "id": "pk_41b2a87942d88e9a4d7fc32f6a59b16e0d444a1f19c0784fd744306c4efd7a95d6b3a841bc070259563686ba66c668",
+      "card_info": {
+        "name": "Salazzle ex - 016/088",
+        "clean_name": "Salazzle ex",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "016/088",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "hp": "260.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[R] Nasty Plot<br> Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+          "[RR] Dire Nails (100)<br> Your opponent's Active Pokémon is now Burned and Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        ],
+        "weakness": "Wx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.05,
+            "mid_price": 0.51,
+            "high_price": 4321,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.4,
+            "direct_low_price": 0.5,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684376"
+      },
+      "cardmarket": {
+        "product_name": "Salazzle ex",
+        "prices": [
+          {
+            "avg": 0.39,
+            "low": 0.02,
+            "avg1": 0.35,
+            "avg7": 0.38,
+            "avg30": 0.39,
+            "trend": 0.37,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Salazzle-ex-V1-POR016"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "query": "24541 022",
+  "results": [
+    {
+      "id": "pk_6f702bf76de958152713f8a9010e822f4e11f7a012561cdb1fe03e5e4aacdaea9f43e9fef0b9d0cc143e8554a57858",
+      "card_info": {
+        "name": "Mega Charizard Y ex - 022/217",
+        "clean_name": "Mega Charizard Y ex",
+        "set_name": "ME: Ascended Heroes",
+        "set_code": "ASC",
+        "set_id": "24541",
+        "card_number": "022/217",
+        "rarity": "Double Rare",
+        "card_type": "Fire",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 7.99,
+            "mid_price": 9.41,
+            "high_price": 4321,
+            "updated_at": "2026-06-13T08:16:22.643322",
+            "market_price": 8.84,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/675834"
+      },
+      "cardmarket": {
+        "product_name": "Mega Charizard Y ex",
+        "prices": [
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "holo"
+          },
+          {
+            "avg": 5.03,
+            "low": 1.8,
+            "avg1": 5.13,
+            "avg7": 5,
+            "avg30": 4.99,
+            "trend": 4.9,
+            "updated_at": "2026-06-13T07:53:19.767457",
+            "variant_type": "normal"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Ascended-Heroes/Mega-Charizard-Y-ex-V1-ASC022"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

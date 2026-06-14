@@ -1,0 +1,82 @@
+{
+  "query": "24587 021",
+  "results": [
+    {
+      "id": "pk_24eb8807032aac1a291633037f3c6909bca40e323fe87fcc3a2f5418977b2c9dc071414ab043243cd59f5b0da9e103",
+      "card_info": {
+        "name": "Mega Starmie ex - 021/088",
+        "clean_name": "Mega Starmie ex",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "021/088",
+        "rarity": "Double Rare",
+        "card_type": "Water",
+        "hp": "330.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[W] Jetting Blow (120)<br> This attack also does 50 damage to 1 of your opponent's Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[CCC] Nebula Beam (210)<br> This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.2,
+            "mid_price": 1,
+            "high_price": 4321,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 1.04,
+            "direct_low_price": 1,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684360"
+      },
+      "cardmarket": {
+        "product_name": "Mega Starmie ex",
+        "prices": [
+          {
+            "avg": 1.43,
+            "low": 0.2,
+            "avg1": 1.37,
+            "avg7": 1.36,
+            "avg30": 1.41,
+            "trend": 1.41,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Mega-Starmie-ex-V1-POR021"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

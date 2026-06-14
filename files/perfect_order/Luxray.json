@@ -1,0 +1,91 @@
+{
+  "query": "24587 028",
+  "results": [
+    {
+      "id": "pk_f4ca10876c3c7ef63401428336cdf384ac042952d8b7547fd3cf41849bdf9348d41ba519a44e2aa4f8391092e70dc1",
+      "card_info": {
+        "name": "Luxray",
+        "clean_name": "Luxray",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "028/088",
+        "rarity": "Rare",
+        "card_type": "Lightning",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[LC] Incessant Onslaught (70x)<br> This attack does 70 damage for each Prize card you have taken.",
+          "[LLC] Strong Volt (200)<br> Discard 2 Energy from this Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "0.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.02,
+            "mid_price": 0.25,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.3,
+            "direct_low_price": 0.26,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.13,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684411"
+      },
+      "cardmarket": {
+        "product_name": "Luxray",
+        "prices": [
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.1,
+            "avg7": 0.05,
+            "avg30": 0.05,
+            "trend": 0.06,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.1,
+            "avg30": 0.11,
+            "trend": 0.1,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Luxray-POR028"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

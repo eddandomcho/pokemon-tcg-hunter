@@ -1,0 +1,90 @@
+{
+  "query": "24587 019",
+  "results": [
+    {
+      "id": "pk_1465f56333a12980808eda98d61d85b73485fbb29a05714c42a2a83c59208eefcdb84832e8d5e985d5016b5b818c93",
+      "card_info": {
+        "name": "Dewgong",
+        "clean_name": "Dewgong",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "019/088",
+        "rarity": "Rare",
+        "card_type": "Water",
+        "hp": "130.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[WW] Wave Splash (60)"
+        ],
+        "weakness": "Lx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.16,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.13,
+            "direct_low_price": 0.05,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.25,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.28,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684373"
+      },
+      "cardmarket": {
+        "product_name": "Dewgong",
+        "prices": [
+          {
+            "avg": 0.06,
+            "low": 0.02,
+            "avg1": 0.12,
+            "avg7": 0.06,
+            "avg30": 0.05,
+            "trend": 0.06,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.12,
+            "low": 0.02,
+            "avg1": 0.09,
+            "avg7": 0.09,
+            "avg30": 0.11,
+            "trend": 0.08,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Dewgong-POR019"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

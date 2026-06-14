@@ -1,7 +1,5 @@
-import json
 from models import compile as c
 import pandas as pd
-from models import save_card_json as scj
 
 def normalize_card_info():
 

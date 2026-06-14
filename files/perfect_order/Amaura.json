@@ -1,0 +1,90 @@
+{
+  "query": "24587 023",
+  "results": [
+    {
+      "id": "pk_f7dfb69c8c36abb96cc2e384e9fffffc0e13e0629e5b1f942587114bcf0383bca931b8cd57911643da176b43b829ef",
+      "card_info": {
+        "name": "Amaura",
+        "clean_name": "Amaura",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "023/088",
+        "rarity": "Common",
+        "card_type": "Water",
+        "hp": "100.0",
+        "stage": null,
+        "card_text": null,
+        "attacks": [
+          "[WC] Icy Wind (50)<br> Your opponent's Active Pokémon is now Asleep."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.24,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.24,
+            "direct_low_price": 0.23,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.2,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.15,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684355"
+      },
+      "cardmarket": {
+        "product_name": "Amaura",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.04,
+            "avg30": 0.04,
+            "trend": 0.04,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.1,
+            "low": 0.02,
+            "avg1": 0.17,
+            "avg7": 0.11,
+            "avg30": 0.11,
+            "trend": 0.11,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Amaura-POR023"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

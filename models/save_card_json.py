@@ -50,3 +50,13 @@ def write_card_json(query):
         json.dump(result, f, ensure_ascii=False, indent=2)
         print(f"Saved data to files/ascended_heroes/{eng_name}.json")
 
+def write_card_json_custom_folder(query, folder_name):
+    result = fetch_card_json(query)
+    eng_name = qci.fetch_card_info(query)["name"]
+    eng_name = eng_name.replace("/", "-")
+
+    file_path = f"files/{folder_name}/{eng_name}.json"
+
+    with open(file_path, mode = "w", encoding = "utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+        print(f"Saved data to {file_path}!")

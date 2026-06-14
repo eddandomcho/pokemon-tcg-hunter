@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("files/normalized_files/ascended_heroes_normalized.csv")
+df = pd.read_csv("files/normalized_files/perfect_order_normalized.csv")
 
 new_df = df[["results_id"
                       , "results_card_info_name"
@@ -22,8 +22,6 @@ new_df.rename(columns = {
     , "results_card_info_card_number" : "card_number"
 }, inplace = True)
 
-print(new_df[new_df.card_type.isna()])
-
 new_df.fillna({"card_type": "Trainer"}, inplace=True)
 
-new_df.to_csv("files/l0dc/l0dc_ascended_heroes_normalized.csv", index = False)
+new_df.to_csv("files/l0dc/l0dc_perfect_order_normalized.csv", index = False)

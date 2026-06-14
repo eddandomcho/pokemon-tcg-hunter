@@ -1,0 +1,90 @@
+{
+  "query": "24587 050",
+  "results": [
+    {
+      "id": "pk_17399808abb25505fa1755b8edf23f25552e9931cea7fb2ab1db04d7c57278444a98d4d208a111249a006c48a9691f",
+      "card_info": {
+        "name": "Gengar",
+        "clean_name": "Gengar",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "050/088",
+        "rarity": "Rare",
+        "card_type": "Darkness",
+        "hp": "130.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[D] Mind Jack (10+)<br> This attack does 30 more damage for each of your opponent's Benched Pokémon."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.25,
+            "mid_price": 1.02,
+            "high_price": 61,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 1.63,
+            "direct_low_price": 3.39,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.05,
+            "mid_price": 0.7,
+            "high_price": 50,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.52,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684431"
+      },
+      "cardmarket": {
+        "product_name": "Gengar",
+        "prices": [
+          {
+            "avg": 0.36,
+            "low": 0.02,
+            "avg1": 0.39,
+            "avg7": 0.31,
+            "avg30": 0.37,
+            "trend": 0.32,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.64,
+            "low": 0.02,
+            "avg1": 0.3,
+            "avg7": 0.71,
+            "avg30": 0.64,
+            "trend": 0.79,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Gengar-POR050"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

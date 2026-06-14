@@ -1,0 +1,82 @@
+{
+  "query": "24587 047",
+  "results": [
+    {
+      "id": "pk_c14fcf6422f5bf75c1519d2a64d1548f51a62bb753e996a76e03067790cb0ecd287b054e1c3d8968d5207e055de4f2",
+      "card_info": {
+        "name": "Mega Zygarde ex - 047/088",
+        "clean_name": "Mega Zygarde ex",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "047/088",
+        "rarity": "Double Rare",
+        "card_type": "Fighting",
+        "hp": "310.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[FFF] Gaia Wave (200)<br> During your opponent's next turn, this Pokémon takes 30 less damage from attacks <em>(after applying Weakness and Resistance)</em>.",
+          "[FFFFF] Nullifying Zero<br> For each of your opponent's Pokémon, flip a coin. If heads, this attack does 150 damage to that Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>"
+        ],
+        "weakness": "Gx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.14,
+            "mid_price": 0.75,
+            "high_price": 1000,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.64,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684336"
+      },
+      "cardmarket": {
+        "product_name": "Mega Zygarde ex",
+        "prices": [
+          {
+            "avg": 0.72,
+            "low": 0.24,
+            "avg1": 0.85,
+            "avg7": 0.71,
+            "avg30": 0.72,
+            "trend": 0.72,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Mega-Zygarde-ex-V1-POR047"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

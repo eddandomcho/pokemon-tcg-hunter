@@ -1,0 +1,81 @@
+{
+  "query": "24587 092",
+  "results": [
+    {
+      "id": "pk_91c6502fb0a37a79994ce1398d7b6c12b5b49a435e31f79561b783e47170bad6e098a58025b96c05008e1c1fbf4b2e",
+      "card_info": {
+        "name": "Aurorus - 092/088",
+        "clean_name": "Aurorus",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "092/088",
+        "rarity": "Shiny Rare",
+        "card_type": "Water",
+        "hp": "170.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[WWC] Freezing Chill (150)<br> During your opponent's next turn, the Defending Pokémon can't use attacks."
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.5,
+            "mid_price": 4.79,
+            "high_price": 9999,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 3.65,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684357"
+      },
+      "cardmarket": {
+        "product_name": "Aurorus",
+        "prices": [
+          {
+            "avg": 4.33,
+            "low": 2.29,
+            "avg1": 4.42,
+            "avg7": 4.47,
+            "avg30": 4.34,
+            "trend": 4.34,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Aurorus-V2-POR092"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

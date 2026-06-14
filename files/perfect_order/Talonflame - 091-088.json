@@ -1,0 +1,81 @@
+{
+  "query": "24587 091",
+  "results": [
+    {
+      "id": "pk_deffa5296cfe6a5e2ae6c12b01de5d858790a1b37d3ea6af74c434215b6627a8be63f5c7bd69f400121f6a318be017",
+      "card_info": {
+        "name": "Talonflame - 091/088",
+        "clean_name": "Talonflame",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "091/088",
+        "rarity": "Shiny Rare",
+        "card_type": "Fire",
+        "hp": "150.0",
+        "stage": "Stage 2",
+        "card_text": null,
+        "attacks": [
+          "[RR] Fire Wing (110)"
+        ],
+        "weakness": "Lx2",
+        "resistance": "F-30",
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 2,
+            "mid_price": 3.34,
+            "high_price": 4321,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 2.84,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684406"
+      },
+      "cardmarket": {
+        "product_name": "Talonflame",
+        "prices": [
+          {
+            "avg": 3.4,
+            "low": 1,
+            "avg1": 3.45,
+            "avg7": 3.41,
+            "avg30": 3.39,
+            "trend": 3.51,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Talonflame-V2-POR091"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "query": "24587 063",
+  "results": [
+    {
+      "id": "pk_be0d6db5015a206833ef26a02034e69d7678b8e97a59640c169518d4ca46c26324faeec19e55a62ecc2040d682c14f",
+      "card_info": {
+        "name": "Snorlax",
+        "clean_name": "Snorlax",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "063/088",
+        "rarity": "Common",
+        "card_type": "Colorless",
+        "hp": "160.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[C] Gormandizer<br> Flip a coin until you get tails. Search your deck for an amount of Basic Energy up to the number of heads and attach it to this Pokémon. Then, shuffle your deck.",
+          "[CCCC] Collapse (160)<br> This Pokémon is now Asleep."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.18,
+            "high_price": 999,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.13,
+            "direct_low_price": 0.09,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.29,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.29,
+            "direct_low_price": 0.4,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684440"
+      },
+      "cardmarket": {
+        "product_name": "Snorlax",
+        "prices": [
+          {
+            "avg": 0.05,
+            "low": 0.02,
+            "avg1": 0.05,
+            "avg7": 0.04,
+            "avg30": 0.05,
+            "trend": 0.04,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.15,
+            "low": 0.02,
+            "avg1": 0.13,
+            "avg7": 0.11,
+            "avg30": 0.15,
+            "trend": 0.11,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Snorlax-POR063"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

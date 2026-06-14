@@ -1,0 +1,91 @@
+{
+  "query": "24587 052",
+  "results": [
+    {
+      "id": "pk_d86e9359b1b349002036074ba38c93aafa5542c64ab2a80addd27da00525ae89bc0dd990f37b91fcb1a81542a336bf",
+      "card_info": {
+        "name": "Drapion - 052/088",
+        "clean_name": "Drapion",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "052/088",
+        "rarity": "Uncommon",
+        "card_type": "Darkness",
+        "hp": "140.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[DD] Wrack Down (60)",
+          "[DDD] Hazardous Tail (100)<br> This Pokémon also does 70 damage to itself. Your opponent's Active Pokémon is now Paralyzed and Poisoned."
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.21,
+            "direct_low_price": 0.18,
+            "sub_type_name": "Reverse Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 10000,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.08,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684433"
+      },
+      "cardmarket": {
+        "product_name": "Drapion",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.03,
+            "avg7": 0.02,
+            "avg30": 0.03,
+            "trend": 0.03,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.13,
+            "avg7": 0.08,
+            "avg30": 0.08,
+            "trend": 0.08,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Drapion-V1-POR052"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

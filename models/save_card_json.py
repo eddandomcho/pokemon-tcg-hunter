@@ -50,6 +50,8 @@ def write_card_json(query):
         json.dump(result, f, ensure_ascii=False, indent=2)
         print(f"Saved data to files/ascended_heroes/{eng_name}.json")
 
+# Have to update with pathlib and P
+
 def write_card_json_custom_folder(query, folder_name):
     result = fetch_card_json(query)
     eng_name = qci.fetch_card_info(query)["name"]

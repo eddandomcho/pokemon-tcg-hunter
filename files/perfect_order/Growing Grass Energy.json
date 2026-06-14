@@ -1,0 +1,63 @@
+{
+  "query": "24587 086",
+  "results": [
+    {
+      "id": "pk_9a125eb7420cf16677c79c7c0983927875f35a0ed55c3370b558422e4b41f9d2ebacd2b360ef62c01f39e5cd100843",
+      "card_info": {
+        "name": "Growing Grass Energy",
+        "clean_name": "Growing Grass Energy",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "086/088",
+        "rarity": "Rare",
+        "card_type": "Special Grass Energy",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.22,
+            "high_price": 45,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.2,
+            "direct_low_price": 0.25,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.02,
+            "mid_price": 0.27,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.23,
+            "direct_low_price": null,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684375"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

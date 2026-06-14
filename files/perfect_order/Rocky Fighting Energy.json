@@ -1,0 +1,63 @@
+{
+  "query": "24587 087",
+  "results": [
+    {
+      "id": "pk_b56de80e7d29a46e79de0ad04d52d48beae3ec7c121100a57ba696a879270a6eebe48390cd2a47afedd141d1dacdf1",
+      "card_info": {
+        "name": "Rocky Fighting Energy",
+        "clean_name": "Rocky Fighting Energy",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "087/088",
+        "rarity": "Rare",
+        "card_type": "Special Fighting Energy",
+        "hp": null,
+        "stage": null,
+        "card_text": null,
+        "attacks": [],
+        "weakness": null,
+        "resistance": null,
+        "retreat_cost": null
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.26,
+            "high_price": 19.98,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.22,
+            "direct_low_price": 0.4,
+            "sub_type_name": "Holofoil"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.3,
+            "high_price": 17.19,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.25,
+            "direct_low_price": 0.27,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684350"
+      },
+      "cardmarket": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 0,
+    "tcg_only": 1,
+    "cardmarket_only": 0,
+    "both_sources": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "query": "24587 094",
+  "results": [
+    {
+      "id": "pk_32d70a888d83b56d91d5a244f43cd232b319c4b8ef67b0db33754e585c8da1227b5fd6831d08cc4f2794ca47ab67cd",
+      "card_info": {
+        "name": "Clefairy - 094/088",
+        "clean_name": "Clefairy",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "094/088",
+        "rarity": "Shiny Rare",
+        "card_type": "Psychic",
+        "hp": "70.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[P] Follow Me<br> Switch in 1 of your opponent's Benched Pokémon to the Active Spot.",
+          "[PP] Flop (30)"
+        ],
+        "weakness": "Mx2",
+        "resistance": null,
+        "retreat_cost": "1.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 25,
+            "mid_price": 32.74,
+            "high_price": 4321,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 27.31,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684415"
+      },
+      "cardmarket": {
+        "product_name": "Clefairy",
+        "prices": [
+          {
+            "avg": 23.73,
+            "low": 11.8,
+            "avg1": 27.9,
+            "avg7": 24.9,
+            "avg30": 23.77,
+            "trend": 24.47,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Clefairy-V2-POR094"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

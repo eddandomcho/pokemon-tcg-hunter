@@ -1,0 +1,82 @@
+{
+  "query": "24587 090",
+  "results": [
+    {
+      "id": "pk_d0ce5eb8fea1ae2a55885264b273b0e41a162e1287a1f55f3f6f82009f8273bccc8cbde6d74fe2306f56406916dde7",
+      "card_info": {
+        "name": "Rowlet - 090/088",
+        "clean_name": "Rowlet",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "090/088",
+        "rarity": "Shiny Rare",
+        "card_type": "Grass",
+        "hp": "80.0",
+        "stage": "Basic",
+        "card_text": null,
+        "attacks": [
+          "[G] Find a Friend<br> Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "[CCC] Tackle (30)"
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "2.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 5.5,
+            "mid_price": 7.25,
+            "high_price": 90,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 7.14,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684368"
+      },
+      "cardmarket": {
+        "product_name": "Rowlet",
+        "prices": [
+          {
+            "avg": 5.75,
+            "low": 3,
+            "avg1": 5.41,
+            "avg7": 5.93,
+            "avg30": 5.74,
+            "trend": 5.97,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Rowlet-V2-POR090"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

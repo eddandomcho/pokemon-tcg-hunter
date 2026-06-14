@@ -1,0 +1,81 @@
+{
+  "query": "24587 089",
+  "results": [
+    {
+      "id": "pk_2c30dab1b0ebcd9fb1605326250daf63d02a7e6ac441d451da18f000f54bea98884ded7c1e8554b38c0e50375f7a87",
+      "card_info": {
+        "name": "Spewpa - 089/088",
+        "clean_name": "Spewpa",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "089/088",
+        "rarity": "Shiny Rare",
+        "card_type": "Grass",
+        "hp": "80.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[G] Hide<br> Flip a coin. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon."
+        ],
+        "weakness": "Rx2",
+        "resistance": null,
+        "retreat_cost": "3.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 1.45,
+            "mid_price": 2.75,
+            "high_price": 4321,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 2.04,
+            "direct_low_price": null,
+            "sub_type_name": "Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684365"
+      },
+      "cardmarket": {
+        "product_name": "Spewpa",
+        "prices": [
+          {
+            "avg": 2.72,
+            "low": 1.5,
+            "avg1": 2.61,
+            "avg7": 2.73,
+            "avg30": 2.69,
+            "trend": 2.73,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": null,
+            "low": null,
+            "avg1": null,
+            "avg7": null,
+            "avg30": null,
+            "trend": 0,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Spewpa-V2-POR089"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}

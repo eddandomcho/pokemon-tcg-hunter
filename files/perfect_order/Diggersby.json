@@ -1,0 +1,91 @@
+{
+  "query": "24587 065",
+  "results": [
+    {
+      "id": "pk_5b8f2ab2a481a116d5108baf15393ee5f84040bc2bd9970fb3621ffa46c5cfb2efd7f456542faf8f48fdaeec5559c5",
+      "card_info": {
+        "name": "Diggersby",
+        "clean_name": "Diggersby",
+        "set_name": "ME03: Perfect Order",
+        "set_code": "POR",
+        "set_id": "24587",
+        "card_number": "065/088",
+        "rarity": "Uncommon",
+        "card_type": "Colorless",
+        "hp": "150.0",
+        "stage": "Stage 1",
+        "card_text": null,
+        "attacks": [
+          "[C] Earthquake (140)<br> This attack also does 30 damage to each of your Benched Pokémon. <em>(Don't apply Weakness and Resistance for Benched Pokémon.)</em>",
+          "[CCC] Whap Down (100)"
+        ],
+        "weakness": "Fx2",
+        "resistance": null,
+        "retreat_cost": "4.0"
+      },
+      "tcgplayer": {
+        "prices": [
+          {
+            "low_price": 0.01,
+            "mid_price": 0.12,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.04,
+            "direct_low_price": 0.01,
+            "sub_type_name": "Normal"
+          },
+          {
+            "low_price": 0.01,
+            "mid_price": 0.21,
+            "high_price": 17.7,
+            "updated_at": "2026-06-14T08:36:45.258668",
+            "market_price": 0.26,
+            "direct_low_price": 0.13,
+            "sub_type_name": "Reverse Holofoil"
+          }
+        ],
+        "url": "https://www.tcgplayer.com/product/684442"
+      },
+      "cardmarket": {
+        "product_name": "Diggersby",
+        "prices": [
+          {
+            "avg": 0.03,
+            "low": 0.02,
+            "avg1": 0.02,
+            "avg7": 0.02,
+            "avg30": 0.02,
+            "trend": 0.02,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "normal"
+          },
+          {
+            "avg": 0.09,
+            "low": 0.02,
+            "avg1": 0.06,
+            "avg7": 0.08,
+            "avg30": 0.1,
+            "trend": 0.09,
+            "updated_at": "2026-06-14T08:19:40.768659",
+            "variant_type": "holo"
+          }
+        ],
+        "product_url": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order/Diggersby-POR065"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 20,
+    "total": 1,
+    "total_pages": 1
+  },
+  "metadata": {
+    "total_count": 1,
+    "tcg": 1,
+    "cardmarket": 1,
+    "tcg_only": 0,
+    "cardmarket_only": 0,
+    "both_sources": 1
+  }
+}
